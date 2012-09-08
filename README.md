@@ -344,3 +344,17 @@ Um das Grund- und Menschenrecht der Religionsfreiheit wahrnehmen zu können, ist
 ## Novellierung des Feiertagsgesetzes
 
 Die Piraten Hessen sprechen sich für den Beibehalt aller bisherigen Feiertage bei gleichzeitiger Streichung aller Einschränkungen und Sonderregelungen aus.
+
+# Tierschutz
+
+## Tierschutz in der Nutztierhaltung
+
+Wir setzen uns für die gesetzliche Festschreibung höherer Mindeststandards in der Nutztierhaltung ein. Als erste Grundlage sollen die bisher für die Biozertifizierung festgelegten Kriterien gelten. Auf Dauer sollen die optimalen Haltungsstandards aufgrund wissenschaftlicher Grundlagen erarbeitet werden und die geltenden Regelungen sukzessiv erhöht werden.
+
+Das bestehende Tierschutzgesetz legt zwar Grundregeln fest, bietet aber einen zu weiten Interpretationsspielraum, wie z.B. "vermeidbare Leiden oder Schäden". Tiere müssen ihrer Art und ihren Bedürfnissen entsprechend angemessen ernährt, gepflegt und verhaltensgerecht untergebracht werden. Dazu gehören ausreichend Bewegungsfreiheit, Beschäftigungsmöglichkeiten und Auslauf. In Zusammenarbeit mit Tierärzten, Hygienetierärzten und Ernährungswissenschaftlern sind verbindliche Standards zur Unterbringung, Haltung und Ernährung der Tiere zu erarbeiten, deren Einhaltung kontrolliert wird. Eine Genehmigung für neu zu errichtende Anlagen konzentrierter Tierhaltung darf nur nach sorgfältiger Prüfung auf Einhaltung dieser Anforderungen erteilt werden. Bestehende Haltungen sind auf diese Anforderungen zu überprüfen.
+
+Industrielle Massentierhaltung führt in der Praxis zu unhaltbaren Zuständen. Neben dem unwürdigen Dasein der Tiere entstehen für den Verbraucher erhebliche Gefahren für die Gesundheit. Deshalb wollen wir die rechtlichen Rahmenbedingungen verbessern und transparente, ökologisch sinnvolle Prozesse etablieren.
+
+Bei Neuerrichtung von Anlagen konzentrierter Tierhaltung sind die Bürger der betroffenen Region von Anfang an zu informieren und in die Entscheidungsfindung einzubeziehen.
+
+Wir fordern hier ein konsequentes Eingreifen der Behörden bei Verstößen gegen das Tierrecht oder gegen Umwelt- und Naturschutzauflagen. Die Unabhängigkeit der Kontrolleure einhergehend mit der Befugnis zu Sanktionen bei Verstößen ist in allen Bereichen zu gewährleisten. Unangemeldete Kontrollen haben die Regel zu sein und nicht die Ausnahme.
