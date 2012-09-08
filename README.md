@@ -324,3 +324,7 @@ Die Piratenpartei Hessen regt an, dass nikotinhaltige Liquids nicht als Arzneimi
 Maßstab einer verantwortungsvollen Drogen- und Suchtpolitik müssen nachvollziehbare, auf wissenschaftlichen Erkenntnissen basierende Regelungen sein, die dem Bürger ein eigenverantwortliches Handeln ermöglichen.
 
 Die reflexartige Verbotshaltung und die Bevormundung der Verbraucher durch einzelne Gesundheitsministerien müssen ein Ende haben. Hessen bietet sich an, für den Umgang mit der E-Zigarette eine liberale Vorreiterrolle in Deutschland zu übernehmen.
+
+## Kennzeichnungspflicht
+
+Um auf die Suchtgefahr bei bestimmten Medikamenten aufmerksam zu machen, müssen die Pharmahersteller in die Pflicht genommen werden. Wie bei Zigaretten üblich, sollten vereinheitlichte Warnhinweise auf die Medikamentenverpackungen aufgedruckt werden. Aus diesen muss hervorgehen, dass es sich bei dem Medikament um eine Arznei handelt, die ein Suchtrisiko birgt. Diese Warnhinweise sollen Patienten sensibilisieren und auf die Gefahr einer Sucht hinweisen. Der Grund: Die oft sehr versteckt in der Packungsbeilage beschriebenen Hinweise werden allzu leicht nicht wahrgenommen. Darüber hinaus könnte vom Apotheker bei der Ausgabe des Medikamentes ein Informationsblatt zum Thema "Suchtgefahren bei Medikamenten" angeboten werden. Dieses soll ein Angebot mit weiteren Informationen darstellen und Hilfe beim Auffinden von geeigneten Stellen für Hilfesuchende bieten.
