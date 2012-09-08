@@ -328,3 +328,7 @@ Die reflexartige Verbotshaltung und die Bevormundung der Verbraucher durch einze
 ## Kennzeichnungspflicht
 
 Um auf die Suchtgefahr bei bestimmten Medikamenten aufmerksam zu machen, müssen die Pharmahersteller in die Pflicht genommen werden. Wie bei Zigaretten üblich, sollten vereinheitlichte Warnhinweise auf die Medikamentenverpackungen aufgedruckt werden. Aus diesen muss hervorgehen, dass es sich bei dem Medikament um eine Arznei handelt, die ein Suchtrisiko birgt. Diese Warnhinweise sollen Patienten sensibilisieren und auf die Gefahr einer Sucht hinweisen. Der Grund: Die oft sehr versteckt in der Packungsbeilage beschriebenen Hinweise werden allzu leicht nicht wahrgenommen. Darüber hinaus könnte vom Apotheker bei der Ausgabe des Medikamentes ein Informationsblatt zum Thema "Suchtgefahren bei Medikamenten" angeboten werden. Dieses soll ein Angebot mit weiteren Informationen darstellen und Hilfe beim Auffinden von geeigneten Stellen für Hilfesuchende bieten.
+
+# Trennung von Staat und Kirchen
+
+Die Piraten Hessen bekennen sich zu einem säkularen Staat, in dem die Belange von Staat und Kirchen von einander separiert sind. Dabei ist das Grundrecht auf freie Religionszugehörigkeit sowie die jeweilige Religionsausübung zu achten und zu respektieren.
