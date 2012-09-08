@@ -296,3 +296,9 @@ Durch erfolgreiche Pilotprojekte, unter anderem in Frankfurt am Main, wurde der 
 Auf Basis dieser Erfahrungen muss kontrolliert verabreichtes Diamorphin als Medikament im Rahmen einer wirksamen Therapie betrachtet und als weiterer Baustein in der Behandlung Suchtkranker etabliert werden.
 
 Die PIRATEN werden sich daher für eine Ausweitung des Diamorphin-Programmes stark machen. Das Land soll die Einrichtung entsprechend gesicherter Arztpraxen und Ambulanzen unterstützen.
+
+## Präventionsunterricht an Schulen
+
+Die Maßnahmen zur Drogenprävention an Schulen sind unzulänglich. Auch der Wissensstand des lehrenden Personals erweist sich oft als sehr gering. Einzelne Pilotprojekte haben gezeigt, wie wichtig und nachhaltig eine gute Prävention bereits im Grundschulalter ist. Jedweder Erstgebrauch, ob bei legalen oder illegalen Substanzen, nahm in den teilnehmenden Gruppen gegenüber den Vergleichsgruppen deutlich ab. Die erzielten Erkenntnisse und Erfolge tragen die Kinder wie selbstverständlich in die weiterführenden Schulen und ihren Freundeskreis. So wird für eine Multiplikation gesorgt, die Unterricht alleine kaum leisten kann.
+
+Die Hessen-Piraten regen an, auf der Basis solcher Beispiele mit Vorbildcharakter ein landesweit flächendeckendes Informations- und Aufklärungskonzept zu entwickeln. Hierbei soll besonderes Augenmerk auf einheitliches und sachliches Lehrmaterial sowie eine vorbereitende Schulung des Lehrpersonals gelegt werden. So wird an Bildungseinrichtungen ein kompetenter Unterricht ermöglicht. Auch externe Fachreferenten sollen Teil dieses Konzepts werden, um besonders in der Sekundarstufe das Wissen bei Lehrern und Schülern zu vertiefen. Grundgedanke und Ziel ist es Vorurteile gegen Wissen auszutauschen.
