@@ -179,6 +179,18 @@ Schulen sind als angebotsorientierte Ganztagsschulen von 07:00 bis 17:00 Uhr zu 
 
 Die Piraten fordern die sofortige Umsetzung der in der Behindertenrechtskonvention (BRK), die seit dem 26. März 2009 in Kraft gesetzt wurde. Alle beeinträchtigten Schüler und Schüler mit Behinderung haben das Recht auf den Besuch einer Regelschule (Inklusion). Alle Regelschulen sind somit Inklusionsschulen. Jede Klasse muss bis zu 3 beeinträchtigte Schüler aufnehmen. Jede Inklusionsklasse wird durch einen Förderlehrer unterstützt (durchgängig).
 
+An jeder Schule sind pro 100 Schüler
+
+* Schul-Sozialpädagogen
+
+* Schul-Psychologen,
+
+* Speziallehrkräfte, die nach normaler Ausbildung und längerer Schulpraxis eine intensive Ausbildung zu psychologischen Grundlagen, diagnostischer Kompetenz und einer differenzierten Methodenpalette des Förderns absolviert haben
+
+* sowie Fachkräfte mit einer Grundausbildung als Krankenpfleger / Krankenschwester mit Zusatzausbildung für vorbeugende Gesundheitsarbeit 
+
+  mit mindestens je einem Tag pro Woche einzusetzen. 
+
 # Informationsfreiheit und Transparenz
 
 Ein wesentlicher Teil der Politik der Piraten stellt die Durchsichtigkeit und Nachvollziehbarkeit politischer Vorgänge dar. Genauso wie parlamentarische Abstimmungen in aller Regel offen und für jedermann nachvollziehbar sind, müssen politische Entscheidungen für den Bürger als Souverän des Staates offen und nachvollziehbar sein. In den wesentlichen Teilen unserer Demokratie dürfen technische Hilfsmittel, die untergeordneten Zwecken dienen, demokratische Strukturen nicht beeinträchtigen. Die Piraten fordern die Rückkehr zu Techniken bei Wahlen, die den Grundsätzen des Wahlrechts genügen. Insbesondere ist die Nachprüfbarkeit von Wahlen durch Jedermann sicherzustellen, um die der indirekten Demokratie innewohnenden Einschränkungen nicht auch noch durch vermeintliche oder tatsächliche Technikfehler oder Manipulationen zu verstärken. Wir Piraten fordern einen Diskurs über die Einführung und Erprobung direkter Demokratie in Teilbereichen wie Kommunen und Gemeinden sowie organisatorischer Bereiche zum Beispiel im Bildungsbereich. 
