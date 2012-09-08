@@ -314,3 +314,13 @@ Als PIRATEN werden wir uns unserer Verantwortung stellen und den Schwarzmarkt be
 Wie vorliegende Erfahrungen mit der Entkriminalisierung aus Portugal, den Niederlanden und Tschechien zeigen, ist langfristig mit geringeren Konsumentenzahlen zu rechnen.
 
 Im Gegensatz zu den Niederlanden, wo die Coffee Shops aus illegalen Quellen kaufen müssen, hat Hessen hier eine besondere Chance auf legal angebauten Hanf durch eine bestimmte Anzahl an zertifizierten Landwirten. Hierdurch lassen sich die Vertriebswege kontrollieren und die Qualität kann überprüft werden. Der Zuschuss zur organisierten Kriminalität durch den illegalen Handel mit Cannabis wird so verdrängt werden.
+
+## E-Zigarette
+
+In Hessen benutzt heute eine wachsende Anzahl an Menschen die so genannte E-Zigarette als Genussmittel. Die gesundheitlichen Risiken und das Suchtpotential der nikotinhaltigen Flüssigkeiten, auch Liquids genannt, sind erheblich geringer als beim Tabakkonsum.
+
+Die Piratenpartei Hessen regt an, dass nikotinhaltige Liquids nicht als Arzneimittel, sondern als zugelassenes Handelsgut eingestuft werden. Wir widersprechen auch klar allen Versuchen, die Liquids einer zusätzlichen Versteuerung, z.B. gemäß Tabaksteuergesetz, zu unterstellen. Sicherheits- und Qualitätsstandards für die Produktion und den Vertrieb von E-Zigaretten und kennzeichnungspflichtigen Liquids müssen erarbeitet werden. Eine einheitliche europäische Regelung ist erforderlich, die auch den Belangen des Jugendschutzes Rechnung trägt.
+
+Maßstab einer verantwortungsvollen Drogen- und Suchtpolitik müssen nachvollziehbare, auf wissenschaftlichen Erkenntnissen basierende Regelungen sein, die dem Bürger ein eigenverantwortliches Handeln ermöglichen.
+
+Die reflexartige Verbotshaltung und die Bevormundung der Verbraucher durch einzelne Gesundheitsministerien müssen ein Ende haben. Hessen bietet sich an, für den Umgang mit der E-Zigarette eine liberale Vorreiterrolle in Deutschland zu übernehmen.
