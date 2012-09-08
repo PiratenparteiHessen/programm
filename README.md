@@ -311,7 +311,7 @@ Alle bisherigen Versuche, den Schwarzmarkt einzudämmen, führten zu immer weite
 
 Als PIRATEN werden wir uns unserer Verantwortung stellen und den Schwarzmarkt beseitigen. Das aufgrund der Verbotspolitik entstandene kriminelle Milieu muss nachhaltig ausgetrocknet werden: Herstellung, Verkauf und Konsum von Hanfprodukten muss aus der Kriminalität herausgeholt und den Mechanismen des Jugend- und Verbraucherschutzes unterworfen werden. Schimmelpilz und gesundheitsgefährende Beimengung von Streckmitteln, wie z.B. Vogelsand, Backmischungen, Haarspray, Dünger, synthetische Stoffe oder Blei müssen verhindert werden.
 
-Wie vorliegende Erfahrungen mit der Entkriminalisierung aus Portugal, den Niederlanden und Tschechien zeigen, ist langfristig mit geringeren Konsumentenzahlen zu rechnen.
+ortugal, den Niederlanden und Tschechien zeigen, ist langfristig mit geringeren Konsumentenzahlen zu rechnen.
 
 Im Gegensatz zu den Niederlanden, wo die Coffee Shops aus illegalen Quellen kaufen müssen, hat Hessen hier eine besondere Chance auf legal angebauten Hanf durch eine bestimmte Anzahl an zertifizierten Landwirten. Hierdurch lassen sich die Vertriebswege kontrollieren und die Qualität kann überprüft werden. Der Zuschuss zur organisierten Kriminalität durch den illegalen Handel mit Cannabis wird so verdrängt werden.
 
@@ -366,3 +366,19 @@ Wir befürworten die Einführung eines Verbandsklagerechtes für anerkannte Tier
 ## Tierschutz in der Schule
 
 Wir befürworten eine schulische Ausbildung, welche die Lernenden befähigt, Mitverantwortung für die Erhaltung und den Schutz einer natürlichen Umwelt zu übernehmen. Der Tierschutz ist ein zentraler Bestandteil dieser Verantwortung und deshalb besonders förderungswürdig.
+
+# Verbraucherschutz
+
+## Medikamenteneinsatz in der Tierproduktion
+
+Durch den Druck des Handels sind die landwirtschaftlichen Erzeuger gezwungen, immer mehr Produkte zu immer günstigeren Preisen anzubieten. Das ist nur möglich durch Produktionssteigerung auf begrenzten Flächen und führt zu einem massiven Einsatz von Medikamenten in der Tierproduktion.
+
+Es ist wissenschaftlich erwiesen, dass durch den immer stärkeren Einsatz von Antibiotika, den zu geringen Haltungsflächen und hygienischen Umstände bei der Unterbringung der Tiere multiresistente Keime entstehen, die der Gesundheit von Mensch und Tier massiv schaden.
+
+Wir werden dafür sorgen, dass jede verabreichte Dosis offen gelegt werden muss und Jedem diese Information an leicht zugänglicher Stelle zur Verfügung stehen muss.
+
+Darüber hinaus setzen wir uns dafür ein, dass Tiere und tierische Produkte nur dann verarbeitet werden dürfen, wenn zuvor verabreichte Medikamente bis auf festgelegte Grenzwerte auch abgebaut sind.
+
+Desweiterem ist die prophylaktische Medikamentengabe zu verbieten, wenn sie nur dadurch notwendig wird, durch falsche Haltung entstandene Krankheiten oder Schäden zu verhindern oder zu reduzieren oder nur dazu dient die wirtschaftliche Leistung der Tiere weiter anzuheben. Stattdessen sollen nur tatsächlich erkrankte Tiere gemäß dem Grad ihrer Erkrankung nach dem Urteil eines fachkundigen Tierarztes behandelt werden und die prohylaktische Gabe von Medikamenten soll nur bei begründeten Fällen, die der Abwendung größerer Schäden dient, erfolgen.
+
+Zu diesem Zweck befürworten wir regelmäßige Kontrollen der tierischen Nahrungsmittel und die Veröffentlichung der Ergebnisse an zentraler Stelle.
