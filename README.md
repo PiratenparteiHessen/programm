@@ -177,7 +177,11 @@ Das Wahlrecht soll allen Einwohnern offen stehen. Wir werden deshalb alle nötig
 
 Nachhaltigkeit wird in einer Welt der Ressourcenknappheit immer wichtiger. Dazu gehört vor allem eine (re-)generative Form der Energieerzeugung. Die hessischen Piraten setzen da vor allem auf die Windkraft und wollen die Aufstellung von Windkraftanlagen in die Hände der Kommunen legen. 
 
-Die Ausweisung von Vorrangflächen zur Windkraftnutzung soll deswegen in enger Abstimmung mit den Kommunen und Kreisen erfolgen, zudem soll der Planungs- und Handlungsspielraum der Kommunen möglichst wenig eingeschränkt werden. Die Piratenpartei Hessen spricht sich deshalb dafür aus, den Bau von Windkraftanlagen auch außerhalb von Windvorranggebieten zu ermöglichen. 
+Die Ausweisung von Vorrangflächen zur Windkraftnutzung soll deswegen in enger Abstimmung mit den Kommunen und Kreisen erfolgen, zudem soll der Planungs- und Handlungsspielraum der Kommunen möglichst wenig eingeschränkt werden. Die Piratenpartei Hessen spricht sich deshalb dafür aus, den Bau von Windkraftanlagen auch außerhalb von Windvorranggebieten zu ermöglichen.
+
+##  Fracking
+
+Der Landesverband Hessen der Piratenpartei Deutschland lehnt Hydraulic Fracturing, auch Fracking genannt, als Gasfördermethode ab. Durch diese Methode werden Boden und Grundwasser großen Risiken für uns und die zukünftigen Generationen ausgesetzt. Das Einbringen zahlreicher, zum Teil hochtoxischer Stoffe mit unkontrollierter Ausbreitung ist abzulehnen. Daher setzen wir uns für ein Verbot von Fracking im Bund und der EU ein. Um den Energiebedarf zu decken, setzen wir statt dessen auf Effizienzverbesserungen, Einsparungen und Generative Energien mit modernen Speichertechniken zum Ausgleich von Fluktuationen bei Energieproduktion und -Verbrauch.
 
 # Öffentlicher Rundfunk
 
