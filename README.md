@@ -362,3 +362,7 @@ Wir fordern hier ein konsequentes Eingreifen der Behörden bei Verstößen gegen
 ## Verbandsklagerecht für anerkannte Tierschutzorganisationen
 
 Wir befürworten die Einführung eines Verbandsklagerechtes für anerkannte Tierschutzorganisationen. Tiere können als Lebewesen nicht selbst für ihre Rechte eintreten, daher sind sie auf eine Vertretung in Form von Verbänden angewiesen. Obwohl Tier- und Umweltschutz nach Art. 20a GG denselben Verfassungsrang haben, ist bisher keine entsprechende Gesetzgebung existent. Wir setzen uns dafür ein, dass das Land Hessen im Bundesrat entsprechende Initiativen zur Gesetzgebung anregt bzw. Teile der Regelungen auf Landesebene verankert werden.
+
+## Tierschutz in der Schule
+
+Wir befürworten eine schulische Ausbildung, welche die Lernenden befähigt, Mitverantwortung für die Erhaltung und den Schutz einer natürlichen Umwelt zu übernehmen. Der Tierschutz ist ein zentraler Bestandteil dieser Verantwortung und deshalb besonders förderungswürdig.
