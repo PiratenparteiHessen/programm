@@ -336,3 +336,7 @@ Die Piraten Hessen bekennen sich zu einem säkularen Staat, in dem die Belange v
 ## Einstellung des Kirchensteuereinzuges
 
 In einem modernen säkularen Staat ist es nicht mehr zeitgemäß, wenn die Finanzbehörden zweckgebundene Abgaben für Dritte verwalten müssen. Deswegen setzen wir Piraten uns für die Einstellung des Kirchensteuereinzuges ein.
+
+## Kostenfreier Kirchenaustritt
+
+Um das Grund- und Menschenrecht der Religionsfreiheit wahrnehmen zu können, ist es erforderlich die freie Wahl zu haben welcher Religionsgemeinschaft man angehört. Der Austritt aus den Kirchen, Religions- oder Weltanschauungsgemeinschaften des öffentlichen Rechts wird in Hessen durch Belegung der amtlichen Austrittserklärung mit einer Gebühr von 25 Euro jedoch für Menschen mit geringen finanziellen Mitteln unnötig erschwert. Wir fordern daher den Kirchenaustritt kostenfrei zu ermöglichen.
