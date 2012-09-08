@@ -392,3 +392,7 @@ Die Piratenpartei Hessen setzt sich dafür ein, dass Erwerbslosen ein qualitativ
 Sämtliche Angebote müssen einer kontinuierlichen Qualitätsprüfung unterworfen werden.
 
 Angebote sollen von Erwerbslosen auf freiwilliger Basis und nach Absprache mit dem Sachbearbeiter wahrgenommen werden können.
+
+# Infrastruktur und öffentliche Gelder
+
+Privatisierung bestehender öffentlicher Infrastruktur ist abzulehnen.
