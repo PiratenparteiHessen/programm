@@ -332,3 +332,7 @@ Um auf die Suchtgefahr bei bestimmten Medikamenten aufmerksam zu machen, müssen
 # Trennung von Staat und Kirchen
 
 Die Piraten Hessen bekennen sich zu einem säkularen Staat, in dem die Belange von Staat und Kirchen von einander separiert sind. Dabei ist das Grundrecht auf freie Religionszugehörigkeit sowie die jeweilige Religionsausübung zu achten und zu respektieren.
+
+## Einstellung des Kirchensteuereinzuges
+
+In einem modernen säkularen Staat ist es nicht mehr zeitgemäß, wenn die Finanzbehörden zweckgebundene Abgaben für Dritte verwalten müssen. Deswegen setzen wir Piraten uns für die Einstellung des Kirchensteuereinzuges ein.
