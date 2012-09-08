@@ -171,6 +171,8 @@ Niemand darf aufgrund von Herkunft, Geschlecht, Wohnort, Einkommen, Alter, Ausse
 
 Werden Bildungseinrichtung in freier Trägerschaft, analog den öffentlichen Schulen, durch das Land Hessen gefördert, so dürfen sie über diese Förderung hinaus keine Gebühren oder Schulgeld verlangen.
 
+Die Schulen, staatliche wie solche in freier Trägerschaft, erhalten die staatliche Zuweisungen an Lehrerstellen bzw. Finanzmitteln auf der Basis einer Lerngruppenstärke von 20 Schülern.
+
 # Informationsfreiheit und Transparenz
 
 Ein wesentlicher Teil der Politik der Piraten stellt die Durchsichtigkeit und Nachvollziehbarkeit politischer Vorgänge dar. Genauso wie parlamentarische Abstimmungen in aller Regel offen und für jedermann nachvollziehbar sind, müssen politische Entscheidungen für den Bürger als Souverän des Staates offen und nachvollziehbar sein. In den wesentlichen Teilen unserer Demokratie dürfen technische Hilfsmittel, die untergeordneten Zwecken dienen, demokratische Strukturen nicht beeinträchtigen. Die Piraten fordern die Rückkehr zu Techniken bei Wahlen, die den Grundsätzen des Wahlrechts genügen. Insbesondere ist die Nachprüfbarkeit von Wahlen durch Jedermann sicherzustellen, um die der indirekten Demokratie innewohnenden Einschränkungen nicht auch noch durch vermeintliche oder tatsächliche Technikfehler oder Manipulationen zu verstärken. Wir Piraten fordern einen Diskurs über die Einführung und Erprobung direkter Demokratie in Teilbereichen wie Kommunen und Gemeinden sowie organisatorischer Bereiche zum Beispiel im Bildungsbereich. 
