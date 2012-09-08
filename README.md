@@ -241,25 +241,25 @@ Wir nehmen die Diskriminierung von Flüchtlingen, die in ihrer Freizügigkeit, i
 
 Als Maßnahmen zur Verbesserung der Lebenssituation von Asylsuchenden und geduldeten Flüchtlingen werden wir außerdem folgende Punkte umsetzen:
 
-1. Eine individuelle Betrachtung der Fluchtgründe von Asylbewerbern, die sich an der konkreten politisch-gesellschaftlichen Situation des jeweiligen Heimatlandes bemisst und außerdem die langfristige Abschaffung der Drittstaatenregelung.
+  1. Eine individuelle Betrachtung der Fluchtgründe von Asylbewerbern, die sich an der konkreten politisch-gesellschaftlichen Situation des jeweiligen Heimatlandes bemisst und außerdem die langfristige Abschaffung der Drittstaatenregelung.
 	
-2. Die Verletzung des Rechts auf ein zügiges Verfahren gemäß Artikel 6 der Europäischen Menschenrechtskommission (EMRK) durch Verschleppung wird beendet.
+  2. Die Verletzung des Rechts auf ein zügiges Verfahren gemäß Artikel 6 der Europäischen Menschenrechtskommission (EMRK) durch Verschleppung wird beendet.
 	
-3. Die Schaffung von Beratungen, unter welchen Umständen eine Rückkehr in das jeweilige Ursprungsland möglich wäre, sofern dies vom Antragssteller gewünscht ist, bzw. Wege aufzeigen wie eine Integration in unsere Gesellschaft möglich ist.
+  3. Die Schaffung von Beratungen, unter welchen Umständen eine Rückkehr in das jeweilige Ursprungsland möglich wäre, sofern dies vom Antragssteller gewünscht ist, bzw. Wege aufzeigen wie eine Integration in unsere Gesellschaft möglich ist.
 	
-4. Eine Bleiberechtsregelung, die die gesamte Familie (inkl. Verwandte zweiten Grades) umfasst und die besondere Situation von Eltern und Kindern berücksichtigt.
+  4. Eine Bleiberechtsregelung, die die gesamte Familie (inkl. Verwandte zweiten Grades) umfasst und die besondere Situation von Eltern und Kindern berücksichtigt.
 	
-5. Ein generelles Ende der Praxis der Abschiebehaft, gerade bei Minderjährigen.
+  5. Ein generelles Ende der Praxis der Abschiebehaft, gerade bei Minderjährigen.
 	
-6. Eine umfassende Bleiberechtsregelung für langjährig Geduldete und Erleichterungen, die deutsche Staatsangehörigkeit zu erlangen.
+  6. Eine umfassende Bleiberechtsregelung für langjährig Geduldete und Erleichterungen, die deutsche Staatsangehörigkeit zu erlangen.
 	
-7. Das Ende der isolierenden und unmenschlichen Aufenthaltsbedingungen.
+  7. Das Ende der isolierenden und unmenschlichen Aufenthaltsbedingungen.
 	
-8. Die Verbesserung der Unterbringungssituation von Flüchtlingen und den kostenfreien Zugang zu traditionellen und neuen Medien in Gemeinschaftsunterkünften und Erstaufnahmeeinrichtungen.
+  8. Die Verbesserung der Unterbringungssituation von Flüchtlingen und den kostenfreien Zugang zu traditionellen und neuen Medien in Gemeinschaftsunterkünften und Erstaufnahmeeinrichtungen.
 	
-9. Den gleichberechtigten, barrierefreien Zugang zum Arbeitsmarkt und die weiterreichende Anerkennung von Qualifikationsnachweisen aus dem Heimatland, sowie Maßnahmen zur Weiterbildung, um die Integration auf dem Arbeitsmarkt zu erleichtern.
+  9. Den gleichberechtigten, barrierefreien Zugang zum Arbeitsmarkt und die weiterreichende Anerkennung von Qualifikationsnachweisen aus dem Heimatland, sowie Maßnahmen zur Weiterbildung, um die Integration auf dem Arbeitsmarkt zu erleichtern.
 	
-10. Die Abschaffung diskriminierender Sondergesetze wie des Asylbewerberleistungsgesetzes, das die Versorgung von Asylbewerbern regelt.
+  10. Die Abschaffung diskriminierender Sondergesetze wie des Asylbewerberleistungsgesetzes, das die Versorgung von Asylbewerbern regelt.
 
 ## Abschaffung der Optionspflicht und Modernisierung des Staatsangehörigkeitsrechts
 
