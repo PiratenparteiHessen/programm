@@ -153,6 +153,10 @@ Erziehungsmaßnahmen und –stile orientieren sich an den Bedürfnissen des Kind
 
 Das pädagogische Personal ist Betreuer, Erzieher und Vorbild zugleich und wird für diese Aufgaben und Rollen qualitativ hochwertig ausgebildet. Die Piraten lehnen die geplante Verkürzung der Erzieher-Ausbildung ab. Pädagogisches Personal wird angemessen bezahlt und erhält Beratung und Supervision als Unterstützung ihrer Arbeit.
 
+Eine Vielfalt von Lebensstilen, Einrichtungsformen und pädagogischen Konzepten ist erwünscht, da sie zur Auseinandersetzung anregen und Kindern wie Eltern unterschiedliche Handlungsmöglichkeiten eröffnen. Um eine konstruktive Erziehungsunterstützung zu gewährleisten, arbeiten alle Beteiligten eng zusammen.
+
+Hierfür schafft der Staat die entsprechenden Rahmenbedingungen und sorgt für kostenfreie Zugänge.
+
 # Informationsfreiheit und Transparenz
 
 Ein wesentlicher Teil der Politik der Piraten stellt die Durchsichtigkeit und Nachvollziehbarkeit politischer Vorgänge dar. Genauso wie parlamentarische Abstimmungen in aller Regel offen und für jedermann nachvollziehbar sind, müssen politische Entscheidungen für den Bürger als Souverän des Staates offen und nachvollziehbar sein. In den wesentlichen Teilen unserer Demokratie dürfen technische Hilfsmittel, die untergeordneten Zwecken dienen, demokratische Strukturen nicht beeinträchtigen. Die Piraten fordern die Rückkehr zu Techniken bei Wahlen, die den Grundsätzen des Wahlrechts genügen. Insbesondere ist die Nachprüfbarkeit von Wahlen durch Jedermann sicherzustellen, um die der indirekten Demokratie innewohnenden Einschränkungen nicht auch noch durch vermeintliche oder tatsächliche Technikfehler oder Manipulationen zu verstärken. Wir Piraten fordern einen Diskurs über die Einführung und Erprobung direkter Demokratie in Teilbereichen wie Kommunen und Gemeinden sowie organisatorischer Bereiche zum Beispiel im Bildungsbereich. 
