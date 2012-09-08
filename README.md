@@ -85,6 +85,10 @@ Unterrichtsgarantie Plus darf kein Modell für Unterricht durch unqualifiziertes 
 
 Die Einführung der Studiengebühren zur Erhöhung der Effizienz in Hochschulen und Universitäten verfehlte klar ihr Ziel, Mit ihrer Rücknahme ist ein erster Schritt getan. Jetzt sind Finanzierungsmodelle umzusetzen, die eine Benachteiligung sozial und finanziell schwächer gestellter Studenten ausschließen. Als Finanzierungsmodelle für Hochschulen sind neben der öffentlichen Hand auch private und gewerbliche Stiftungen anzustreben. Die freie und uneingeschränkte Zugänglichkeit zu Wissen und Werken, die in Hochschulen erarbeitet wurden, muss für alle öffentlichen Einrichtungen gewährleistet sein. Wirtschaftlich verwertbare Forschungsergebnisse und daraus erzielte Erlöse sollen in den Ausbau von Bildungseinrichtungen fließen. 
 
+Der Landesverband Hessen der Piratenpartei Deutschland will Rahmenbedingungen einführen, die das immerwährende Lernen in allen Lebensbereichen ermöglichen.
+
+Der Landesverband Hessen der Piratenpartei Deutschland will Bildungseinrichtungen als demokratischen und öffentlichen Handlungsraum ihrer Teilnehmer gestalten und die Lernenden zu Hauptakteuren machen.
+
 ## Neue Bildungskonzepte
 
 Die deutsche Bildungspolitik ist in Lagern gefangen, die sich kaum bewegen können. Die hessischen Piraten sehen Bildung als lebenslangen Prozess, der nicht nur auf junge Menschen beschränkt werden sollte. Wir wollen deshalb Rahmenbedingungen einführen, die das immerwährende Lernen in allen Lebensbereichen ermöglichen. 
