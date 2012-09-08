@@ -244,3 +244,21 @@ Die hessischen PIRATEN setzen sich für die Abschaffung des Optionsmodell auf Bu
 Wer sich einbürgern lässt, muss seine alte Staatsangehörigkeit nicht länger aufgeben. Mehrfache bzw. doppelte Staatsbürgerschaft wird auch bei der Einbürgerung ermöglicht.
 
 Die Fristen und Bedingungen bis zu einem dauerhaft abgesicherten Aufenthaltsrecht und zur Chance einer Einbürgerung sind deutlich zu senken, besondere Anstrengungen der Migranten zu Spracherwerb und beruflicher Integration sind positiv zu unterstützen.
+
+# Neue Landesverfassung
+
+Die Piratenpartei Hessen setzt sich für die Durchführung einer Volksabstimmung über eine neue Verfassung für das Land Hessen im Jahre 2016 ein. Dazu werden wir im Landtag eine Enquete Kommission zur Erarbeitung eines Vorschlages für Verfassungsreform einsetzen.
+
+Die Enquete Kommission soll sich insbesondere mit folgenden Fragestellungen befassen:
+
+* Wie kann die Stärkung der demokratischen Beteiligungsmöglichkeiten in Hessen erreicht werden – zum Beispiel durch Absenkung von Wahlalter, Verfahrenserleichterungen für Volksbegehren und Volksentscheide.
+
+* Wie können die Selbstverwaltungsrechte der Kommunen in der Verfassung verankert werden? (z.B. analog zu den Regelungen in der Verfassung von Baden-Württemberg)
+
+* Wie können Rechte von Personen gestärkt werden, die in einer Lebensgemeinschaft Kinder erziehen oder für pflegebedürftige Personen sorgen?
+
+* Wie können Rechte von Menschen mit Behinderungen in der Verfassung verankert werden?
+
+* Wie kann die Stellung von Hessen als integrales Bestandteil des Europäischen Einigungsprozesses in der Verfassung unterstrichen werden?
+
+* Welche Regelungen in der Hessischen Verfassung stehen im Widerspruch zu den Bestimmungen des Grundgesetzes und der Bundesgesetzgebung?
