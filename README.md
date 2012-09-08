@@ -121,6 +121,10 @@ Die Bildungsinhalte haben auf fundierten und belegbaren Erkenntnissen zu basiere
 
 Die Bildungseinrichtungen sind für die dortigen Schüler und Studenten ein prägender und umfassender Bestandteil ihres Lebens. Sie sind deswegen als Lebensraum der Lernenden zu begreifen, dessen Gestaltung und Nutzung ihnen stets offen stehen muss. Eine demokratische Organisation der Bildungseinrichtungen soll den Lernenden, genau wie den anderen Interessengruppen der Bildungseinrichtungen, eine angemessene Einflussnahme ermöglichen. Auf diese Weise werden demokratische Werte vermittelt und vorgelebt, die Akzeptanz der Entscheidungen erhöht, sowie das Gemeinschaftsgefühl innerhalb der Bildungseinrichtungen gestärkt. 
 
+## Menschenbild
+
+Gesellschaftliche Grundlage und Ziel pädagogischer Arbeit ist der mündige Bürger, der in der Lage ist sich seines eigenen Verstandes zu bedienen.
+
 # Informationsfreiheit und Transparenz
 
 Ein wesentlicher Teil der Politik der Piraten stellt die Durchsichtigkeit und Nachvollziehbarkeit politischer Vorgänge dar. Genauso wie parlamentarische Abstimmungen in aller Regel offen und für jedermann nachvollziehbar sind, müssen politische Entscheidungen für den Bürger als Souverän des Staates offen und nachvollziehbar sein. In den wesentlichen Teilen unserer Demokratie dürfen technische Hilfsmittel, die untergeordneten Zwecken dienen, demokratische Strukturen nicht beeinträchtigen. Die Piraten fordern die Rückkehr zu Techniken bei Wahlen, die den Grundsätzen des Wahlrechts genügen. Insbesondere ist die Nachprüfbarkeit von Wahlen durch Jedermann sicherzustellen, um die der indirekten Demokratie innewohnenden Einschränkungen nicht auch noch durch vermeintliche oder tatsächliche Technikfehler oder Manipulationen zu verstärken. Wir Piraten fordern einen Diskurs über die Einführung und Erprobung direkter Demokratie in Teilbereichen wie Kommunen und Gemeinden sowie organisatorischer Bereiche zum Beispiel im Bildungsbereich. 
