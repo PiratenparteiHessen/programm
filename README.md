@@ -382,3 +382,13 @@ Darüber hinaus setzen wir uns dafür ein, dass Tiere und tierische Produkte nur
 Desweiterem ist die prophylaktische Medikamentengabe zu verbieten, wenn sie nur dadurch notwendig wird, durch falsche Haltung entstandene Krankheiten oder Schäden zu verhindern oder zu reduzieren oder nur dazu dient die wirtschaftliche Leistung der Tiere weiter anzuheben. Stattdessen sollen nur tatsächlich erkrankte Tiere gemäß dem Grad ihrer Erkrankung nach dem Urteil eines fachkundigen Tierarztes behandelt werden und die prohylaktische Gabe von Medikamenten soll nur bei begründeten Fällen, die der Abwendung größerer Schäden dient, erfolgen.
 
 Zu diesem Zweck befürworten wir regelmäßige Kontrollen der tierischen Nahrungsmittel und die Veröffentlichung der Ergebnisse an zentraler Stelle.
+
+# Sozialpolitik
+
+## Qualifizierungsmaßnahmen von Arbeitssuchenden
+
+Die Piratenpartei Hessen setzt sich dafür ein, dass Erwerbslosen ein qualitativ hochwertiges Angebot an Möglichkeiten zur Aus- und Weiterbildung zur Verfügung gestellt wird. Diese müssen zu anerkannten Zertifikaten führen (z.B. VHS).
+
+Sämtliche Angebote müssen einer kontinuierlichen Qualitätsprüfung unterworfen werden.
+
+Angebote sollen von Erwerbslosen auf freiwilliger Basis und nach Absprache mit dem Sachbearbeiter wahrgenommen werden können.
