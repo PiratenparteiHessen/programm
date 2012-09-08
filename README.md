@@ -200,3 +200,39 @@ Das Recht auf Netzzugang ist ein Menschenrecht und sollte explizit in die Hessis
 # Störerhaftung
 
 Die Piratenpartei Hessen setzt sich für eine Neuregelung der Störerhaftung im Bereich der Telekommunikation ein. Es sollen insbesondere die bestehende Rechtsunsicherheit beseitigt und das zur Verfügung stellen von Internetzugängen und Anonymisierungsdiensten durch Privatpersonen und als kostenloser Service für Kunden ohne unverhältismässig hohem Aufwand und unkalkulierbare Risiken ermöglicht werden.
+
+# Asyl- und Migrationspolitik
+
+Die Piratenpartei Hessen schätzt unsere pluralistische Gesellschaft, die von der Vielfalt der verschiedenen Kulturen, Weltanschauungen, Religionen und Lebensmodelle lebt. Viele Flüchtlinge jedoch, die gerade erst vor Krieg und Verfolgung aus ihrem Ursprungsland geflohen sind, sehen sich hier in Deutschland Repressalien und einem Alltag voller Diskriminierungen ausgeliefert. Aus unserem Verständnis einer offenen, freien, solidarischen und demokratischen Gesellschaft heraus lehnen wir diese Art des Umgangs mit Flüchtlingen in Hessen und auf Bundesebene ab. Daher müssen alle Verfahrensweise in der Asylpolitik uneingeschränkt auf den Prüfstand. Sofern die Entscheidungskompetenz nicht in die Landesebene fällt, werden die hessischen Piraten Entscheidungen im Bundesrat anregen und vorbereiten. Bereits in dieser Thematik erfahrene Organisationen, wie beispielsweise ProAsyl und der hessische Flüchtlingsrat sind dabei stärker in den Diskurs mit einzubeziehen.
+
+## Residenzpflicht abschaffen
+
+Die Freiheit, Freizügigkeit und Selbstbestimmung eines jeden Menschen ist ein hohes Gut einer demokratischen Gesellschaft. Eine Einschränkung der Wahl des Aufenthaltsortes ist nichts anderes als Inhaftierung in einem großflächigen Gefängnis und schränken Flüchtlinge damit in ihrem Menschenrecht auf Freizügigkeit ein. Die hessischen Piraten setzen sich für ein Ende der Residenzpflicht ein. Jedem Flüchtling der in Hessen lebt ist die Freizügigkeit innerhalb der europäischen Gemeinschaft ohne Einschränkung zu gewähren. Dadurch bekommen Flüchtlinge die Möglichkeit für ihre Rechte im Rahmen von Versammlungen einzutreten und an Treffen innerhalb von Organisationen, sowie an familiären und freundschaftlichen Treffen teilzunehmen.
+
+## Grundrechte auf alle Menschen ausweiten
+
+Wir nehmen die Diskriminierung von Flüchtlingen, die in ihrer Freizügigkeit, ihrer Selbstbestimmung, ihrer Meinungs- und Versammlungsfreiheit eingeschränkt werden, nicht hin. Die Gewährung dieser Grundrechte wird nicht nur durch das Grundgesetz und die Landesverfassung bestimmt, die Rechte gehören zur Grundlage jeder demokratischen Gesellschaft. Gemeinsam mit allen hessischen Bürgern wollen wir den Flüchtlingen in unserem Land beweisen, dass Demokratie und Grundrechte sich nicht nur auf die Bürger eines Staates oder Landes beschränken, sondern alle Menschen einschließt.
+
+## Lebenssituation von Flüchtlingen verbessern
+
+Als Maßnahmen zur Verbesserung der Lebenssituation von Asylsuchenden und geduldeten Flüchtlingen werden wir außerdem folgende Punkte umsetzen:
+
+	1. Eine individuelle Betrachtung der Fluchtgründe von Asylbewerbern, die sich an der konkreten politisch-gesellschaftlichen Situation des jeweiligen Heimatlandes bemisst und außerdem die langfristige Abschaffung der Drittstaatenregelung.
+	
+	2. Die Verletzung des Rechts auf ein zügiges Verfahren gemäß Artikel 6 der Europäischen Menschenrechtskommission (EMRK) durch Verschleppung wird beendet.
+	
+	3. Die Schaffung von Beratungen, unter welchen Umständen eine Rückkehr in das jeweilige Ursprungsland möglich wäre, sofern dies vom Antragssteller gewünscht ist, bzw. Wege aufzeigen wie eine Integration in unsere Gesellschaft möglich ist.
+	
+	4. Eine Bleiberechtsregelung, die die gesamte Familie (inkl. Verwandte zweiten Grades) umfasst und die besondere Situation von Eltern und Kindern berücksichtigt.
+	
+	5. Ein generelles Ende der Praxis der Abschiebehaft, gerade bei Minderjährigen.
+	
+	6. Eine umfassende Bleiberechtsregelung für langjährig Geduldete und Erleichterungen, die deutsche Staatsangehörigkeit zu erlangen.
+	
+	7. Das Ende der isolierenden und unmenschlichen Aufenthaltsbedingungen.
+	
+	8. Die Verbesserung der Unterbringungssituation von Flüchtlingen und den kostenfreien Zugang zu traditionellen und neuen Medien in Gemeinschaftsunterkünften und Erstaufnahmeeinrichtungen.
+	
+	9. Den gleichberechtigten, barrierefreien Zugang zum Arbeitsmarkt und die weiterreichende Anerkennung von Qualifikationsnachweisen aus dem Heimatland, sowie Maßnahmen zur Weiterbildung, um die Integration auf dem Arbeitsmarkt zu erleichtern.
+	
+	10. Die Abschaffung diskriminierender Sondergesetze wie des Asylbewerberleistungsgesetzes, das die Versorgung von Asylbewerbern regelt.
