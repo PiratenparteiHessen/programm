@@ -396,3 +396,5 @@ Angebote sollen von Erwerbslosen auf freiwilliger Basis und nach Absprache mit d
 # Infrastruktur und öffentliche Gelder
 
 Privatisierung bestehender öffentlicher Infrastruktur ist abzulehnen.
+
+Verträge, die über öffentliche Gelder geschlossen werden, müssen für jeden öffentlich zugänglich sein.
