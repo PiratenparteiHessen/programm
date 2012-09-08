@@ -236,3 +236,11 @@ Als Maßnahmen zur Verbesserung der Lebenssituation von Asylsuchenden und gedulde
 	9. Den gleichberechtigten, barrierefreien Zugang zum Arbeitsmarkt und die weiterreichende Anerkennung von Qualifikationsnachweisen aus dem Heimatland, sowie Maßnahmen zur Weiterbildung, um die Integration auf dem Arbeitsmarkt zu erleichtern.
 	
 	10. Die Abschaffung diskriminierender Sondergesetze wie des Asylbewerberleistungsgesetzes, das die Versorgung von Asylbewerbern regelt.
+
+## Abschaffung der Optionspflicht und Modernisierung des Staatsangehörigkeitsrechts
+
+Die hessischen PIRATEN setzen sich für die Abschaffung des Optionsmodell auf Bundes- und Landesebene ein. Wird ein Kind ausländischer Eltern in Deutschland geboren und hält sich mindestens ein Elternteil mit einem unbefristeten Aufenthaltstitel legal in Deutschland auf, erhält das Kind neben der Staatsbürgerschaft der Eltern dauerhaft auch die deutsche Staatsangehörigkeit. Das bislang geltende Erfordernis, sich ab Vollendung des 18. Lebensjahrs für eine der beiden Staatsbürgerschaften entscheiden zu müssen, entfällt.
+
+Wer sich einbürgern lässt, muss seine alte Staatsangehörigkeit nicht länger aufgeben. Mehrfache bzw. doppelte Staatsbürgerschaft wird auch bei der Einbürgerung ermöglicht.
+
+Die Fristen und Bedingungen bis zu einem dauerhaft abgesicherten Aufenthaltsrecht und zur Chance einer Einbürgerung sind deutlich zu senken, besondere Anstrengungen der Migranten zu Spracherwerb und beruflicher Integration sind positiv zu unterstützen.
