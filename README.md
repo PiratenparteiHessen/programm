@@ -1,246 +1,246 @@
 Der Entwurf des Programmes der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf dem Landesparteitag am 19. - 20.05.2012
 =======================================================================================================================================
 
-# Präambel
+# PrÃ¤ambel
 
-Dieses Programm stellt die Ziele der Piraten für die neu beginnende Legislaturperiode in Hessen dar. Es fußt auf den Prinzipien, aus denen die Piraten entstanden sind: Der Verpflichtung und Verantwortung gegenüber dem Individuum in einer sozialen ethischen Gesellschaft sowie dem Schutz des zur Entfaltung des Menschen immer erforderlichen privaten und unantastbaren Lebensraumes, sowohl in geistiger als auch in materieller Hinsicht. 
+Dieses Programm stellt die Ziele der Piraten fÃ¼r die neu beginnende Legislaturperiode in Hessen dar. Es fuÃŸt auf den Prinzipien, aus denen die Piraten entstanden sind: Der Verpflichtung und Verantwortung gegenÃ¼ber dem Individuum in einer sozialen ethischen Gesellschaft sowie dem Schutz des zur Entfaltung des Menschen immer erforderlichen privaten und unantastbaren Lebensraumes, sowohl in geistiger als auch in materieller Hinsicht. 
 
-Gleichzeitig erkennen die Piraten die Regeln eines demokratischen und sozialen Staates als notwendige Grundlage des gesellschaftlichen Lebens. Werden staatliche Regeln erstellt, die ein Abwägen zwischen öffentlichem und privatem Interesse erfordern, sind jedoch die zur Entfaltung der Persönlichkeit notwendigen Räume der privaten Lebensführung jederzeit zu achten. 
+Gleichzeitig erkennen die Piraten die Regeln eines demokratischen und sozialen Staates als notwendige Grundlage des gesellschaftlichen Lebens. Werden staatliche Regeln erstellt, die ein AbwÃ¤gen zwischen Ã¶ffentlichem und privatem Interesse erfordern, sind jedoch die zur Entfaltung der PersÃ¶nlichkeit notwendigen RÃ¤ume der privaten LebensfÃ¼hrung jederzeit zu achten. 
 
-Kultur und Bildung sind die besten Garanten für eine gefestigte Gesellschaftsstruktur, in der jeder Einzelne sein Tun beurteilen und abwägen kann. Verantwortung und Respekt gegenüber der Gesellschaft und damit auch gegenüber dem Einzelnen sind Grundwerte denen wir uns verpflichtet fühlen. 
+Kultur und Bildung sind die besten Garanten fÃ¼r eine gefestigte Gesellschaftsstruktur, in der jeder Einzelne sein Tun beurteilen und abwÃ¤gen kann. Verantwortung und Respekt gegenÃ¼ber der Gesellschaft und damit auch gegenÃ¼ber dem Einzelnen sind Grundwerte denen wir uns verpflichtet fÃ¼hlen. 
 
 Die Piraten sind der noch jungen Tradition der digitalen Kommunikation verpflichtet, in deren basisdemokratischen Ausrichtung die Wurzeln der Partei liegen und mit deren selbstordnenden Prinzipien ihre Denkweise in weiten Teilen beschrieben ist. 
 
-Aus diesem Hintergrund kommend verfügen die Piraten über sehr hohe Kompetenzen in den von ihnen vertretenen Themen. In anderen landespolitischen Themen, in denen keine ausdrückliche Expertise vorhanden ist, werden die Piraten Vorschläge von Bürgern und anderern Parteien unterstützen, sofern diese mit denunseren Grundsätzen vereinbar sind. 
+Aus diesem Hintergrund kommend verfÃ¼gen die Piraten Ã¼ber sehr hohe Kompetenzen in den von ihnen vertretenen Themen. In anderen landespolitischen Themen, in denen keine ausdrÃ¼ckliche Expertise vorhanden ist, werden die Piraten VorschlÃ¤ge von BÃ¼rgern und anderern Parteien unterstÃ¼tzen, sofern diese mit denunseren GrundsÃ¤tzen vereinbar sind. 
 
-Dabei vertreten die Piraten die Haltung, dass der einzelne Abgeordnete der Piraten vor allem seinem Gewissen und im Sinne der in der Präambel genannten Prinzipien dem Schutz der Würde des Menschen verpflichtet ist. Es wird zur Erzielung eines politischen Gewichtes und zur Stabilisierung von Mehrheiten ein Empfehlungsrahmen angestrebt, der aber den einzelnen Abgeordneten nicht von seiner Gewissensentscheidung entbinden kann und darf. Politischem Diskurs ist gegenüber parteipolitischem Druck der Vorrang einzuräumen. 
+Dabei vertreten die Piraten die Haltung, dass der einzelne Abgeordnete der Piraten vor allem seinem Gewissen und im Sinne der in der PrÃ¤ambel genannten Prinzipien dem Schutz der WÃ¼rde des Menschen verpflichtet ist. Es wird zur Erzielung eines politischen Gewichtes und zur Stabilisierung von Mehrheiten ein Empfehlungsrahmen angestrebt, der aber den einzelnen Abgeordneten nicht von seiner Gewissensentscheidung entbinden kann und darf. Politischem Diskurs ist gegenÃ¼ber parteipolitischem Druck der Vorrang einzurÃ¤umen. 
 
 # Informationelle Selbstbestimmung
 
-Jeder Mensch hat eine Privatsphäre, die frei von Überwachung bleiben muss. Ohne begründeten Anfangsverdacht darf es keine Bewegungsprofile, keine staatlichen Übergriffe, keine Lauschangriffe und keine Rasterfahndungen geben. 
+Jeder Mensch hat eine PrivatsphÃ¤re, die frei von Ãœberwachung bleiben muss. Ohne begrÃ¼ndeten Anfangsverdacht darf es keine Bewegungsprofile, keine staatlichen Ãœbergriffe, keine Lauschangriffe und keine Rasterfahndungen geben. 
 
-Die Unterwanderungen der Bürgerrechte durch den Staat in Form von Massendatenspeicherung, Rasterfahndungen, Erhebung von biometrischen Daten und Online-Durchsuchungen erfordern ein politisches Gegengewicht. Der Einführung von Überwachungsgesetzen, wie es in Deutschland zur Zeit der Fall ist, treten die Piraten entschieden entgegen. Durch die angedachten und teilweise bereits verabschiedeten Gesetzesvorhaben werden Bürgerrechte aufgehoben; der Rechtsstaat wandelt sich in einen Überwachungsstaat, wie wir es nur von totalitären Regimen kennen. 
+Die Unterwanderungen der BÃ¼rgerrechte durch den Staat in Form von Massendatenspeicherung, Rasterfahndungen, Erhebung von biometrischen Daten und Online-Durchsuchungen erfordern ein politisches Gegengewicht. Der EinfÃ¼hrung von Ãœberwachungsgesetzen, wie es in Deutschland zur Zeit der Fall ist, treten die Piraten entschieden entgegen. Durch die angedachten und teilweise bereits verabschiedeten Gesetzesvorhaben werden BÃ¼rgerrechte aufgehoben; der Rechtsstaat wandelt sich in einen Ãœberwachungsstaat, wie wir es nur von totalitÃ¤ren Regimen kennen. 
 
-Die Piraten fordern, dass der Staat diese Werkzeuge deinstalliert und unsere Gesellschaft dabei unterstützt, sich weiter zu entwickeln. Die informationelle Selbstbestimmung muss sowohl in der hessischen Verfassung als auch im Grundgesetz der Bundesrepublik Deutschland als Grundrecht verankert werden. 
+Die Piraten fordern, dass der Staat diese Werkzeuge deinstalliert und unsere Gesellschaft dabei unterstÃ¼tzt, sich weiter zu entwickeln. Die informationelle Selbstbestimmung muss sowohl in der hessischen Verfassung als auch im Grundgesetz der Bundesrepublik Deutschland als Grundrecht verankert werden. 
 
-Der Staat muss verpflichtet werden, jedem Bürger auf Verlangen Informationen über die ihn betreffenden Daten Auskunft zu geben, und bei Überwachung ohne konkreten Verdacht den Bürger von sich aus auf diese Überwachung hinzuweisen. Über die angelegten Datenbanken und die Art und Weise wie mit den Daten umgegangen wird, muss sich die Öffentlichkeit ungehindert informieren können. 
+Der Staat muss verpflichtet werden, jedem BÃ¼rger auf Verlangen Informationen Ã¼ber die ihn betreffenden Daten Auskunft zu geben, und bei Ãœberwachung ohne konkreten Verdacht den BÃ¼rger von sich aus auf diese Ãœberwachung hinzuweisen. Ãœber die angelegten Datenbanken und die Art und Weise wie mit den Daten umgegangen wird, muss sich die Ã–ffentlichkeit ungehindert informieren kÃ¶nnen. 
 
-Die Überprüfbarkeit der gespeicherten Daten soll unverzüglich ohne Terminvorgabe zu den üblichen Öffnungszeiten ermöglicht werden. Die Löschung unberechtigterweise erhobener Daten muss auf Antrag jederzeit möglich sein. Die Löschung muß den betroffenen Bürgern unverzüglich und überprüfbar bestätigt werden. 
+Die ÃœberprÃ¼fbarkeit der gespeicherten Daten soll unverzÃ¼glich ohne Terminvorgabe zu den Ã¼blichen Ã–ffnungszeiten ermÃ¶glicht werden. Die LÃ¶schung unberechtigterweise erhobener Daten muss auf Antrag jederzeit mÃ¶glich sein. Die LÃ¶schung muÃŸ den betroffenen BÃ¼rgern unverzÃ¼glich und Ã¼berprÃ¼fbar bestÃ¤tigt werden. 
 
-Diese Auskunftspflicht gilt auch für juristische Personen, und muss kostenlos erfolgen. 
+Diese Auskunftspflicht gilt auch fÃ¼r juristische Personen, und muss kostenlos erfolgen. 
 
-Daten dürfen nicht unberechtigterweise erhoben werden; sollten sich nachträglich Daten als unberechtigt erhoben herausstellen, sind diese unverzüglich und vollständig zu löschen und die Betroffenen in Kenntnis zu setzen.
+Daten dÃ¼rfen nicht unberechtigterweise erhoben werden; sollten sich nachtrÃ¤glich Daten als unberechtigt erhoben herausstellen, sind diese unverzÃ¼glich und vollstÃ¤ndig zu lÃ¶schen und die Betroffenen in Kenntnis zu setzen.
 
 ## Onlinedurchsuchung
 
-Die freie Meinungsäußerung ist ein Eckpfeiler unserer Demokratie und darf nicht durch Onlinedurchsuchungen untergraben werden. Das Missbrauchspotenzial dieser Technik ist so immens, dass die Verantwortbarkeit nicht gegeben ist. 
+Die freie MeinungsÃ¤uÃŸerung ist ein Eckpfeiler unserer Demokratie und darf nicht durch Onlinedurchsuchungen untergraben werden. Das Missbrauchspotenzial dieser Technik ist so immens, dass die Verantwortbarkeit nicht gegeben ist. 
 
-Onlinedurchsuchungen stellen zudem eine massive Bedrohung für die Sicherheit der informationellen Infrastruktur dar. Wenn Sicherheitslücken in bestehenden System nicht geschlossen und aufgedeckt oder neue aufgebrochen werden, wird damit die IT-Sicherheitsforschung ad absurdum geführt. Nicht die Begehren der Überwacher, sondern das Interesse des Einzelnen an Informationssicherheit hat Vorrang zu haben. 
+Onlinedurchsuchungen stellen zudem eine massive Bedrohung fÃ¼r die Sicherheit der informationellen Infrastruktur dar. Wenn SicherheitslÃ¼cken in bestehenden System nicht geschlossen und aufgedeckt oder neue aufgebrochen werden, wird damit die IT-Sicherheitsforschung ad absurdum gefÃ¼hrt. Nicht die Begehren der Ãœberwacher, sondern das Interesse des Einzelnen an Informationssicherheit hat Vorrang zu haben. 
 
 ## Keine Vorratsdatenspeicherung
 
-Die Sicherung des Fernmeldegeheimnisses ist ein wichtiger Grundpfeiler zum Erhalt der Demokratie. Das Fernmeldegeheimnis ist unter anderem durch die Einführung der Vorratsdatenspeicherung bedroht. 
+Die Sicherung des Fernmeldegeheimnisses ist ein wichtiger Grundpfeiler zum Erhalt der Demokratie. Das Fernmeldegeheimnis ist unter anderem durch die EinfÃ¼hrung der Vorratsdatenspeicherung bedroht. 
 
-Die Vorratsdatenspeicherung in der derzeit beschlossenen Form muss ersatzlos gestrichen werden, da diese ein eklatanter Verstoß gegenüber Artikel 10 GG darstellt, in dem systematisch und unter der Annahme einer Kollektivschuld aller an der öffentlich zugänglichen Telekommunikation beteiligter Bürger ausgegangen wird. Auch die Umstände der Telekommunikation sind nach den Leitsätzen im Urteil BvR 1611/96 des Bundesverfassungsgerichtes von Artikel 10 GG geschützt. 
+Die Vorratsdatenspeicherung in der derzeit beschlossenen Form muss ersatzlos gestrichen werden, da diese ein eklatanter VerstoÃŸ gegenÃ¼ber Artikel 10 GG darstellt, in dem systematisch und unter der Annahme einer Kollektivschuld aller an der Ã¶ffentlich zugÃ¤nglichen Telekommunikation beteiligter BÃ¼rger ausgegangen wird. Auch die UmstÃ¤nde der Telekommunikation sind nach den LeitsÃ¤tzen im Urteil BvR 1611/96 des Bundesverfassungsgerichtes von Artikel 10 GG geschÃ¼tzt. 
 
-## Datensicherheit und Wahrung der Privatsphäre
+## Datensicherheit und Wahrung der PrivatsphÃ¤re
 
-Zur Gewährleistung von Datensicherheit und Privatsphäre müssen unterstützende Technologien in besonderem Maße gefördert werden. Dazu sollen öffentliche Forschungsprojekte mit dem Ziel gestartet werden, solche Technologien zu entwickeln und einsetzbar zu gestalten. Die Informationsinfrastruktur muss von unabhängigen Fachleuten überprüft werden. 
+Zur GewÃ¤hrleistung von Datensicherheit und PrivatsphÃ¤re mÃ¼ssen unterstÃ¼tzende Technologien in besonderem MaÃŸe gefÃ¶rdert werden. Dazu sollen Ã¶ffentliche Forschungsprojekte mit dem Ziel gestartet werden, solche Technologien zu entwickeln und einsetzbar zu gestalten. Die Informationsinfrastruktur muss von unabhÃ¤ngigen Fachleuten Ã¼berprÃ¼ft werden. 
 
 ## Keine elektronischen Ausweisdokumente
 
-Biometrische Merkmale dürfen nicht im Zusammenhang mit offiziellen Dokumenten zur Identifikation eines Bürgers gespeichert werden, bereits erhobene Daten müssen gelöscht werden. 
+Biometrische Merkmale dÃ¼rfen nicht im Zusammenhang mit offiziellen Dokumenten zur Identifikation eines BÃ¼rgers gespeichert werden, bereits erhobene Daten mÃ¼ssen gelÃ¶scht werden. 
 
-Die Speicherung von biometrischen Daten im Zusammenhang mit Personaldokumenten bringt in der eigentlichen Sache, der besseren Erkennbarkeit von gesuchten Personen, keinen Sicherheitsgewinn, da dieser von der Zielgruppe dieser Maßnahme umgangen werden kann. Eine erhöhte Fälschungssicherheit, die diese Maßnahmen rechtfertigen würde, ist ebenfalls nicht gegeben. Der einzige Zweck dieser Dokumente ist eine möglichst lückenlose Überwachbarkeit großer Teile der Bevölkerung und ein großer Schritt hin zur systematischen staatlichen Überwachung. Dieser Schritt wird vor allem durch die Möglichkeit der RFID-Technik, Daten berührungslos aus mittlerer Entfernung und ohne Einflußnahme des Trägers abzurufen, ermöglicht. 
+Die Speicherung von biometrischen Daten im Zusammenhang mit Personaldokumenten bringt in der eigentlichen Sache, der besseren Erkennbarkeit von gesuchten Personen, keinen Sicherheitsgewinn, da dieser von der Zielgruppe dieser MaÃŸnahme umgangen werden kann. Eine erhÃ¶hte FÃ¤lschungssicherheit, die diese MaÃŸnahmen rechtfertigen wÃ¼rde, ist ebenfalls nicht gegeben. Der einzige Zweck dieser Dokumente ist eine mÃ¶glichst lÃ¼ckenlose Ãœberwachbarkeit groÃŸer Teile der BevÃ¶lkerung und ein groÃŸer Schritt hin zur systematischen staatlichen Ãœberwachung. Dieser Schritt wird vor allem durch die MÃ¶glichkeit der RFID-Technik, Daten berÃ¼hrungslos aus mittlerer Entfernung und ohne EinfluÃŸnahme des TrÃ¤gers abzurufen, ermÃ¶glicht. 
 
-## Rückbau der Videoüberwachung
+## RÃ¼ckbau der VideoÃ¼berwachung
 
-Der Ausbau der Videoüberwachung an öffentlichen Plätzen muss gestoppt werden, da er nur scheinbar Sicherheit vermittelt, und eine Verschwendung von Steuergeldern darstellt. Zudem verhindert Videoüberwachung keine Straftaten, in Berlin führte die Einführung der Videoüberwachung und -aufzeichnung auf drei U-Bahn-Linien beispielsweise nicht zu einer sinkenden Kriminalitätsrate, sondern im Gegenteil sogar zu einem leichten Anstieg. 
+Der Ausbau der VideoÃ¼berwachung an Ã¶ffentlichen PlÃ¤tzen muss gestoppt werden, da er nur scheinbar Sicherheit vermittelt, und eine Verschwendung von Steuergeldern darstellt. Zudem verhindert VideoÃ¼berwachung keine Straftaten, in Berlin fÃ¼hrte die EinfÃ¼hrung der VideoÃ¼berwachung und -aufzeichnung auf drei U-Bahn-Linien beispielsweise nicht zu einer sinkenden KriminalitÃ¤tsrate, sondern im Gegenteil sogar zu einem leichten Anstieg. 
 
-Zielführender sind hier eine bessere Ausleuchtung und eine verstärkte persönliche Polizeipräsenz. Videoüberwachung im öffentlichen Raum betrifft nahezu nur unverdächtige Normalbürger. Es gibt keinen Verdacht gegen eine konkrete Person, sondern alle Personen unterstehen einem Generalverdacht. 
+ZielfÃ¼hrender sind hier eine bessere Ausleuchtung und eine verstÃ¤rkte persÃ¶nliche PolizeiprÃ¤senz. VideoÃ¼berwachung im Ã¶ffentlichen Raum betrifft nahezu nur unverdÃ¤chtige NormalbÃ¼rger. Es gibt keinen Verdacht gegen eine konkrete Person, sondern alle Personen unterstehen einem Generalverdacht. 
 
 # Sicherheit
 
-Der Bereich Inneres ist für die Piratenpartei von zentraler Bedeutung. Das massive Missbrauchspotenzial durch die installierten Überwachungstechniken und -werkzeuge erfordert allerhöchste Wachsamkeit bei den Beamtinnen und Beamten, die diese Werkzeuge bedienen. Ethische und moralische Grundsätze dürfen nicht übergangen werden. Die Möglichkeit der Nötigung durch Vorgesetzte, gegen geltendes Recht oder gegen ihr eigenes Gewissen zu handeln, muss bei Beamtinnen und Beamten ausgeschlossen sein. Diese und viele andere denkbare Konflikte tauchen im Zusammenhang mit der Einführung der Vorratsdatenspeicherung in Deutschland im Januar 2008 auf. 
+Der Bereich Inneres ist fÃ¼r die Piratenpartei von zentraler Bedeutung. Das massive Missbrauchspotenzial durch die installierten Ãœberwachungstechniken und -werkzeuge erfordert allerhÃ¶chste Wachsamkeit bei den Beamtinnen und Beamten, die diese Werkzeuge bedienen. Ethische und moralische GrundsÃ¤tze dÃ¼rfen nicht Ã¼bergangen werden. Die MÃ¶glichkeit der NÃ¶tigung durch Vorgesetzte, gegen geltendes Recht oder gegen ihr eigenes Gewissen zu handeln, muss bei Beamtinnen und Beamten ausgeschlossen sein. Diese und viele andere denkbare Konflikte tauchen im Zusammenhang mit der EinfÃ¼hrung der Vorratsdatenspeicherung in Deutschland im Januar 2008 auf. 
 
 ## Innere Sicherheit
 
-Sicherheit entsteht durch Nähe und Vertrauen. Die Piratenpartei Hessen setzt sich für die Aus- und Weiterbildung der Polizei in Hessen ein und will das öffentliche Bild der Polizei als kritisch und bürgernah stärken. Wir brauchen soziale Kompetenz und Persönlichkeit im Polizeidienst. Der Stellenabbau bei der Polizei muss rückgängig gemacht werden, die Finanzierung wird durch freigesetzte Mittel der zu streichenden verfassungswidrigen Projekte Antiterrordatei sowie lebenslang gültige Steuernummer unterstützt. 
+Sicherheit entsteht durch NÃ¤he und Vertrauen. Die Piratenpartei Hessen setzt sich fÃ¼r die Aus- und Weiterbildung der Polizei in Hessen ein und will das Ã¶ffentliche Bild der Polizei als kritisch und bÃ¼rgernah stÃ¤rken. Wir brauchen soziale Kompetenz und PersÃ¶nlichkeit im Polizeidienst. Der Stellenabbau bei der Polizei muss rÃ¼ckgÃ¤ngig gemacht werden, die Finanzierung wird durch freigesetzte Mittel der zu streichenden verfassungswidrigen Projekte Antiterrordatei sowie lebenslang gÃ¼ltige Steuernummer unterstÃ¼tzt. 
 
 ## Justiz und Polizei
 
-Justitia mag blind sein, aber dies sollte sie wenigstens für jeden Bürger - unabhängig von Wohnort und Vermögen - gleich sein. Kürzungen und Schließungen in der Justiz bedrohen die dritte Säule unseres Rechtsstaates, ein Umstand, den wir als nicht hinnehmbar betrachten. 
+Justitia mag blind sein, aber dies sollte sie wenigstens fÃ¼r jeden BÃ¼rger - unabhÃ¤ngig von Wohnort und VermÃ¶gen - gleich sein. KÃ¼rzungen und SchlieÃŸungen in der Justiz bedrohen die dritte SÃ¤ule unseres Rechtsstaates, ein Umstand, den wir als nicht hinnehmbar betrachten. 
 
-Wir stehen für eine bürgernahe, leistungsfähige und unabhängige Gerichtsversorgung in der Fläche als unverzichtbare Voraussetzung für die Herstellung und den Erhalt des Rechtsfriedens. Wir setzen uns zudem für die Konstanz in den Justizstrukturen und Effizienz im Rahmen der personellen und sachlichen Ausstattung der Gerichte ein. 
+Wir stehen fÃ¼r eine bÃ¼rgernahe, leistungsfÃ¤hige und unabhÃ¤ngige Gerichtsversorgung in der FlÃ¤che als unverzichtbare Voraussetzung fÃ¼r die Herstellung und den Erhalt des Rechtsfriedens. Wir setzen uns zudem fÃ¼r die Konstanz in den Justizstrukturen und Effizienz im Rahmen der personellen und sachlichen Ausstattung der Gerichte ein. 
 
-Eine funktionierende und rechtsstaatlich verankerte Polizei als Teil der Exekutive ist unser Ziel. Wir setzen uns für eine Kennzeichnungspflicht für Polizeibeamte ein. Beamte im Einsatz bei Versammlungen sind zu verpflichten, von weitem sicht- und erkennbare Kennzeichen zu tragen. Um dem berechtigten Interesse der Beamten nach Datenschutz Rechnung zu tragen, sind die Kennzeichen pseudonym zu gestalten und dürfen von Einsatz zu Einsatz wechseln. Es muss jederzeit auch im Nachhinein sichergestellt sein, dass mit Hilfe eines richterlichen Beschlusses ein Kennzeichen einer Person zuzuordnen ist. 
+Eine funktionierende und rechtsstaatlich verankerte Polizei als Teil der Exekutive ist unser Ziel. Wir setzen uns fÃ¼r eine Kennzeichnungspflicht fÃ¼r Polizeibeamte ein. Beamte im Einsatz bei Versammlungen sind zu verpflichten, von weitem sicht- und erkennbare Kennzeichen zu tragen. Um dem berechtigten Interesse der Beamten nach Datenschutz Rechnung zu tragen, sind die Kennzeichen pseudonym zu gestalten und dÃ¼rfen von Einsatz zu Einsatz wechseln. Es muss jederzeit auch im Nachhinein sichergestellt sein, dass mit Hilfe eines richterlichen Beschlusses ein Kennzeichen einer Person zuzuordnen ist. 
 
 # Bildung
 
-Es ist erforderlich, die in anderen Ländern erfolgreichen Maßnahmen zu erkennen und für Hessen zu adaptieren. Schulen müssen dazu beitragen, soziale Kluften zu überwinden, statt sie zu verstärken. Hierbei müssen Konzepte wie Ganztagsschule, Betreuung durch Pädagogen in freien Nachmittagszeiten aber auch gezielte Förderung leistungsschwacher Schüler diskutiert werden. Möglichkeiten des gemeinsamen Schulweges und die Bevorzugung öffentlicher Transportmittel einerseits im sozialen Kontext, anderseits aber auch im Sinne des Umweltschutzgedankens sind zu prüfen und umzusetzen. 
+Es ist erforderlich, die in anderen LÃ¤ndern erfolgreichen MaÃŸnahmen zu erkennen und fÃ¼r Hessen zu adaptieren. Schulen mÃ¼ssen dazu beitragen, soziale Kluften zu Ã¼berwinden, statt sie zu verstÃ¤rken. Hierbei mÃ¼ssen Konzepte wie Ganztagsschule, Betreuung durch PÃ¤dagogen in freien Nachmittagszeiten aber auch gezielte FÃ¶rderung leistungsschwacher SchÃ¼ler diskutiert werden. MÃ¶glichkeiten des gemeinsamen Schulweges und die Bevorzugung Ã¶ffentlicher Transportmittel einerseits im sozialen Kontext, anderseits aber auch im Sinne des Umweltschutzgedankens sind zu prÃ¼fen und umzusetzen. 
 
-Neben einer ausreichenden Zahl von Lehrern ist die Fortbildung der schon vorhandenen Lehrer zu fördern. Gerade Lehrer brauchen Kompetenz im Umgang mit neuen Medien. Es kann nicht sein, dass Kinder, Schüler und Auszubildende diese Aufgabe indirekt wahrnehmen, wie es heute an vielen Bildungseinrichtungen der Fall ist. Hierzu zählt auch die Forderung nach Benutzung von offenen, nach DIN oder ISO zertifizierten Standards zum Datenaustausch sowohl im Unterricht als auch in der Verwaltung. 
+Neben einer ausreichenden Zahl von Lehrern ist die Fortbildung der schon vorhandenen Lehrer zu fÃ¶rdern. Gerade Lehrer brauchen Kompetenz im Umgang mit neuen Medien. Es kann nicht sein, dass Kinder, SchÃ¼ler und Auszubildende diese Aufgabe indirekt wahrnehmen, wie es heute an vielen Bildungseinrichtungen der Fall ist. Hierzu zÃ¤hlt auch die Forderung nach Benutzung von offenen, nach DIN oder ISO zertifizierten Standards zum Datenaustausch sowohl im Unterricht als auch in der Verwaltung. 
 
-Unterrichtsgarantie Plus darf kein Modell für Unterricht durch unqualifiziertes Lehrpersonal und verschwendete Schulzeit bleiben. Der Festanstellung von Lehrern zur Pufferung krankheits- und fortbildungsbedingter Unterrichtsausfälle ist der Vorzug zu geben. Unterrichtsmaterialien müssen wieder kostenfrei zu Verfügung gestellt werden. Für Ganztagsschulen oder bei Nachmittagsunterricht ist es erforderlich, eine kostenlose Verpflegung mit vollwertigen Mahlzeiten anzubieten. Dass diese auch eher ökologischen Maßstäben entsprechen und nicht von minderwertiger Kantinenqualität sein sollte, ist selbstverständlich. Die Umsetzbarkeit dieser Forderungen zeigen zahlreiche Modelle. 
+Unterrichtsgarantie Plus darf kein Modell fÃ¼r Unterricht durch unqualifiziertes Lehrpersonal und verschwendete Schulzeit bleiben. Der Festanstellung von Lehrern zur Pufferung krankheits- und fortbildungsbedingter UnterrichtsausfÃ¤lle ist der Vorzug zu geben. Unterrichtsmaterialien mÃ¼ssen wieder kostenfrei zu VerfÃ¼gung gestellt werden. FÃ¼r Ganztagsschulen oder bei Nachmittagsunterricht ist es erforderlich, eine kostenlose Verpflegung mit vollwertigen Mahlzeiten anzubieten. Dass diese auch eher Ã¶kologischen MaÃŸstÃ¤ben entsprechen und nicht von minderwertiger KantinenqualitÃ¤t sein sollte, ist selbstverstÃ¤ndlich. Die Umsetzbarkeit dieser Forderungen zeigen zahlreiche Modelle. 
 
-Die Einführung der Studiengebühren zur Erhöhung der Effizienz in Hochschulen und Universitäten verfehlte klar ihr Ziel, Mit ihrer Rücknahme ist ein erster Schritt getan. Jetzt sind Finanzierungsmodelle umzusetzen, die eine Benachteiligung sozial und finanziell schwächer gestellter Studenten ausschließen. Als Finanzierungsmodelle für Hochschulen sind neben der öffentlichen Hand auch private und gewerbliche Stiftungen anzustreben. Die freie und uneingeschränkte Zugänglichkeit zu Wissen und Werken, die in Hochschulen erarbeitet wurden, muss für alle öffentlichen Einrichtungen gewährleistet sein. Wirtschaftlich verwertbare Forschungsergebnisse und daraus erzielte Erlöse sollen in den Ausbau von Bildungseinrichtungen fließen. 
+Die EinfÃ¼hrung der StudiengebÃ¼hren zur ErhÃ¶hung der Effizienz in Hochschulen und UniversitÃ¤ten verfehlte klar ihr Ziel, Mit ihrer RÃ¼cknahme ist ein erster Schritt getan. Jetzt sind Finanzierungsmodelle umzusetzen, die eine Benachteiligung sozial und finanziell schwÃ¤cher gestellter Studenten ausschlieÃŸen. Als Finanzierungsmodelle fÃ¼r Hochschulen sind neben der Ã¶ffentlichen Hand auch private und gewerbliche Stiftungen anzustreben. Die freie und uneingeschrÃ¤nkte ZugÃ¤nglichkeit zu Wissen und Werken, die in Hochschulen erarbeitet wurden, muss fÃ¼r alle Ã¶ffentlichen Einrichtungen gewÃ¤hrleistet sein. Wirtschaftlich verwertbare Forschungsergebnisse und daraus erzielte ErlÃ¶se sollen in den Ausbau von Bildungseinrichtungen flieÃŸen. 
 
-Der Landesverband Hessen der Piratenpartei Deutschland will Rahmenbedingungen einführen, die das immerwährende Lernen in allen Lebensbereichen ermöglichen.
+Der Landesverband Hessen der Piratenpartei Deutschland will Rahmenbedingungen einfÃ¼hren, die das immerwÃ¤hrende Lernen in allen Lebensbereichen ermÃ¶glichen.
 
-Der Landesverband Hessen der Piratenpartei Deutschland will Bildungseinrichtungen als demokratischen und öffentlichen Handlungsraum ihrer Teilnehmer gestalten und die Lernenden zu Hauptakteuren machen.
+Der Landesverband Hessen der Piratenpartei Deutschland will Bildungseinrichtungen als demokratischen und Ã¶ffentlichen Handlungsraum ihrer Teilnehmer gestalten und die Lernenden zu Hauptakteuren machen.
 
 ## Neue Bildungskonzepte
 
-Die deutsche Bildungspolitik ist in Lagern gefangen, die sich kaum bewegen können. Die hessischen Piraten sehen Bildung als lebenslangen Prozess, der nicht nur auf junge Menschen beschränkt werden sollte. Wir wollen deshalb Rahmenbedingungen einführen, die das immerwährende Lernen in allen Lebensbereichen ermöglichen. 
+Die deutsche Bildungspolitik ist in Lagern gefangen, die sich kaum bewegen kÃ¶nnen. Die hessischen Piraten sehen Bildung als lebenslangen Prozess, der nicht nur auf junge Menschen beschrÃ¤nkt werden sollte. Wir wollen deshalb Rahmenbedingungen einfÃ¼hren, die das immerwÃ¤hrende Lernen in allen Lebensbereichen ermÃ¶glichen. 
 
-Zudem soll endlich wieder der Lernende im Mittelpunkt stehen und zum Hauptakteuer des eigenen Bildungsprozesses werden. Durch mehr Mitbestimmung und Transparenz in den Lehrplänen und Angeboten wollen wir Bildungseinrichtungen als demokratischen und öffentlichen Handlungsraum der Teilnehmer gestalten. 
+Zudem soll endlich wieder der Lernende im Mittelpunkt stehen und zum Hauptakteuer des eigenen Bildungsprozesses werden. Durch mehr Mitbestimmung und Transparenz in den LehrplÃ¤nen und Angeboten wollen wir Bildungseinrichtungen als demokratischen und Ã¶ffentlichen Handlungsraum der Teilnehmer gestalten. 
 
 ## Bildung in einer freiheitlich-demokratischen Gesellschaft
 
-Jeder Mensch hat das Recht auf freien Zugang zu Information und Bildung. Dies ist in einer freiheitlich-demokratischen Gesellschaft essentiell, um jedem Menschen, unabhängig von seiner sozialen Herkunft, ein größtmögliches Maß an gesellschaftlicher Teilhabe zu ermöglichen. Mit diesem Ziel ist das Hauptanliegen institutioneller Bildung die Unterstützung bei der Entwicklung zur mündigen, kritischen und sozialen Person. 
+Jeder Mensch hat das Recht auf freien Zugang zu Information und Bildung. Dies ist in einer freiheitlich-demokratischen Gesellschaft essentiell, um jedem Menschen, unabhÃ¤ngig von seiner sozialen Herkunft, ein grÃ¶ÃŸtmÃ¶gliches MaÃŸ an gesellschaftlicher Teilhabe zu ermÃ¶glichen. Mit diesem Ziel ist das Hauptanliegen institutioneller Bildung die UnterstÃ¼tzung bei der Entwicklung zur mÃ¼ndigen, kritischen und sozialen Person. 
 
-Der freie Zugang zu Information und Bildung ist jedoch nicht nur im Hinblick auf die gesellschaftliche Entwicklung notwendig, sondern auch im Hinblick auf die wirtschaftliche Entwicklung unserer Gesellschaft. Bildung ist eine der wichtigsten Ressourcen der deutschen Volkswirtschaft, da nur durch den Erhalt, die Weitergabe und die Vermehrung von Wissen Fortschritt und gesellschaftlicher Wohlstand auf Dauer gesichert werden können. 
+Der freie Zugang zu Information und Bildung ist jedoch nicht nur im Hinblick auf die gesellschaftliche Entwicklung notwendig, sondern auch im Hinblick auf die wirtschaftliche Entwicklung unserer Gesellschaft. Bildung ist eine der wichtigsten Ressourcen der deutschen Volkswirtschaft, da nur durch den Erhalt, die Weitergabe und die Vermehrung von Wissen Fortschritt und gesellschaftlicher Wohlstand auf Dauer gesichert werden kÃ¶nnen. 
 
 Investitionen in Bildung sind Investitionen in die Zukunft. 
 
-## Die öffentliche Bildungsinfrastruktur
+## Die Ã¶ffentliche Bildungsinfrastruktur
 
-Der freie Zugang zu Bildungseinrichtungen ist im Interesse aller. Deshalb ist es Aufgabe der gesamten Gesellschaft, in Form des Staates, eine leistungsfähige und ihrem Zwecke angemessene Bildungsinfrastruktur zu finanzieren und frei zur Verfügung zu stellen. Private Finanzierung öffentlicher Bildungseinrichtungen ist grundsätzlich zu begrüßen, solange sie keinen Einfluss auf die bestehenden Lehrinhalte hat. 
+Der freie Zugang zu Bildungseinrichtungen ist im Interesse aller. Deshalb ist es Aufgabe der gesamten Gesellschaft, in Form des Staates, eine leistungsfÃ¤hige und ihrem Zwecke angemessene Bildungsinfrastruktur zu finanzieren und frei zur VerfÃ¼gung zu stellen. Private Finanzierung Ã¶ffentlicher Bildungseinrichtungen ist grundsÃ¤tzlich zu begrÃ¼ÃŸen, solange sie keinen Einfluss auf die bestehenden Lehrinhalte hat. 
 
-Bildungsgebühren jeglicher Art schränken den Zugang zu Bildung ein und sind deshalb kategorisch abzulehnen. Aus diesem Grund ist auch die Lehrmittelfreiheit zu befürworten. Diese ist am besten dadurch herzustellen, dass die Verwendung und das Schaffen von freien Werken zur Vermittlung von Wissen unterstützt und ausgebaut wird. Diese freien Werke sind nicht nur kostenfrei im Unterricht einsetzbar, sondern ermöglichen dazu dem Lehrenden ohne rechtliche Hürden die Lernmittel auf seinen Unterricht anzupassen. 
+BildungsgebÃ¼hren jeglicher Art schrÃ¤nken den Zugang zu Bildung ein und sind deshalb kategorisch abzulehnen. Aus diesem Grund ist auch die Lehrmittelfreiheit zu befÃ¼rworten. Diese ist am besten dadurch herzustellen, dass die Verwendung und das Schaffen von freien Werken zur Vermittlung von Wissen unterstÃ¼tzt und ausgebaut wird. Diese freien Werke sind nicht nur kostenfrei im Unterricht einsetzbar, sondern ermÃ¶glichen dazu dem Lehrenden ohne rechtliche HÃ¼rden die Lernmittel auf seinen Unterricht anzupassen. 
 
-Trotz des staatlichen Bildungsauftrages soll die Erziehung in Bildungseinrichtungen die Erziehung durch die Eltern nicht ersetzen. Zur umfassenden Bildung gehört, dass sich beide Formen der Erziehung gegenseitig ergänzen und fördern. 
+Trotz des staatlichen Bildungsauftrages soll die Erziehung in Bildungseinrichtungen die Erziehung durch die Eltern nicht ersetzen. Zur umfassenden Bildung gehÃ¶rt, dass sich beide Formen der Erziehung gegenseitig ergÃ¤nzen und fÃ¶rdern. 
 
 ## Bildung als individueller Prozess
 
-Jeder Mensch ist ein Individuum mit persönlichen Neigungen, Stärken und Schwächen. Institutionelle Bildung soll daher den Einzelnen unterstützen seine Begabungen zu entfalten, Schwächen abzubauen und neue Interessen und Fähigkeiten zu entdecken. Neben starren Lehr- und Stundenplänen, werden vor allem einige Formen der Leistungsbewertung diesen Forderungen nicht gerecht. Insbesondere die Bewertung von Verhalten nach einem vorgegebenen Normenraster z.B. bei den sogenannten Kopfnoten lehnen wir ab. 
+Jeder Mensch ist ein Individuum mit persÃ¶nlichen Neigungen, StÃ¤rken und SchwÃ¤chen. Institutionelle Bildung soll daher den Einzelnen unterstÃ¼tzen seine Begabungen zu entfalten, SchwÃ¤chen abzubauen und neue Interessen und FÃ¤higkeiten zu entdecken. Neben starren Lehr- und StundenplÃ¤nen, werden vor allem einige Formen der Leistungsbewertung diesen Forderungen nicht gerecht. Insbesondere die Bewertung von Verhalten nach einem vorgegebenen Normenraster z.B. bei den sogenannten Kopfnoten lehnen wir ab. 
 
-Die Bildungsinhalte haben auf fundierten und belegbaren Erkenntnissen zu basieren und müssen von einem möglichst neutralen Standpunkt aus vermittelt werden. Dies beinhaltet vor allem eine sachliche Darstellung, die Ausgewogenheit der Standpunkte und eine kritische Quellenbewertung. 
+Die Bildungsinhalte haben auf fundierten und belegbaren Erkenntnissen zu basieren und mÃ¼ssen von einem mÃ¶glichst neutralen Standpunkt aus vermittelt werden. Dies beinhaltet vor allem eine sachliche Darstellung, die Ausgewogenheit der Standpunkte und eine kritische Quellenbewertung. 
 
 ## Demokratisierung der Bildungseinrichtungen
 
-Die Bildungseinrichtungen sind für die dortigen Schüler und Studenten ein prägender und umfassender Bestandteil ihres Lebens. Sie sind deswegen als Lebensraum der Lernenden zu begreifen, dessen Gestaltung und Nutzung ihnen stets offen stehen muss. Eine demokratische Organisation der Bildungseinrichtungen soll den Lernenden, genau wie den anderen Interessengruppen der Bildungseinrichtungen, eine angemessene Einflussnahme ermöglichen. Auf diese Weise werden demokratische Werte vermittelt und vorgelebt, die Akzeptanz der Entscheidungen erhöht, sowie das Gemeinschaftsgefühl innerhalb der Bildungseinrichtungen gestärkt. 
+Die Bildungseinrichtungen sind fÃ¼r die dortigen SchÃ¼ler und Studenten ein prÃ¤gender und umfassender Bestandteil ihres Lebens. Sie sind deswegen als Lebensraum der Lernenden zu begreifen, dessen Gestaltung und Nutzung ihnen stets offen stehen muss. Eine demokratische Organisation der Bildungseinrichtungen soll den Lernenden, genau wie den anderen Interessengruppen der Bildungseinrichtungen, eine angemessene Einflussnahme ermÃ¶glichen. Auf diese Weise werden demokratische Werte vermittelt und vorgelebt, die Akzeptanz der Entscheidungen erhÃ¶ht, sowie das GemeinschaftsgefÃ¼hl innerhalb der Bildungseinrichtungen gestÃ¤rkt. 
 
 # Informationsfreiheit und Transparenz
 
-Ein wesentlicher Teil der Politik der Piraten stellt die Durchsichtigkeit und Nachvollziehbarkeit politischer Vorgänge dar. Genauso wie parlamentarische Abstimmungen in aller Regel offen und für jedermann nachvollziehbar sind, müssen politische Entscheidungen für den Bürger als Souverän des Staates offen und nachvollziehbar sein. In den wesentlichen Teilen unserer Demokratie dürfen technische Hilfsmittel, die untergeordneten Zwecken dienen, demokratische Strukturen nicht beeinträchtigen. Die Piraten fordern die Rückkehr zu Techniken bei Wahlen, die den Grundsätzen des Wahlrechts genügen. Insbesondere ist die Nachprüfbarkeit von Wahlen durch Jedermann sicherzustellen, um die der indirekten Demokratie innewohnenden Einschränkungen nicht auch noch durch vermeintliche oder tatsächliche Technikfehler oder Manipulationen zu verstärken. Wir Piraten fordern einen Diskurs über die Einführung und Erprobung direkter Demokratie in Teilbereichen wie Kommunen und Gemeinden sowie organisatorischer Bereiche zum Beispiel im Bildungsbereich. 
+Ein wesentlicher Teil der Politik der Piraten stellt die Durchsichtigkeit und Nachvollziehbarkeit politischer VorgÃ¤nge dar. Genauso wie parlamentarische Abstimmungen in aller Regel offen und fÃ¼r jedermann nachvollziehbar sind, mÃ¼ssen politische Entscheidungen fÃ¼r den BÃ¼rger als SouverÃ¤n des Staates offen und nachvollziehbar sein. In den wesentlichen Teilen unserer Demokratie dÃ¼rfen technische Hilfsmittel, die untergeordneten Zwecken dienen, demokratische Strukturen nicht beeintrÃ¤chtigen. Die Piraten fordern die RÃ¼ckkehr zu Techniken bei Wahlen, die den GrundsÃ¤tzen des Wahlrechts genÃ¼gen. Insbesondere ist die NachprÃ¼fbarkeit von Wahlen durch Jedermann sicherzustellen, um die der indirekten Demokratie innewohnenden EinschrÃ¤nkungen nicht auch noch durch vermeintliche oder tatsÃ¤chliche Technikfehler oder Manipulationen zu verstÃ¤rken. Wir Piraten fordern einen Diskurs Ã¼ber die EinfÃ¼hrung und Erprobung direkter Demokratie in Teilbereichen wie Kommunen und Gemeinden sowie organisatorischer Bereiche zum Beispiel im Bildungsbereich. 
 
-Lobbyarbeit kann einerseits die Wissensbasis zur Entscheidungsfindung erweitern, birgt aber andererseits die Gefahr der gewollten oder ungewollten Beeinflussung. Deshalb ist die Arbeit von und mit Interessensvertretern der verschiedenen gesellschaftlichen Gruppierungen jederzeit offen zu legen und zu dokumentieren. Sowohl für Parlamentarier als auch für Regierende und Ausführende muss eine größtmögliche Auskunftspflicht bestehen, die allerdings jederzeit den datenschutzrechtlichen Bestimmungen genügen muss. Hierzu zählt auch die umfassende Offenlegung der Einkommensverhältnisse aller an der politischen Entscheidungsfindung Beteiligten. Eine ausreichende Alimentierung ist Voraussetzung für unabhängige und effektive Arbeit. Einem Verdacht auf Vorteilsnahme durch Regierende und Parlamentarier kann auf diese Weise effektiv begegnet werden. 
+Lobbyarbeit kann einerseits die Wissensbasis zur Entscheidungsfindung erweitern, birgt aber andererseits die Gefahr der gewollten oder ungewollten Beeinflussung. Deshalb ist die Arbeit von und mit Interessensvertretern der verschiedenen gesellschaftlichen Gruppierungen jederzeit offen zu legen und zu dokumentieren. Sowohl fÃ¼r Parlamentarier als auch fÃ¼r Regierende und AusfÃ¼hrende muss eine grÃ¶ÃŸtmÃ¶gliche Auskunftspflicht bestehen, die allerdings jederzeit den datenschutzrechtlichen Bestimmungen genÃ¼gen muss. Hierzu zÃ¤hlt auch die umfassende Offenlegung der EinkommensverhÃ¤ltnisse aller an der politischen Entscheidungsfindung Beteiligten. Eine ausreichende Alimentierung ist Voraussetzung fÃ¼r unabhÃ¤ngige und effektive Arbeit. Einem Verdacht auf Vorteilsnahme durch Regierende und Parlamentarier kann auf diese Weise effektiv begegnet werden. 
 
 # Open Access
 
-Aus dem Staatshaushalt wird eine Vielzahl von schöpferischen Tätigkeiten finanziert, die als Produkt urheberrechtlich geschützte Werke hervorbringen. Da diese Werke von der Allgemeinheit finanziert werden, sollten sie auch der Allgemeinheit kostenlos zur Verfügung stehen. Tatsächlich ist dies heute selten der Fall. 
+Aus dem Staatshaushalt wird eine Vielzahl von schÃ¶pferischen TÃ¤tigkeiten finanziert, die als Produkt urheberrechtlich geschÃ¼tzte Werke hervorbringen. Da diese Werke von der Allgemeinheit finanziert werden, sollten sie auch der Allgemeinheit kostenlos zur VerfÃ¼gung stehen. TatsÃ¤chlich ist dies heute selten der Fall. 
 
 ## In der Forschung
 
-Die Publikationen aus staatlich finanzierter oder geförderter Forschung und Lehre werden oft in kommerziellen Verlagen publiziert, deren Qualitätssicherung von ebenfalls meist staatlich bezahlten Wissenschaftlern im Peer-Review-Prozess übernommen wird. Die Publikationen werden jedoch nicht einmal den Bibliotheken der Forschungseinrichtungen kostenlos zur Verfügung gestellt. Der Steuerzahler kommt also dreifach (Produktion, Qualitätssicherung, Nutzung) für die Kosten der Publikationen auf, während private Verleger den Gewinn abschöpfen. 
+Die Publikationen aus staatlich finanzierter oder gefÃ¶rderter Forschung und Lehre werden oft in kommerziellen Verlagen publiziert, deren QualitÃ¤tssicherung von ebenfalls meist staatlich bezahlten Wissenschaftlern im Peer-Review-Prozess Ã¼bernommen wird. Die Publikationen werden jedoch nicht einmal den Bibliotheken der Forschungseinrichtungen kostenlos zur VerfÃ¼gung gestellt. Der Steuerzahler kommt also dreifach (Produktion, QualitÃ¤tssicherung, Nutzung) fÃ¼r die Kosten der Publikationen auf, wÃ¤hrend private Verleger den Gewinn abschÃ¶pfen. 
 
-Die Piraten unterstützen die Berliner Erklärung der Open-Access-Bewegung und fordern die Zugänglichmachung des wissenschaftlichen und kulturellen Erbes der Menschheit über das Internet nach dem Prinzip des Open Access. Es ist die Aufgabe des Staates, dieses Prinzip an den von ihm finanzierten und geförderten Einrichtungen durchzusetzen. 
+Die Piraten unterstÃ¼tzen die Berliner ErklÃ¤rung der Open-Access-Bewegung und fordern die ZugÃ¤nglichmachung des wissenschaftlichen und kulturellen Erbes der Menschheit Ã¼ber das Internet nach dem Prinzip des Open Access. Es ist die Aufgabe des Staates, dieses Prinzip an den von ihm finanzierten und gefÃ¶rderten Einrichtungen durchzusetzen. 
 
-## In der öffentlichen Verwaltung
+## In der Ã¶ffentlichen Verwaltung
 
-Die Piraten fordern die Einbeziehung von Software und anderen digitalen Gütern, die mit öffentlichen Mitteln produziert werden, in das Open-Access-Konzept. Werke, die von oder im Auftrag von staatlichen Stellen erstellt werden, sollen der Öffentlichkeit zur freien Verwendung zur Verfügung gestellt werden. Der Quelltext von Software muss dabei Teil der Veröffentlichung sein. Dies ist nicht nur zum direkten Nutzen der Öffentlichkeit, sondern auch die staatlichen Stellen können im Gegenzug von Verbesserungen durch die Öffentlichkeit profitieren (Open-Source-Prinzip/Freie Software). Weiterhin wird die Nachhaltigkeit der öffentlich eingesetzten IT-Infrastruktur verbessert und die Abhängigkeit von Softwareanbietern verringert. 
+Die Piraten fordern die Einbeziehung von Software und anderen digitalen GÃ¼tern, die mit Ã¶ffentlichen Mitteln produziert werden, in das Open-Access-Konzept. Werke, die von oder im Auftrag von staatlichen Stellen erstellt werden, sollen der Ã–ffentlichkeit zur freien Verwendung zur VerfÃ¼gung gestellt werden. Der Quelltext von Software muss dabei Teil der VerÃ¶ffentlichung sein. Dies ist nicht nur zum direkten Nutzen der Ã–ffentlichkeit, sondern auch die staatlichen Stellen kÃ¶nnen im Gegenzug von Verbesserungen durch die Ã–ffentlichkeit profitieren (Open-Source-Prinzip/Freie Software). Weiterhin wird die Nachhaltigkeit der Ã¶ffentlich eingesetzten IT-Infrastruktur verbessert und die AbhÃ¤ngigkeit von Softwareanbietern verringert. 
 
 # Mehr Demokratie
 
-In den letzten Jahren haben sich in ganz Deutschland Defizite in der direkten Teilhabe der Bürger an den politischen Entscheidungsprozessen gezeigt. Weder werden die Bürger ausreichend informiert noch dürfen sie in angemessener Weise Entscheidungen selber treffen. Gerade Hessen steht im Vergleich zu den meisten anderen Bundesländern in diesem Bereich schlecht da. 
+In den letzten Jahren haben sich in ganz Deutschland Defizite in der direkten Teilhabe der BÃ¼rger an den politischen Entscheidungsprozessen gezeigt. Weder werden die BÃ¼rger ausreichend informiert noch dÃ¼rfen sie in angemessener Weise Entscheidungen selber treffen. Gerade Hessen steht im Vergleich zu den meisten anderen BundeslÃ¤ndern in diesem Bereich schlecht da. 
 
-Die hessischen Piraten wollen deswegen die direktdemokratischen Elemente auf allen Ebenen der politischen Entscheidungsfindungen stärken. Dazu wollen wir die Hürden bei Volksbegehren und Volksentscheiden auf Landesebene deutlich senken und die Möglichkeit der Bürgerbegehren und Bürgerentscheide auf allen kommunalen Ebenen überhaupt erst einmal einführen. 
+Die hessischen Piraten wollen deswegen die direktdemokratischen Elemente auf allen Ebenen der politischen Entscheidungsfindungen stÃ¤rken. Dazu wollen wir die HÃ¼rden bei Volksbegehren und Volksentscheiden auf Landesebene deutlich senken und die MÃ¶glichkeit der BÃ¼rgerbegehren und BÃ¼rgerentscheide auf allen kommunalen Ebenen Ã¼berhaupt erst einmal einfÃ¼hren. 
 
-Als neues Element soll das Ratsbegehren den kommunalen Vertretern die Möglichkeit geben, die Einleitung eines Bürgerentscheids mit der Mehrheit der abgegebenen Stimmen beschließen zu können. Dadurch entfiele in diesen Fällen die vorgelagerte Hürde des Bürgerbegehrens völlig, was die Entscheidungsprozesse beschleunigen und den Bürgern zeigen würde, dass sie von ihren Vertretern ernst genommen werden. 
+Als neues Element soll das Ratsbegehren den kommunalen Vertretern die MÃ¶glichkeit geben, die Einleitung eines BÃ¼rgerentscheids mit der Mehrheit der abgegebenen Stimmen beschlieÃŸen zu kÃ¶nnen. Dadurch entfiele in diesen FÃ¤llen die vorgelagerte HÃ¼rde des BÃ¼rgerbegehrens vÃ¶llig, was die Entscheidungsprozesse beschleunigen und den BÃ¼rgern zeigen wÃ¼rde, dass sie von ihren Vertretern ernst genommen werden. 
 
 ## Wahlrecht
 
-Die Piraten fordern unbedingt die Abschaffung jeglicher Maßnahmen, durch die die Nachvollziehbarkeit demokratischer Wahlen gefährdet wird. Konkret werden Wahlcomputer adressiert, die in Hessen bereits in neun Gemeindender Vergangenheit eingesetzt wurden. Gegen den Einsatz dieser Geräte wurde bereits eine Klage durch unsere Spitzenkandidatin Nicole Hornung eingereicht. 
+Die Piraten fordern unbedingt die Abschaffung jeglicher MaÃŸnahmen, durch die die Nachvollziehbarkeit demokratischer Wahlen gefÃ¤hrdet wird. Konkret werden Wahlcomputer adressiert, die in Hessen bereits in neun Gemeindender Vergangenheit eingesetzt wurden. Gegen den Einsatz dieser GerÃ¤te wurde bereits eine Klage durch unsere Spitzenkandidatin Nicole Hornung eingereicht. 
 
-Während bei dem klassischen Papierstimmzettel die Wahl von jedermann nachvollzogen werden kann, müssen beim Einsatz von Wahlcomputern Millionen Bürgerinnen und Bürger darauf vertrauen, dass weder der Hersteller der Wahlcomputer, jemand aus dem Wahlvorstand noch einer der vorher bereits gewählt habenden Bürger Manipulationen vorgenommen hat. 
+WÃ¤hrend bei dem klassischen Papierstimmzettel die Wahl von jedermann nachvollzogen werden kann, mÃ¼ssen beim Einsatz von Wahlcomputern Millionen BÃ¼rgerinnen und BÃ¼rger darauf vertrauen, dass weder der Hersteller der Wahlcomputer, jemand aus dem Wahlvorstand noch einer der vorher bereits gewÃ¤hlt habenden BÃ¼rger Manipulationen vorgenommen hat. 
 
-Die einzige Form des Wahlcomputers, die wir akzeptieren würden, wären Geräte, bei denen neben der elektronischen Zählung noch ein Ausdruck auf Papier erfolgt. Die elektronische Zählung darf als vorläufiges Ergebnis verkündet werden, das amtliche Endergebnis muss nachvollziehbar von Menschen ausgezählt werden. 
+Die einzige Form des Wahlcomputers, die wir akzeptieren wÃ¼rden, wÃ¤ren GerÃ¤te, bei denen neben der elektronischen ZÃ¤hlung noch ein Ausdruck auf Papier erfolgt. Die elektronische ZÃ¤hlung darf als vorlÃ¤ufiges Ergebnis verkÃ¼ndet werden, das amtliche Endergebnis muss nachvollziehbar von Menschen ausgezÃ¤hlt werden. 
 
 # Direkte Demokratie
 
-Ziel jeder funktionierenden Demokratie sollte es sein, jedem Einzelnen möglichst viele Mitbestimmungsrechte und Möglichkeiten zu geben. Momentan findet dies sowohl in Hessen, als auch im gesamten Bundesgebiet nicht statt. Auch wichtige Entscheidungen werden nicht per Volksentscheid sondern grundsätzlich nur über den parlamentarischen Weg entschieden. Dies führt zu einer zunehmenden Politikverdrossenheit und einem Gefühl der Ohnmacht. 
+Ziel jeder funktionierenden Demokratie sollte es sein, jedem Einzelnen mÃ¶glichst viele Mitbestimmungsrechte und MÃ¶glichkeiten zu geben. Momentan findet dies sowohl in Hessen, als auch im gesamten Bundesgebiet nicht statt. Auch wichtige Entscheidungen werden nicht per Volksentscheid sondern grundsÃ¤tzlich nur Ã¼ber den parlamentarischen Weg entschieden. Dies fÃ¼hrt zu einer zunehmenden Politikverdrossenheit und einem GefÃ¼hl der Ohnmacht. 
 
-Die Piraten sind der Meinung, dass es zu allen wichtigen und einen großen Teil der Bevölkerung direkt betreffenden Entscheidungen sowohl auf Bundes- als auch auf Landesebene Volksabstimmungen geben muss. 
+Die Piraten sind der Meinung, dass es zu allen wichtigen und einen groÃŸen Teil der BevÃ¶lkerung direkt betreffenden Entscheidungen sowohl auf Bundes- als auch auf Landesebene Volksabstimmungen geben muss. 
 
-Die Möglichkeit des Bürgerbegehrens muss ausgeweitet und vereinfacht werden, Politik darf nicht mehr alleine in den Parlamenten geschehen. Jeder Einzelne muss ein Höchstmaß an Verantwortung bekommen. Ferner muss die Möglichkeit zur Zulassung von Parteien vereinfacht werden, damit der Bürger ein größeres Maß an Wahlmöglichkeiten hat und sich in einem breiteren Spektrum entfalten kann. 
+Die MÃ¶glichkeit des BÃ¼rgerbegehrens muss ausgeweitet und vereinfacht werden, Politik darf nicht mehr alleine in den Parlamenten geschehen. Jeder Einzelne muss ein HÃ¶chstmaÃŸ an Verantwortung bekommen. Ferner muss die MÃ¶glichkeit zur Zulassung von Parteien vereinfacht werden, damit der BÃ¼rger ein grÃ¶ÃŸeres MaÃŸ an WahlmÃ¶glichkeiten hat und sich in einem breiteren Spektrum entfalten kann. 
 
-Bürgerinitiativen gehören ebenso wie Parteien vom Staat gefördert, allerdings setzen sich die Piraten für eine Reform der Parteifinanzierung ein. Durch diese soll die Benachteiligung von kleineren Parteien und Parteiähnlichen Vereinen oder Initiativen beendet werden. Im Mittelpunkt unserer Demokratie muss der Mensch und nicht die Partei stehen. 
+BÃ¼rgerinitiativen gehÃ¶ren ebenso wie Parteien vom Staat gefÃ¶rdert, allerdings setzen sich die Piraten fÃ¼r eine Reform der Parteifinanzierung ein. Durch diese soll die Benachteiligung von kleineren Parteien und ParteiÃ¤hnlichen Vereinen oder Initiativen beendet werden. Im Mittelpunkt unserer Demokratie muss der Mensch und nicht die Partei stehen. 
 
 ## Mehr Teilhabe
 
-Eine Grundsäule der Demokratie ist auch immer das Wahlrecht und die Frage, wem es gewährt wird. Junge Menschen interessieren sich wieder verstärkt für Politik und sind auch bereit, Verantwortung zu übernehmen. Wir wollen deshalb in Hessen auf Landes- und Kommunalebene das aktive Wahlalter auf 16 Jahre und das passive Wahlalter auf 18 Jahre absenken, wie es bereits in vielen anderen Bundesländern praktiziert wird. 
+Eine GrundsÃ¤ule der Demokratie ist auch immer das Wahlrecht und die Frage, wem es gewÃ¤hrt wird. Junge Menschen interessieren sich wieder verstÃ¤rkt fÃ¼r Politik und sind auch bereit, Verantwortung zu Ã¼bernehmen. Wir wollen deshalb in Hessen auf Landes- und Kommunalebene das aktive Wahlalter auf 16 Jahre und das passive Wahlalter auf 18 Jahre absenken, wie es bereits in vielen anderen BundeslÃ¤ndern praktiziert wird. 
 
-Zudem soll jemandem, der hier lebt, auch die Möglichkeit der Mitbestimmung zumindest auf kommunaler Ebene gewährt werden. Wir wollen das kommunale Wahlrecht für alle Einwohner einführen und auch allen Einwohnern die Teilnahme an Bürgerbegehren und -entscheiden ermöglichen. Die deutsche Staatsbürgerschaft wäre somit nur für die Wahl der gesetzgebenden Institutionen auf Landes- und Bundesebene notwendig. 
+Zudem soll jemandem, der hier lebt, auch die MÃ¶glichkeit der Mitbestimmung zumindest auf kommunaler Ebene gewÃ¤hrt werden. Wir wollen das kommunale Wahlrecht fÃ¼r alle Einwohner einfÃ¼hren und auch allen Einwohnern die Teilnahme an BÃ¼rgerbegehren und -entscheiden ermÃ¶glichen. Die deutsche StaatsbÃ¼rgerschaft wÃ¤re somit nur fÃ¼r die Wahl der gesetzgebenden Institutionen auf Landes- und Bundesebene notwendig. 
 
 # Nachhaltige Umweltpolitik
 
-Nachhaltigkeit wird in einer Welt der Ressourcenknappheit immer wichtiger. Dazu gehört vor allem eine (re-)generative Form der Energieerzeugung. Die hessischen Piraten setzen da vor allem auf die Windkraft und wollen die Aufstellung von Windkraftanlagen in die Hände der Kommunen legen. 
+Nachhaltigkeit wird in einer Welt der Ressourcenknappheit immer wichtiger. Dazu gehÃ¶rt vor allem eine (re-)generative Form der Energieerzeugung. Die hessischen Piraten setzen da vor allem auf die Windkraft und wollen die Aufstellung von Windkraftanlagen in die HÃ¤nde der Kommunen legen. 
 
-Die Ausweisung von Vorrangflächen zur Windkraftnutzung soll deswegen in enger Abstimmung mit den Kommunen und Kreisen erfolgen, zudem soll der Planungs- und Handlungsspielraum der Kommunen möglichst wenig eingeschränkt werden. Die Piratenpartei Hessen spricht sich deshalb dafür aus, den Bau von Windkraftanlagen auch außerhalb von Windvorranggebieten zu ermöglichen. 
+Die Ausweisung von VorrangflÃ¤chen zur Windkraftnutzung soll deswegen in enger Abstimmung mit den Kommunen und Kreisen erfolgen, zudem soll der Planungs- und Handlungsspielraum der Kommunen mÃ¶glichst wenig eingeschrÃ¤nkt werden. Die Piratenpartei Hessen spricht sich deshalb dafÃ¼r aus, den Bau von Windkraftanlagen auch auÃŸerhalb von Windvorranggebieten zu ermÃ¶glichen. 
 
-# Öffentlicher Rundfunk
+# Ã–ffentlicher Rundfunk
 
-Die öffentlich rechtlichen Medien werden ihrem Auftrag seit Jahren nicht mehr gerecht und haben in den letzten Jahren ein absurdes Schnüffel- und Inkassosystem zum Einzug nicht mehr gerechtfertigter Forderungen aufgebaut. Wir lehnen einen öffentlichen Rundfunk prinzipiell nicht ab, wollen ihn aber barrierefrei, politisch unabhängig, werbefrei und öffentlich kontrolliert gestalten. 
+Die Ã¶ffentlich rechtlichen Medien werden ihrem Auftrag seit Jahren nicht mehr gerecht und haben in den letzten Jahren ein absurdes SchnÃ¼ffel- und Inkassosystem zum Einzug nicht mehr gerechtfertigter Forderungen aufgebaut. Wir lehnen einen Ã¶ffentlichen Rundfunk prinzipiell nicht ab, wollen ihn aber barrierefrei, politisch unabhÃ¤ngig, werbefrei und Ã¶ffentlich kontrolliert gestalten. 
 
-Es ist zudem nicht einzusehen, dass durch die Gesellschaft finanzierte Produktionen aufgrund nachteiliger Verträge und veralteter Lizenzmodelle nicht in den allgemeinen Besitz übergehen. Wir wollen deshalb, dass jeglicher produzierte Inhalt unbegrenzt öffentlich zur Verfügung gestellt wird. 
+Es ist zudem nicht einzusehen, dass durch die Gesellschaft finanzierte Produktionen aufgrund nachteiliger VertrÃ¤ge und veralteter Lizenzmodelle nicht in den allgemeinen Besitz Ã¼bergehen. Wir wollen deshalb, dass jeglicher produzierte Inhalt unbegrenzt Ã¶ffentlich zur VerfÃ¼gung gestellt wird. 
 
-Die Finanzierung des öffentlichen Rundfunks muss - auch was die Höhe der Gebühren angeht - auf den Prüfstand und soll auf jeden Fall datenschutzkonform und sozialverträglich erfolgen.
+Die Finanzierung des Ã¶ffentlichen Rundfunks muss - auch was die HÃ¶he der GebÃ¼hren angeht - auf den PrÃ¼fstand und soll auf jeden Fall datenschutzkonform und sozialvertrÃ¤glich erfolgen.
 
 # Netzpolitik
 
 Politik in Zeiten in der globalen Informationsgesellschaft muss maximal offen und transparent sein.
 
-Alle Monopolrechte auf Immaterialgüter müssen auf den Prüfstand.
+Alle Monopolrechte auf ImmaterialgÃ¼ter mÃ¼ssen auf den PrÃ¼fstand.
 
 Das Netz braucht keine neuen Straf- und Sicherheitsgesetze.
 
 Das Recht auf Netzzugang ist ein Menschenrecht und sollte explizit in die Hessische Landesverfassung aufgenommen werden.
 
-# Störerhaftung
+# StÃ¶rerhaftung
 
-Die Piratenpartei Hessen setzt sich für eine Neuregelung der Störerhaftung im Bereich der Telekommunikation ein. Es sollen insbesondere die bestehende Rechtsunsicherheit beseitigt und das zur Verfügung stellen von Internetzugängen und Anonymisierungsdiensten durch Privatpersonen und als kostenloser Service für Kunden ohne unverhältismässig hohem Aufwand und unkalkulierbare Risiken ermöglicht werden.
+Die Piratenpartei Hessen setzt sich fÃ¼r eine Neuregelung der StÃ¶rerhaftung im Bereich der Telekommunikation ein. Es sollen insbesondere die bestehende Rechtsunsicherheit beseitigt und das zur VerfÃ¼gung stellen von InternetzugÃ¤ngen und Anonymisierungsdiensten durch Privatpersonen und als kostenloser Service fÃ¼r Kunden ohne unverhÃ¤ltismÃ¤ssig hohem Aufwand und unkalkulierbare Risiken ermÃ¶glicht werden.
 
 # Asyl- und Migrationspolitik
 
-Die Piratenpartei Hessen schätzt unsere pluralistische Gesellschaft, die von der Vielfalt der verschiedenen Kulturen, Weltanschauungen, Religionen und Lebensmodelle lebt. Viele Flüchtlinge jedoch, die gerade erst vor Krieg und Verfolgung aus ihrem Ursprungsland geflohen sind, sehen sich hier in Deutschland Repressalien und einem Alltag voller Diskriminierungen ausgeliefert. Aus unserem Verständnis einer offenen, freien, solidarischen und demokratischen Gesellschaft heraus lehnen wir diese Art des Umgangs mit Flüchtlingen in Hessen und auf Bundesebene ab. Daher müssen alle Verfahrensweise in der Asylpolitik uneingeschränkt auf den Prüfstand. Sofern die Entscheidungskompetenz nicht in die Landesebene fällt, werden die hessischen Piraten Entscheidungen im Bundesrat anregen und vorbereiten. Bereits in dieser Thematik erfahrene Organisationen, wie beispielsweise ProAsyl und der hessische Flüchtlingsrat sind dabei stärker in den Diskurs mit einzubeziehen.
+Die Piratenpartei Hessen schÃ¤tzt unsere pluralistische Gesellschaft, die von der Vielfalt der verschiedenen Kulturen, Weltanschauungen, Religionen und Lebensmodelle lebt. Viele FlÃ¼chtlinge jedoch, die gerade erst vor Krieg und Verfolgung aus ihrem Ursprungsland geflohen sind, sehen sich hier in Deutschland Repressalien und einem Alltag voller Diskriminierungen ausgeliefert. Aus unserem VerstÃ¤ndnis einer offenen, freien, solidarischen und demokratischen Gesellschaft heraus lehnen wir diese Art des Umgangs mit FlÃ¼chtlingen in Hessen und auf Bundesebene ab. Daher mÃ¼ssen alle Verfahrensweise in der Asylpolitik uneingeschrÃ¤nkt auf den PrÃ¼fstand. Sofern die Entscheidungskompetenz nicht in die Landesebene fÃ¤llt, werden die hessischen Piraten Entscheidungen im Bundesrat anregen und vorbereiten. Bereits in dieser Thematik erfahrene Organisationen, wie beispielsweise ProAsyl und der hessische FlÃ¼chtlingsrat sind dabei stÃ¤rker in den Diskurs mit einzubeziehen.
 
 ## Residenzpflicht abschaffen
 
-Die Freiheit, Freizügigkeit und Selbstbestimmung eines jeden Menschen ist ein hohes Gut einer demokratischen Gesellschaft. Eine Einschränkung der Wahl des Aufenthaltsortes ist nichts anderes als Inhaftierung in einem großflächigen Gefängnis und schränken Flüchtlinge damit in ihrem Menschenrecht auf Freizügigkeit ein. Die hessischen Piraten setzen sich für ein Ende der Residenzpflicht ein. Jedem Flüchtling der in Hessen lebt ist die Freizügigkeit innerhalb der europäischen Gemeinschaft ohne Einschränkung zu gewähren. Dadurch bekommen Flüchtlinge die Möglichkeit für ihre Rechte im Rahmen von Versammlungen einzutreten und an Treffen innerhalb von Organisationen, sowie an familiären und freundschaftlichen Treffen teilzunehmen.
+Die Freiheit, FreizÃ¼gigkeit und Selbstbestimmung eines jeden Menschen ist ein hohes Gut einer demokratischen Gesellschaft. Eine EinschrÃ¤nkung der Wahl des Aufenthaltsortes ist nichts anderes als Inhaftierung in einem groÃŸflÃ¤chigen GefÃ¤ngnis und schrÃ¤nken FlÃ¼chtlinge damit in ihrem Menschenrecht auf FreizÃ¼gigkeit ein. Die hessischen Piraten setzen sich fÃ¼r ein Ende der Residenzpflicht ein. Jedem FlÃ¼chtling der in Hessen lebt ist die FreizÃ¼gigkeit innerhalb der europÃ¤ischen Gemeinschaft ohne EinschrÃ¤nkung zu gewÃ¤hren. Dadurch bekommen FlÃ¼chtlinge die MÃ¶glichkeit fÃ¼r ihre Rechte im Rahmen von Versammlungen einzutreten und an Treffen innerhalb von Organisationen, sowie an familiÃ¤ren und freundschaftlichen Treffen teilzunehmen.
 
 ## Grundrechte auf alle Menschen ausweiten
 
-Wir nehmen die Diskriminierung von Flüchtlingen, die in ihrer Freizügigkeit, ihrer Selbstbestimmung, ihrer Meinungs- und Versammlungsfreiheit eingeschränkt werden, nicht hin. Die Gewährung dieser Grundrechte wird nicht nur durch das Grundgesetz und die Landesverfassung bestimmt, die Rechte gehören zur Grundlage jeder demokratischen Gesellschaft. Gemeinsam mit allen hessischen Bürgern wollen wir den Flüchtlingen in unserem Land beweisen, dass Demokratie und Grundrechte sich nicht nur auf die Bürger eines Staates oder Landes beschränken, sondern alle Menschen einschließt.
+Wir nehmen die Diskriminierung von FlÃ¼chtlingen, die in ihrer FreizÃ¼gigkeit, ihrer Selbstbestimmung, ihrer Meinungs- und Versammlungsfreiheit eingeschrÃ¤nkt werden, nicht hin. Die GewÃ¤hrung dieser Grundrechte wird nicht nur durch das Grundgesetz und die Landesverfassung bestimmt, die Rechte gehÃ¶ren zur Grundlage jeder demokratischen Gesellschaft. Gemeinsam mit allen hessischen BÃ¼rgern wollen wir den FlÃ¼chtlingen in unserem Land beweisen, dass Demokratie und Grundrechte sich nicht nur auf die BÃ¼rger eines Staates oder Landes beschrÃ¤nken, sondern alle Menschen einschlieÃŸt.
 
-## Lebenssituation von Flüchtlingen verbessern
+## Lebenssituation von FlÃ¼chtlingen verbessern
 
-Als Maßnahmen zur Verbesserung der Lebenssituation von Asylsuchenden und geduldeten Flüchtlingen werden wir außerdem folgende Punkte umsetzen:
+Als MaÃŸnahmen zur Verbesserung der Lebenssituation von Asylsuchenden und geduldeten FlÃ¼chtlingen werden wir auÃŸerdem folgende Punkte umsetzen:
 
-	1. Eine individuelle Betrachtung der Fluchtgründe von Asylbewerbern, die sich an der konkreten politisch-gesellschaftlichen Situation des jeweiligen Heimatlandes bemisst und außerdem die langfristige Abschaffung der Drittstaatenregelung.
+1. Eine individuelle Betrachtung der FluchtgrÃ¼nde von Asylbewerbern, die sich an der konkreten politisch-gesellschaftlichen Situation des jeweiligen Heimatlandes bemisst und auÃŸerdem die langfristige Abschaffung der Drittstaatenregelung.
 	
-	2. Die Verletzung des Rechts auf ein zügiges Verfahren gemäß Artikel 6 der Europäischen Menschenrechtskommission (EMRK) durch Verschleppung wird beendet.
+2. Die Verletzung des Rechts auf ein zÃ¼giges Verfahren gemÃ¤ÃŸ Artikel 6 der EuropÃ¤ischen Menschenrechtskommission (EMRK) durch Verschleppung wird beendet.
 	
-	3. Die Schaffung von Beratungen, unter welchen Umständen eine Rückkehr in das jeweilige Ursprungsland möglich wäre, sofern dies vom Antragssteller gewünscht ist, bzw. Wege aufzeigen wie eine Integration in unsere Gesellschaft möglich ist.
+3. Die Schaffung von Beratungen, unter welchen UmstÃ¤nden eine RÃ¼ckkehr in das jeweilige Ursprungsland mÃ¶glich wÃ¤re, sofern dies vom Antragssteller gewÃ¼nscht ist, bzw. Wege aufzeigen wie eine Integration in unsere Gesellschaft mÃ¶glich ist.
 	
-	4. Eine Bleiberechtsregelung, die die gesamte Familie (inkl. Verwandte zweiten Grades) umfasst und die besondere Situation von Eltern und Kindern berücksichtigt.
+4. Eine Bleiberechtsregelung, die die gesamte Familie (inkl. Verwandte zweiten Grades) umfasst und die besondere Situation von Eltern und Kindern berÃ¼cksichtigt.
 	
-	5. Ein generelles Ende der Praxis der Abschiebehaft, gerade bei Minderjährigen.
+5. Ein generelles Ende der Praxis der Abschiebehaft, gerade bei MinderjÃ¤hrigen.
 	
-	6. Eine umfassende Bleiberechtsregelung für langjährig Geduldete und Erleichterungen, die deutsche Staatsangehörigkeit zu erlangen.
+6. Eine umfassende Bleiberechtsregelung fÃ¼r langjÃ¤hrig Geduldete und Erleichterungen, die deutsche StaatsangehÃ¶rigkeit zu erlangen.
 	
-	7. Das Ende der isolierenden und unmenschlichen Aufenthaltsbedingungen.
+7. Das Ende der isolierenden und unmenschlichen Aufenthaltsbedingungen.
 	
-	8. Die Verbesserung der Unterbringungssituation von Flüchtlingen und den kostenfreien Zugang zu traditionellen und neuen Medien in Gemeinschaftsunterkünften und Erstaufnahmeeinrichtungen.
+8. Die Verbesserung der Unterbringungssituation von FlÃ¼chtlingen und den kostenfreien Zugang zu traditionellen und neuen Medien in GemeinschaftsunterkÃ¼nften und Erstaufnahmeeinrichtungen.
 	
-	9. Den gleichberechtigten, barrierefreien Zugang zum Arbeitsmarkt und die weiterreichende Anerkennung von Qualifikationsnachweisen aus dem Heimatland, sowie Maßnahmen zur Weiterbildung, um die Integration auf dem Arbeitsmarkt zu erleichtern.
+9. Den gleichberechtigten, barrierefreien Zugang zum Arbeitsmarkt und die weiterreichende Anerkennung von Qualifikationsnachweisen aus dem Heimatland, sowie MaÃŸnahmen zur Weiterbildung, um die Integration auf dem Arbeitsmarkt zu erleichtern.
 	
-	10. Die Abschaffung diskriminierender Sondergesetze wie des Asylbewerberleistungsgesetzes, das die Versorgung von Asylbewerbern regelt.
+10. Die Abschaffung diskriminierender Sondergesetze wie des Asylbewerberleistungsgesetzes, das die Versorgung von Asylbewerbern regelt.
 
-## Abschaffung der Optionspflicht und Modernisierung des Staatsangehörigkeitsrechts
+## Abschaffung der Optionspflicht und Modernisierung des StaatsangehÃ¶rigkeitsrechts
 
-Die hessischen PIRATEN setzen sich für die Abschaffung des Optionsmodell auf Bundes- und Landesebene ein. Wird ein Kind ausländischer Eltern in Deutschland geboren und hält sich mindestens ein Elternteil mit einem unbefristeten Aufenthaltstitel legal in Deutschland auf, erhält das Kind neben der Staatsbürgerschaft der Eltern dauerhaft auch die deutsche Staatsangehörigkeit. Das bislang geltende Erfordernis, sich ab Vollendung des 18. Lebensjahrs für eine der beiden Staatsbürgerschaften entscheiden zu müssen, entfällt.
+Die hessischen PIRATEN setzen sich fÃ¼r die Abschaffung des Optionsmodell auf Bundes- und Landesebene ein. Wird ein Kind auslÃ¤ndischer Eltern in Deutschland geboren und hÃ¤lt sich mindestens ein Elternteil mit einem unbefristeten Aufenthaltstitel legal in Deutschland auf, erhÃ¤lt das Kind neben der StaatsbÃ¼rgerschaft der Eltern dauerhaft auch die deutsche StaatsangehÃ¶rigkeit. Das bislang geltende Erfordernis, sich ab Vollendung des 18. Lebensjahrs fÃ¼r eine der beiden StaatsbÃ¼rgerschaften entscheiden zu mÃ¼ssen, entfÃ¤llt.
 
-Wer sich einbürgern lässt, muss seine alte Staatsangehörigkeit nicht länger aufgeben. Mehrfache bzw. doppelte Staatsbürgerschaft wird auch bei der Einbürgerung ermöglicht.
+Wer sich einbÃ¼rgern lÃ¤sst, muss seine alte StaatsangehÃ¶rigkeit nicht lÃ¤nger aufgeben. Mehrfache bzw. doppelte StaatsbÃ¼rgerschaft wird auch bei der EinbÃ¼rgerung ermÃ¶glicht.
 
-Die Fristen und Bedingungen bis zu einem dauerhaft abgesicherten Aufenthaltsrecht und zur Chance einer Einbürgerung sind deutlich zu senken, besondere Anstrengungen der Migranten zu Spracherwerb und beruflicher Integration sind positiv zu unterstützen.
+Die Fristen und Bedingungen bis zu einem dauerhaft abgesicherten Aufenthaltsrecht und zur Chance einer EinbÃ¼rgerung sind deutlich zu senken, besondere Anstrengungen der Migranten zu Spracherwerb und beruflicher Integration sind positiv zu unterstÃ¼tzen.
