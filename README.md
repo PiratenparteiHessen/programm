@@ -358,3 +358,7 @@ Industrielle Massentierhaltung führt in der Praxis zu unhaltbaren Zuständen. N
 Bei Neuerrichtung von Anlagen konzentrierter Tierhaltung sind die Bürger der betroffenen Region von Anfang an zu informieren und in die Entscheidungsfindung einzubeziehen.
 
 Wir fordern hier ein konsequentes Eingreifen der Behörden bei Verstößen gegen das Tierrecht oder gegen Umwelt- und Naturschutzauflagen. Die Unabhängigkeit der Kontrolleure einhergehend mit der Befugnis zu Sanktionen bei Verstößen ist in allen Bereichen zu gewährleisten. Unangemeldete Kontrollen haben die Regel zu sein und nicht die Ausnahme.
+
+## Verbandsklagerecht für anerkannte Tierschutzorganisationen
+
+Wir befürworten die Einführung eines Verbandsklagerechtes für anerkannte Tierschutzorganisationen. Tiere können als Lebewesen nicht selbst für ihre Rechte eintreten, daher sind sie auf eine Vertretung in Form von Verbänden angewiesen. Obwohl Tier- und Umweltschutz nach Art. 20a GG denselben Verfassungsrang haben, ist bisher keine entsprechende Gesetzgebung existent. Wir setzen uns dafür ein, dass das Land Hessen im Bundesrat entsprechende Initiativen zur Gesetzgebung anregt bzw. Teile der Regelungen auf Landesebene verankert werden.
