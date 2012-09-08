@@ -186,3 +186,13 @@ Die öffentlich rechtlichen Medien werden ihrem Auftrag seit Jahren nicht mehr ge
 Es ist zudem nicht einzusehen, dass durch die Gesellschaft finanzierte Produktionen aufgrund nachteiliger Verträge und veralteter Lizenzmodelle nicht in den allgemeinen Besitz übergehen. Wir wollen deshalb, dass jeglicher produzierte Inhalt unbegrenzt öffentlich zur Verfügung gestellt wird. 
 
 Die Finanzierung des öffentlichen Rundfunks muss - auch was die Höhe der Gebühren angeht - auf den Prüfstand und soll auf jeden Fall datenschutzkonform und sozialverträglich erfolgen.
+
+# Netzpolitik
+
+Politik in Zeiten in der globalen Informationsgesellschaft muss maximal offen und transparent sein.
+
+Alle Monopolrechte auf Immaterialgüter müssen auf den Prüfstand.
+
+Das Netz braucht keine neuen Straf- und Sicherheitsgesetze.
+
+Das Recht auf Netzzugang ist ein Menschenrecht und sollte explizit in die Hessische Landesverfassung aufgenommen werden.
