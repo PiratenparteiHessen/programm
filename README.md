@@ -171,7 +171,7 @@ Bürgerinitiativen gehören ebenso wie Parteien vom Staat gefördert, allerdings
 
 Eine Grundsäule der Demokratie ist auch immer das Wahlrecht und die Frage, wem es gewährt wird. Junge Menschen interessieren sich wieder verstärkt für Politik und sind auch bereit, Verantwortung zu übernehmen. Wir wollen deshalb in Hessen auf Landes- und Kommunalebene das aktive Wahlalter auf 16 Jahre und das passive Wahlalter auf 18 Jahre absenken, wie es bereits in vielen anderen Bundesländern praktiziert wird. 
 
-Zudem soll jemandem, der hier lebt, auch die Möglichkeit der Mitbestimmung zumindest auf kommunaler Ebene gewährt werden. Wir wollen das kommunale Wahlrecht für alle Einwohner einführen und auch allen Einwohnern die Teilnahme an Bürgerbegehren und -entscheiden ermöglichen. Die deutsche Staatsbürgerschaft wäre somit nur für die Wahl der gesetzgebenden Institutionen auf Landes- und Bundesebene notwendig. 
+Das Wahlrecht soll allen Einwohnern offen stehen. Wir werden deshalb alle nötigen Schritte unternehmen, einschließlich der Einleitung einer Bundesratsinitiative zur Änderung entsprechender Gesetze.
 
 # Nachhaltige Umweltpolitik
 
