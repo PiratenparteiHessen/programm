@@ -340,3 +340,7 @@ In einem modernen säkularen Staat ist es nicht mehr zeitgemäß, wenn die Finan
 ## Kostenfreier Kirchenaustritt
 
 Um das Grund- und Menschenrecht der Religionsfreiheit wahrnehmen zu können, ist es erforderlich die freie Wahl zu haben welcher Religionsgemeinschaft man angehört. Der Austritt aus den Kirchen, Religions- oder Weltanschauungsgemeinschaften des öffentlichen Rechts wird in Hessen durch Belegung der amtlichen Austrittserklärung mit einer Gebühr von 25 Euro jedoch für Menschen mit geringen finanziellen Mitteln unnötig erschwert. Wir fordern daher den Kirchenaustritt kostenfrei zu ermöglichen.
+
+## Novellierung des Feiertagsgesetzes
+
+Die Piraten Hessen sprechen sich für den Beibehalt aller bisherigen Feiertage bei gleichzeitiger Streichung aller Einschränkungen und Sonderregelungen aus.
