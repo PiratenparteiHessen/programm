@@ -196,3 +196,7 @@ Alle Monopolrechte auf Immaterialgüter müssen auf den Prüfstand.
 Das Netz braucht keine neuen Straf- und Sicherheitsgesetze.
 
 Das Recht auf Netzzugang ist ein Menschenrecht und sollte explizit in die Hessische Landesverfassung aufgenommen werden.
+
+# Störerhaftung
+
+Die Piratenpartei Hessen setzt sich für eine Neuregelung der Störerhaftung im Bereich der Telekommunikation ein. Es sollen insbesondere die bestehende Rechtsunsicherheit beseitigt und das zur Verfügung stellen von Internetzugängen und Anonymisierungsdiensten durch Privatpersonen und als kostenloser Service für Kunden ohne unverhältismässig hohem Aufwand und unkalkulierbare Risiken ermöglicht werden.
