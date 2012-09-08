@@ -262,3 +262,9 @@ Die Enquete Kommission soll sich insbesondere mit folgenden Fragestellungen befa
 * Wie kann die Stellung von Hessen als integrales Bestandteil des Europäischen Einigungsprozesses in der Verfassung unterstrichen werden?
 
 * Welche Regelungen in der Hessischen Verfassung stehen im Widerspruch zu den Bestimmungen des Grundgesetzes und der Bundesgesetzgebung?
+
+# Whistleblowerschutz
+
+Der Landesverband Hessen der Piratenpartei setzt sich dafür ein, dass klare gesetzliche Regelungen geschaffen werden, die Whistleblowern einen besonderen Kündigungsschutz gewähren.
+
+Im Bereich des Strafrechts müssen zudem die §§ 94, 95, 96, 109g, 203, 353b und 355 StGB dahingehend ergänzt werden, dass diese Taten im Falle des Whistleblowings nicht rechtswidrig sind.
