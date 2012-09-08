@@ -207,6 +207,22 @@ Die Ausbildung von Lehrkräften und Erzieherinnen/Erziehern ist qualitativ hochw
 
 Die dreijährige Fachschulausbildung für Erzieherinnen/Erzieher wird beibehalten.
 
+## Aus- und Weiterbildung der Lehrkräfte
+
+Die Ausbildung der Lehrkräfte in Hessen bedarf dringend einer Veränderung. Ziele der Piraten sind hier: 
+
+* Potentielle Lehrkräfte sollen viel früher feststellen können, ob sie persönlich für den Unterricht von Kindern und Jugendlichen geeignet sind
+
+* Angehende Lehrkräfte sollen noch besser pädagogisch und didaktisch auf den Unterricht vorbereitet werden
+
+* In der Praxis stehende Lehrkräfte sollen mit geeigneten Anreizen zur regelmäßigen Weiterbildung und Tätigkeit an verschiedenen Schulen motiviert werden
+
+* Allen Lehrkräften sollen ihre Stärken und Schwächen aufgezeigt sowie Weiterbildungs-und Entwicklungspotentiale erschlossen werden
+
+* Das Verfallen in unreflektierte Verhaltens- und Reaktionsmuster sowie das Entstehen von Stress-Krankheiten und Burn Out soll vermieden werden
+
+Weiterbildungen, Schul- und Fachwechsel und Auszeiten sollen erleichtert und positiv unterstützt werden.
+
 # Informationsfreiheit und Transparenz
 
 Ein wesentlicher Teil der Politik der Piraten stellt die Durchsichtigkeit und Nachvollziehbarkeit politischer Vorgänge dar. Genauso wie parlamentarische Abstimmungen in aller Regel offen und für jedermann nachvollziehbar sind, müssen politische Entscheidungen für den Bürger als Souverän des Staates offen und nachvollziehbar sein. In den wesentlichen Teilen unserer Demokratie dürfen technische Hilfsmittel, die untergeordneten Zwecken dienen, demokratische Strukturen nicht beeinträchtigen. Die Piraten fordern die Rückkehr zu Techniken bei Wahlen, die den Grundsätzen des Wahlrechts genügen. Insbesondere ist die Nachprüfbarkeit von Wahlen durch Jedermann sicherzustellen, um die der indirekten Demokratie innewohnenden Einschränkungen nicht auch noch durch vermeintliche oder tatsächliche Technikfehler oder Manipulationen zu verstärken. Wir Piraten fordern einen Diskurs über die Einführung und Erprobung direkter Demokratie in Teilbereichen wie Kommunen und Gemeinden sowie organisatorischer Bereiche zum Beispiel im Bildungsbereich. 
