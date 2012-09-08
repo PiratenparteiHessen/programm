@@ -272,3 +272,15 @@ Im Bereich des Strafrechts müssen zudem die §§ 94, 95, 96, 109g, 203, 353b un
 # Sucht- und Drogenpolitik
 
 Die PIRATEN Hessen werden in landesweiten Modellversuchen neue drogenpolitische Lösungen für das ganze Land etablieren. Unser Ziel ist es, mit einer pragmatischen Suchtpolitik Schaden von der Gesellschaft abzuwenden.
+
+## Gewährleistung des Datenschutzes
+
+Die informationelle Selbstbestimmung ist auch im Bereich der Drogenpolitik zu gewährleisten. Besonders große Firmen und Konzerne führen immer häufiger Einstellungstests mit einer medizinischen Kontrolle auf Drogenkonsum ein. Diese Tests werden den Bewerbern, die sich hierzu schriftlich einverstanden erklären müssen, indirekt aufgezwungen. Bei Verweigerung haben die Bewerber keine Chance, die Arbeitsstelle zu bekommen. Interessanterweise wird in diesen Tests Alkoholmissbrauch nicht überprüft, obwohl dieser nachweislich große Probleme im Arbeitsleben produziert.
+
+Die Hessen-Piraten wenden sich strikt gegen die Praxis vieler Firmen, Drogentests zum Standard bei Einstellungsverfahren zu machen. Diese Grauzone gilt es gesetzlich zu regeln. Den Firmen muss diese Vorgehensweise, die immer weitere Verbreitung findet, verboten werden. Hierbei soll Hessen ein Vorreiter sein. Damit sollen auch bundesweit die Bestrebungen der großen Firmen gestoppt werden, ihre Mitarbeiter völlig zu durchleuchten.
+
+Amtsmitarbeitern mit Bürgerkontakt ist es, auch ohne jede fachliche Qualifikation, erlaubt, reine Vermutungen über einen möglichen Drogenkonsum in persönliche Akten einzutragen. Derartige Einträge werden in der Folge nicht mehr hinterfragt und können so zu enormen, ungerechtfertigten Hürden für die Betroffenen werden. Die Praxis ungeschulter Mitarbeiter in Behörden, reine Vermutungen bezüglich eines Drogenkonsums in persönliche Akten einzutragen und diese weiterzugeben, ist zu unterbinden.
+
+Im Rahmen von Ermittlungen des LKA kommt es immer wieder dazu, dass Leute unschuldig des Konsums, Besitzes oder Verkaufs von illegalen Drogen verdächtigt werden. Eine erkennungsdienstliche Behandlung findet hierbei oft in rechtlich fragwürdigem Rahmen statt. Die so festgestellten, sehr persönlichen Daten müssen nach ergebnislos gebliebenen Ermittlungen umgehend wieder gelöscht werden. Dies wird heute nicht so praktiziert. Betroffene sind gezwungen mittels selbst bezahltem rechtlichen Beistand eine solche Löschung durchzusetzen. Die Hessen-Piraten pochen auf Löschung personenbezogener Daten, wenn sich ein Verdacht nicht bestätigt. Eine weitere Verwendung der Daten und die Weitergabe hat auf jeden Fall zu unterbleiben.
+
+In staatlichen Hilfsprogrammen, zum Beispiel bei der Methadon-Substitution, müssen teilnehmende Personen zur Erlangung der Krankenkassenleistung ihren behandelnden Arzt von jeder Schweigepflicht entbinden. Diese beispiellose und entwürdigende Vorgehensweise ist aufzuheben. Drogenkranke Menschen sind, wie alle anderen Bürger auch, als normale Patienten zu behandeln.
