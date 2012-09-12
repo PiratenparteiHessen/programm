@@ -59,7 +59,7 @@ Der Ausbau der Videoüberwachung an öffentlichen Plätzen muss gestoppt werden,
 
 Zielführender sind hier eine bessere Ausleuchtung und eine verstärkte persönliche Polizeipräsenz. Videoüberwachung im öffentlichen Raum betrifft nahezu nur unverdächtige Normalbürger. Es gibt keinen Verdacht gegen eine konkrete Person, sondern alle Personen unterstehen einem Generalverdacht. 
 
-# Sicherheit
+# Innenpolitik
 
 Der Bereich Inneres ist für die Piratenpartei von zentraler Bedeutung. Das massive Missbrauchspotenzial durch die installierten Überwachungstechniken und -werkzeuge erfordert allerhöchste Wachsamkeit bei den Beamtinnen und Beamten, die diese Werkzeuge bedienen. Ethische und moralische Grundsätze dürfen nicht übergangen werden. Die Möglichkeit der Nötigung durch Vorgesetzte, gegen geltendes Recht oder gegen ihr eigenes Gewissen zu handeln, muss bei Beamtinnen und Beamten ausgeschlossen sein. Diese und viele andere denkbare Konflikte tauchen im Zusammenhang mit der Einführung der Vorratsdatenspeicherung in Deutschland im Januar 2008 auf. 
 
@@ -74,6 +74,14 @@ Justitia mag blind sein, aber dies sollte sie wenigstens für jeden Bürger - un
 Wir stehen für eine bürgernahe, leistungsfähige und unabhängige Gerichtsversorgung in der Fläche als unverzichtbare Voraussetzung für die Herstellung und den Erhalt des Rechtsfriedens. Wir setzen uns zudem für die Konstanz in den Justizstrukturen und Effizienz im Rahmen der personellen und sachlichen Ausstattung der Gerichte ein. 
 
 Eine funktionierende und rechtsstaatlich verankerte Polizei als Teil der Exekutive ist unser Ziel. Wir setzen uns für eine Kennzeichnungspflicht für Polizeibeamte ein. Beamte im Einsatz bei Versammlungen sind zu verpflichten, von weitem sicht- und erkennbare Kennzeichen zu tragen. Um dem berechtigten Interesse der Beamten nach Datenschutz Rechnung zu tragen, sind die Kennzeichen pseudonym zu gestalten und dürfen von Einsatz zu Einsatz wechseln. Es muss jederzeit auch im Nachhinein sichergestellt sein, dass mit Hilfe eines richterlichen Beschlusses ein Kennzeichen einer Person zuzuordnen ist. 
+
+## Ablehnung der Extremismusklausel
+
+Der Landesverband Hessen der Piratenpartei lehnt die bestehende "Extremismusklausel" ab.
+
+Die PIRATEN wertschätzen progressive, innovative und revolutionäre Ideen, die unsere freiheitlich-demokratische Gesellschaft voranbringen und der Verbreitung von menschenverachtenden Ideologien entgegenwirken wollen. Wir setzen uns daher gegen die Verwendung der "Extremismusklausel" ein.
+
+Durch die bürokratischen Hürden, die durch diese Klausel geschaffen werden, werden Menschen, die sich in Projekten gegen Rassismus, Faschismus, Antisemitismus, Antiziganismus, Fremdenfeindlichkeit, Nationalismus, Nationalsozialismus, Sexismus, Homophobie oder diktatorische Bestrebungen einsetzen, in ihrer politischen Arbeit unnötig blockiert. Die Unterstützungsbedingungen für solche Projekte müssen in diesem Sinne überarbeitet und verbessert werden. 
 
 # Bildung
 
