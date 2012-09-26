@@ -169,7 +169,7 @@ Jedes Kind hat mit Abschluss des Mutterschutzes das Recht auf kostenlose qualifi
 
 Ab dem dritten Lebensjahr des Kindes ist den Eltern ein Kindergartenplatz aktiv anzubieten. Darüber hinaus schafft das Land Anreize, die den Kindergartenbesuch für Eltern und Kinder attraktiv machen und wirbt für seine Vorteile. Negative Anreize wie ein Erziehungsgeld werden abgelehnt.
 
-# Schulbildung
+## Schulbildung
 
 Jedwedes Bildungsangebot – von Krippen bis Schule ist gebührenfrei. Es gibt keine versteckten Kosten für Lernmittel, Bücher, Computer, Kopierkosten, Klassenfahrten, Mittagessen, Förderung u.Ä..
 
@@ -425,7 +425,7 @@ Alle bisherigen Versuche, den Schwarzmarkt einzudämmen, führten zu immer weite
 
 Als PIRATEN werden wir uns unserer Verantwortung stellen und den Schwarzmarkt beseitigen. Das aufgrund der Verbotspolitik entstandene kriminelle Milieu muss nachhaltig ausgetrocknet werden: Herstellung, Verkauf und Konsum von Hanfprodukten muss aus der Kriminalität herausgeholt und den Mechanismen des Jugend- und Verbraucherschutzes unterworfen werden. Schimmelpilz und gesundheitsgefährende Beimengung von Streckmitteln, wie z.B. Vogelsand, Backmischungen, Haarspray, Dünger, synthetische Stoffe oder Blei müssen verhindert werden.
 
-ortugal, den Niederlanden und Tschechien zeigen, ist langfristig mit geringeren Konsumentenzahlen zu rechnen.
+Portugal, den Niederlanden und Tschechien zeigen, ist langfristig mit geringeren Konsumentenzahlen zu rechnen.
 
 Im Gegensatz zu den Niederlanden, wo die Coffee Shops aus illegalen Quellen kaufen müssen, hat Hessen hier eine besondere Chance auf legal angebauten Hanf durch eine bestimmte Anzahl an zertifizierten Landwirten. Hierdurch lassen sich die Vertriebswege kontrollieren und die Qualität kann überprüft werden. Der Zuschuss zur organisierten Kriminalität durch den illegalen Handel mit Cannabis wird so verdrängt werden.
 
