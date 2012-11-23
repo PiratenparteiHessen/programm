@@ -237,6 +237,12 @@ Ein wesentlicher Teil der Politik der Piraten stellt die Durchsichtigkeit und Na
 
 Lobbyarbeit kann einerseits die Wissensbasis zur Entscheidungsfindung erweitern, birgt aber andererseits die Gefahr der gewollten oder ungewollten Beeinflussung. Deshalb ist die Arbeit von und mit Interessensvertretern der verschiedenen gesellschaftlichen Gruppierungen jederzeit offen zu legen und zu dokumentieren. Sowohl für Parlamentarier als auch für Regierende und Ausführende muss eine größtmögliche Auskunftspflicht bestehen, die allerdings jederzeit den datenschutzrechtlichen Bestimmungen genügen muss. Hierzu zählt auch die umfassende Offenlegung der Einkommensverhältnisse aller an der politischen Entscheidungsfindung Beteiligten. Eine ausreichende Alimentierung ist Voraussetzung für unabhängige und effektive Arbeit. Einem Verdacht auf Vorteilsnahme durch Regierende und Parlamentarier kann auf diese Weise effektiv begegnet werden. 
 
+##  Informationsfreiheits- und Transparenzgesetz
+
+Das Land Hessen ist eines der wenigen Bundesländer, welches noch kein Informationsfreiheitsgesetz hat und wo es auch noch kaum Informationsfreiheitssatzungen auf der kommunalen Ebene gibt. Dies gilt es mit der Einführung eines hessischen Informationsfreiheitsgesetzes auf Basis der Informationsfreiheitsmustersatzung des Berliner Informationsfreiheitsgesetzes für die Landes- und Kommunalebene zu korrigieren. Gleichzeitig sind die jeweiligen Datenschutzbeauftragten zu Datenschutz- und Informationsfreiheitsbeauftragten aufzuwerten.
+
+Die Informationsfreiheit legt jedoch nur die Basis für ein Auskunftsrecht. In der Informationsgesellschaft des 21. Jahrhunderts ist aber die Notwendigkeit zur mehr Transparenz eine Bringpflicht. Dieser Umstand kann nur mit der Einführung eines hessischen Transparenzgesetzes auf Basis des Hamburger Gesetzentwurfes rechtlich verankert werden.
+
 # Open Access
 
 Aus dem Staatshaushalt wird eine Vielzahl von schöpferischen Tätigkeiten finanziert, die als Produkt urheberrechtlich geschützte Werke hervorbringen. Da diese Werke von der Allgemeinheit finanziert werden, sollten sie auch der Allgemeinheit kostenlos zur Verfügung stehen. Tatsächlich ist dies heute selten der Fall. 
