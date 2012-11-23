@@ -530,3 +530,21 @@ Das Land Hessen soll daher alle Möglichkeiten zur Rückführung des UKGM in Lan
 Sollte ein Rückkauf des UKGM nicht möglich sein oder einen unverhältnismäßig großen Aufwand bedeuten, so hat das Land Hessen dafür Sorge zu tragen, dass neue vertragliche Maßnahmen zur Gewährleistung der Qualität von Patientenversorgung sowie Forschung und Lehre etabliert werden, um zu verhindern, dass Landesmittel zweckentfremdet verwendet werden.
 
 Ein Universitätsklinikum hat einen wichtigen gesellschaftlichen Versorgungsauftrag, an den - zu Recht - von allen Bürgern, insbesondere aber von Patienten und Mitarbeitern, hohe Ansprüche gestellt werden. Um diesem Anspruch gerecht werden zu können, hält der Landesverband Hessen der Piratenpartei Deutschland die öffentliche Trägerschaft von Universitätskliniken oder zumindest vertragliche Maßnahmen zur Gewährleistung der Qualität von Patientenversorgung sowie Forschung und Lehre für unabdingbar.
+
+# Integration und Inklusion
+
+## Umsetzung der UN-Behindertenrechtskonvention
+
+Die Behindertenrechtskonvention der Vereinten Nationen unterstreicht das allgemeine Menschenrecht, an Bildung und anderen Lebensbereichen gleichberechtigt teilhaben zu können – unabhängig von Herkunft, Nationalität, Behinderung oder anderen Besonderheiten. Mit der Ratifizierung der UN-Behindertenrechtskonvention im März 2009 ist diese zum übergeordneten deutschen Recht geworden und Bund und Länder sind damit dazu verpflichtet, sie zu berücksichtigen und umzusetzen. In die Konvention sind wichtige Lebenserfahrungen von Menschen mit Behinderungen und wesentliche Positionen der Behindertenverbände aus vielen Ländern eingegangen und es gelang erstmalig, diese als grundlegende Menschen- und Bürgerrechte zu definieren. Nun müssen die deutschen Gesetze angepasst werden.
+
+Wir wollen eine Gesellschaft gestalten, in der niemand ausgegrenzt wird, in der alle ihre Chancen zur Entfaltung ihrer Fähigkeiten bekommen, in der Kinder willkommen sind, Alte nicht aufs Altenteil abgeschoben werden und Menschen mit Behinderungen nicht ausgesondert, in der Armut der Vergangenheit angehört, in der die Zukunft nicht verplant, sondern aktiv gestaltet wird.
+
+Wir wollen allen Menschen – unabhängig von seiner sexueller Identität, seiner Abstammung, seiner Rasse, seiner Sprache, seiner Heimat und Herkunft, seines Glaubens, seiner religiösen oder politischen Anschauungen, seines Alters oder seiner Behinderung – Zugang zu den zentralen gesellschaftlichen Ressourcen verschaffen: zu Arbeit, Bildung, kulturellem Leben und demokratischer Mitbestimmung.
+
+Auf dem Weg dahin ist noch viel zu tun, damit Barrierefreiheit erreicht wird, also Menschen mit Behinderungen Zugang zu bestmöglicher Bildung, existenzsichernder Erwerbsarbeit und ungehinderter Teilhabe am politischen, kulturellen und gesellschaftlichen Leben ermöglicht werden. 
+
+Wir streben ein inklusives Schulsystem an, wie es die UN-Konvention über die Rechte von Menschen mit Behinderung einfordert. Schulen müssen generell barrierefrei ausgebaut sein. Wir wollen Schulen personell und räumlich so ausstatten, dass sie die individuelle Förderung der Schülerinnen und Schüler mit Behinderungen umsetzen können. Schülerinnen und Schüler mit einer Behinderung haben ein Recht auf inklusive Bildung. Einen Ressourcenvorbehalt lehnen wir ab.
+
+Zur Umsetzung wollen wir die Rahmenbedingungen insbesondere den finanziellen Rahmen deutlich verbessern und klar regeln.
+
+Die PIRATEN Hessen setzen sich für eine zeitnahe Umsetzung der UN-Konvention über die Rechte von Menschen mit Behinderungen ein. Sie beinhaltet die Inklusion von behinderten Menschen und der damit verbunden Teilhabe in allen gesellschaftlichen Bereichen und einem selbstbestimmten Leben. Umsetzungsschwierigkeiten sollen zusammen mit den Betroffenen, z. B. mit dem Außerparlamentarischen Bündnis für die Umsetzung der UN-Behindertenrechtskonvention in Hessen gelöst werden. Die Piraten setzten sich dafür ein, dass die UN-Behindertenrechtskonvention auch ein fester Bestandteil der Piratenpolitik ist und möglichst zeitnah und allumfassend umgesetzt wird, innerhalb unserer Partei und auch in der politischen Arbeit.
