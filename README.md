@@ -548,3 +548,7 @@ Wir streben ein inklusives Schulsystem an, wie es die UN-Konvention über die Re
 Zur Umsetzung wollen wir die Rahmenbedingungen insbesondere den finanziellen Rahmen deutlich verbessern und klar regeln.
 
 Die PIRATEN Hessen setzen sich für eine zeitnahe Umsetzung der UN-Konvention über die Rechte von Menschen mit Behinderungen ein. Sie beinhaltet die Inklusion von behinderten Menschen und der damit verbunden Teilhabe in allen gesellschaftlichen Bereichen und einem selbstbestimmten Leben. Umsetzungsschwierigkeiten sollen zusammen mit den Betroffenen, z. B. mit dem Außerparlamentarischen Bündnis für die Umsetzung der UN-Behindertenrechtskonvention in Hessen gelöst werden. Die Piraten setzten sich dafür ein, dass die UN-Behindertenrechtskonvention auch ein fester Bestandteil der Piratenpolitik ist und möglichst zeitnah und allumfassend umgesetzt wird, innerhalb unserer Partei und auch in der politischen Arbeit.
+
+##  Barrierefreies Notrufsystem
+
+Die Piratenpartei Hessen setzt sich für die zeitnahe Einführung eines flächendeckenden barrierefreien Notruf- und Informationssystem per Mobilfunk ein.
