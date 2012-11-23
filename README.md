@@ -512,3 +512,15 @@ Angebote sollen von Erwerbslosen auf freiwilliger Basis und nach Absprache mit d
 Privatisierung bestehender öffentlicher Infrastruktur ist abzulehnen.
 
 Verträge, die über öffentliche Gelder geschlossen werden, müssen für jeden öffentlich zugänglich sein.
+
+# Gesundheit
+
+## Universitätsklinikum Gießen und Marburg
+
+Die Piratenpartei Hessen ist der Ansicht, dass die Privatisierung des Universitätsklinikums Gießen und Marburg (UKGM) nach sechs Jahren privater Trägerschaft als gescheitert zu betrachten ist, da entgegen ursprünglicher Versprechungen einer verbesserten Patientenversorgung sowie besseren Bedingungen für Forschung und Lehre, sich diese massiv verschlechtert haben.
+
+Das Land Hessen soll daher alle Möglichkeiten zur Rückführung des UKGM in Landeseigentum prüfen und die hierfür bestehenden Optionen öffentlich zur Diskussion stellen. Vorrangiges Ziel ist es, die Qualität der Patientenversorgung sowie der Forschung und Lehre wieder sicher zu stellen. Insbesondere soll die Wahrnehmung des einmaligen Sonderrechtes zum Rückkauf des UKGM, im Falle einer Übernahme der Rhön Klinikum AG durch einen anderen privaten Krankenhausbetreiber (z.B. durch den Fresenius-Konzern), geprüft werden.
+
+Sollte ein Rückkauf des UKGM nicht möglich sein oder einen unverhältnismäßig großen Aufwand bedeuten, so hat das Land Hessen dafür Sorge zu tragen, dass neue vertragliche Maßnahmen zur Gewährleistung der Qualität von Patientenversorgung sowie Forschung und Lehre etabliert werden, um zu verhindern, dass Landesmittel zweckentfremdet verwendet werden.
+
+Ein Universitätsklinikum hat einen wichtigen gesellschaftlichen Versorgungsauftrag, an den - zu Recht - von allen Bürgern, insbesondere aber von Patienten und Mitarbeitern, hohe Ansprüche gestellt werden. Um diesem Anspruch gerecht werden zu können, hält der Landesverband Hessen der Piratenpartei Deutschland die öffentliche Trägerschaft von Universitätskliniken oder zumindest vertragliche Maßnahmen zur Gewährleistung der Qualität von Patientenversorgung sowie Forschung und Lehre für unabdingbar.
