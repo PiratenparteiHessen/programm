@@ -552,3 +552,13 @@ Die PIRATEN Hessen setzen sich für eine zeitnahe Umsetzung der UN-Konvention ü
 ##  Barrierefreies Notrufsystem
 
 Die Piratenpartei Hessen setzt sich für die zeitnahe Einführung eines flächendeckenden barrierefreien Notruf- und Informationssystem per Mobilfunk ein.
+
+## Barrierefreiheit beim Hessischen Rundfunk
+
+Die Piratenpartei Deutschland, Landesverband Hessen, setzt sich für die deutliche Erhöhung der Untertitelung im Programm des Hessischen Rundfunks ein. Desweiteren wird auf echte 1:1 Untertitelung geachtet, ohne Verkürzungen. In allen Sendungen, mit Ausnahme von Spielfilmen, wird ein Gebärdensprachdolmetscher zusätzlich zum Angebot der Untertitel in ausreichender Größe eingeblendet. Nach technischer Möglichkeit optional ausblendbar durch den einzelnen Zuschauer. Die Einblendung von Gebärdensprachdolmetschern beginnt mit der Sendung "hessenschau" und wird kontinuierlich, wie bei den Untertiteln, ausgebaut. Dem Hessischen Rundfunk sind für die Umsetzung genug Personal und finanzielle Mittel aus den GEZ Gebühreneinnahmen zur Verfügung zu stellen.
+
+Nach § 3 Abs. 2 Rundfunkstaatsvertrag sollen Kommunikationsbehinderte (Gehörlose, Schwerhörige, Sehbehinderte und Blinde) ab 2013 Runkfunkgebühren bezahlen. Demnach sollen diese Gruppe der Schwerbehinderten ein Drittel der monatlichen Gebühr (also rund sechs Euro pro Monat) bezahlen. Bislang waren Schwerhörige, Ertaubte und Gehörlose von der Gebühr befreit.
+
+Doch bei nur ca. 15% der Sendungen im deutschsprachigen Fernsehen werden Untertitel eingesetzt, wobei hier der grösste Prozentsatz von den öffentlichen Sendern stammt. Was den Einsatz von Gebärdensprachdolmetschern anbelangt so werden fast keine Sendungen gedolmetscht.
+
+Daher sollte die Gruppe der Kommunikationsbehinderten solange keine GEZ-Gebühren zahlen müssen bis alle Haupsendungen wie Nachrichten und Informationssendungen zu 100% untertitelt sind.
