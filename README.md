@@ -475,11 +475,11 @@ Die Piratenpartei Hessen setzt sich für eine Neuregelung der Störerhaftung im 
 
 # Asyl- und Migrationspolitik
 
-Die Piratenpartei Hessen schätzt unsere pluralistische Gesellschaft, die von der Vielfalt der verschiedenen Kulturen, Weltanschauungen, Religionen und Lebensmodelle lebt. Viele Flüchtlinge jedoch, die gerade erst vor Krieg und Verfolgung aus ihrem Ursprungsland geflohen sind, sehen sich hier in Deutschland Repressalien und einem Alltag voller Diskriminierungen ausgeliefert. Aus unserem Verständnis einer offenen, freien, solidarischen und demokratischen Gesellschaft heraus lehnen wir diese Art des Umgangs mit Flüchtlingen in Hessen und auf Bundesebene ab. Daher müssen alle Verfahrensweise in der Asylpolitik uneingeschränkt auf den Prüfstand. Sofern die Entscheidungskompetenz nicht in die Landesebene fällt, werden die hessischen Piraten Entscheidungen im Bundesrat anregen und vorbereiten. Bereits in dieser Thematik erfahrene Organisationen, wie beispielsweise ProAsyl und der hessische Flüchtlingsrat sind dabei stärker in den Diskurs mit einzubeziehen.
+Die Piratenpartei Hessen schätzt unsere pluralistische Gesellschaft, die von der Vielfalt der verschiedenen Kulturen, Weltanschauungen, Religionen und Lebensmodelle lebt. Viele Flüchtlinge jedoch, die gerade erst vor Krieg und Verfolgung aus ihrem Ursprungsland geflohen sind, sehen sich hier in Deutschland Repressalien und einem Alltag voller Diskriminierungen ausgeliefert. Aus unserem Verständnis einer offenen, freien, solidarischen und demokratischen Gesellschaft heraus lehnen wir diese Art des Umgangs mit Flüchtlingen in Hessen und auf Bundesebene ab. Daher müssen alle Verfahrensweisen in der Asylpolitik uneingeschränkt auf den Prüfstand. Sofern die Entscheidungskompetenz nicht in die Landesebene fällt, werden die hessischen Piraten Entscheidungen im Bundesrat anregen und vorbereiten. Bereits in dieser Thematik erfahrene Organisationen, wie beispielsweise ProAsyl und der hessische Flüchtlingsrat, sind dabei stärker in den Diskurs mit einzubeziehen.
 
 ## Residenzpflicht abschaffen
 
-Die Freiheit, Freizügigkeit und Selbstbestimmung eines jeden Menschen ist ein hohes Gut einer demokratischen Gesellschaft. Eine Einschränkung der Wahl des Aufenthaltsortes ist nichts anderes als Inhaftierung in einem großflächigen Gefängnis und schränken Flüchtlinge damit in ihrem Menschenrecht auf Freizügigkeit ein. Die hessischen Piraten setzen sich für ein Ende der Residenzpflicht ein. Jedem Flüchtling der in Hessen lebt ist die Freizügigkeit innerhalb der europäischen Gemeinschaft ohne Einschränkung zu gewähren. Dadurch bekommen Flüchtlinge die Möglichkeit für ihre Rechte im Rahmen von Versammlungen einzutreten und an Treffen innerhalb von Organisationen, sowie an familiären und freundschaftlichen Treffen teilzunehmen.
+Die Freiheit, Freizügigkeit und Selbstbestimmung eines jeden Menschen ist ein hohes Gut einer demokratischen Gesellschaft. Eine Einschränkung der Wahl des Aufenthaltsortes ist nichts anderes als Inhaftierung in einem großflächigen Gefängnis und schränken Flüchtlinge damit in ihrem Menschenrecht auf Freizügigkeit ein. Die hessischen Piraten setzen sich für ein Ende der Residenzpflicht ein. Jedem Flüchtling, der in Hessen lebt, ist die Freizügigkeit innerhalb der Europäischen Union ohne Einschränkung zu gewähren. Dadurch bekommen Flüchtlinge die Möglichkeit für ihre Rechte im Rahmen von Versammlungen einzutreten und an Treffen innerhalb von Organisationen, sowie an familiären und freundschaftlichen Treffen teilzunehmen.
 
 ## Grundrechte auf alle Menschen ausweiten
 
@@ -493,7 +493,7 @@ Als Maßnahmen zur Verbesserung der Lebenssituation von Asylsuchenden und geduld
 	
   2. Die Verletzung des Rechts auf ein zügiges Verfahren gemäß Artikel 6 der Europäischen Menschenrechtskommission (EMRK) durch Verschleppung wird beendet.
 	
-  3. Die Schaffung von Beratungen, unter welchen Umständen eine Rückkehr in das jeweilige Ursprungsland möglich wäre, sofern dies vom Antragssteller gewünscht ist, bzw. Wege aufzeigen wie eine Integration in unsere Gesellschaft möglich ist.
+  3. Die Schaffung von Beratungen, die aufzeigen, unter welchen Umständen eine Rückkehr in das jeweilige Ursprungsland möglich wäre, sofern dies vom Antragssteller gewünscht ist, oder wie eine Integration in unser Gesellschaft möglich ist.
 	
   4. Eine Bleiberechtsregelung, die die gesamte Familie (inkl. Verwandte zweiten Grades) umfasst und die besondere Situation von Eltern und Kindern berücksichtigt.
 	
@@ -511,11 +511,23 @@ Als Maßnahmen zur Verbesserung der Lebenssituation von Asylsuchenden und geduld
 
 ## Abschaffung der Optionspflicht und Modernisierung des Staatsangehörigkeitsrechts
 
-Die hessischen PIRATEN setzen sich für die Abschaffung des Optionsmodell auf Bundes- und Landesebene ein. Wird ein Kind ausländischer Eltern in Deutschland geboren und hält sich mindestens ein Elternteil mit einem unbefristeten Aufenthaltstitel legal in Deutschland auf, erhält das Kind neben der Staatsbürgerschaft der Eltern dauerhaft auch die deutsche Staatsangehörigkeit. Das bislang geltende Erfordernis, sich ab Vollendung des 18. Lebensjahrs für eine der beiden Staatsbürgerschaften entscheiden zu müssen, entfällt.
+Die hessischen PIRATEN setzen sich für die Abschaffung des Optionsmodells auf Bundes- und Landesebene ein. Wird ein Kind ausländischer Eltern in Deutschland geboren und hält sich mindestens ein Elternteil mit einem unbefristeten Aufenthaltstitel legal in Deutschland auf, erhält das Kind neben der Staatsbürgerschaft der Eltern dauerhaft auch die deutsche Staatsangehörigkeit. Das bislang geltende Erfordernis, sich ab Vollendung des 18. Lebensjahrs für eine der beiden Staatsbürgerschaften entscheiden zu müssen, entfällt.
 
 Wer sich einbürgern lässt, muss seine alte Staatsangehörigkeit nicht länger aufgeben. Mehrfache bzw. doppelte Staatsbürgerschaft wird auch bei der Einbürgerung ermöglicht.
 
 Die Fristen und Bedingungen bis zu einem dauerhaft abgesicherten Aufenthaltsrecht und zur Chance einer Einbürgerung sind deutlich zu senken, besondere Anstrengungen der Migranten zu Spracherwerb und beruflicher Integration sind positiv zu unterstützen.
+
+## Flucht aufgrund der sexuellen und geschlechtlichen Identität ist als Asylgrund ernstzunehmen
+
+In vielen Staaten ist die Diskriminierung von Menschen aufgrund ihrer sexuellen oder geschlechtlichen Identität alltäglich, schränkt sie in ihrem täglichen Leben stark ein und zwingt sie zu einem Leben im Verborgenen.
+
+Für die Piratenpartei Hessen ist die freie Entfaltung und das Ausleben der geschlechtlichen und sexuellen Identität ein unantastbares Menschenrecht, das in einem demokratischen Staat unter besonderen Schutz gestellt werden muss.
+
+Menschen, die in Staaten leben, die dieses Menschenrecht missachten und deshalb zu einer Flucht aus ihren Herkunftsländern gezwungen werden, müssen diesen Schutz uneingeschränkt erhalten.
+
+Sobald ein Mensch in einem Staat aufgrund seiner Sexualität, die in der Bundesrepublik gelebt werden darf, verfolgt wird, ist ihm Asyl zu gewähren, ohne dass der Nachweis einer konkreten Verfolgung zu erbringen ist.
+
+Der politischen Verfolgung aufgrund der sexuellen oder geschlechtlichen Identität muss international entgegengewirkt werden. Auf nationaler Ebene ist eine Reform des Asylrechts in diese Richtung dringend und zeitnah notwendig, auch um international ein Zeichen gegen Diskriminierung und Menschenrechtsverletzungen zu setzen. Das Land Hessen sollte hier mit gutem Beispiel vorangehen.
 
 # Neue Landesverfassung
 
