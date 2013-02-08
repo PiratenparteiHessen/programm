@@ -551,7 +551,7 @@ Die Enquete Kommission soll sich insbesondere mit folgenden Fragestellungen befa
 
 Der Landesverband Hessen der Piratenpartei setzt sich dafür ein, dass klare gesetzliche Regelungen geschaffen werden, die Whistleblowern einen besonderen Kündigungsschutz gewähren.
 
-Im Bereich des Strafrechts müssen zudem die §§ 94, 95, 96, 109g, 203, 353b und 355 StGB dahingehend ergänzt werden, dass diese Taten im Falle des Whistleblowings nicht rechtswidrig sind.
+Im Bereich des Strafrechts müssen zudem die §§ 94, 95, 96, 109g, 203, 353b und 355 StGB dahin gehend ergänzt werden, dass diese Taten im Falle des Whistleblowings nicht rechtswidrig sind.
 
 # Sucht- und Drogenpolitik
 
