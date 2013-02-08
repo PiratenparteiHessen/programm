@@ -1,5 +1,5 @@
-Der Entwurf des Programmes der Piratenpartei Deutschland Landesverband Hessen basierend auf der Beschlusslage des Landesparteitag 2012.2 in Frankenberg am 06. - 07.10.2012
-===========================================================================================================================================================================
+Der Entwurf des Programmes der Piratenpartei Deutschland Landesverband Hessen basierend auf der Beschlusslage der Landesparteitage 2012.2 in Frankenberg am 06. - 07.10.2012 und 2012.3 in Butzbach am 08. - 09.12.2012
+========================================================================================================================================================================================================================
 
 # Präambel
 
