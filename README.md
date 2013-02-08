@@ -535,15 +535,15 @@ Die Piratenpartei Hessen setzt sich für die Durchführung einer Volksabstimmung
 
 Die Enquete Kommission soll sich insbesondere mit folgenden Fragestellungen befassen:
 
-* Wie kann die Stärkung der demokratischen Beteiligungsmöglichkeiten in Hessen erreicht werden – zum Beispiel durch Absenkung von Wahlalter, Verfahrenserleichterungen für Volksbegehren und Volksentscheide.
+* Wie kann die Stärkung der demokratischen Beteiligungsmöglichkeiten in Hessen erreicht werden &mdash; zum Beispiel durch Absenkung von Wahlalter, Verfahrenserleichterungen für Volksbegehren und Volksentscheide?
 
-* Wie können die Selbstverwaltungsrechte der Kommunen in der Verfassung verankert werden? (z.B. analog zu den Regelungen in der Verfassung von Baden-Württemberg)
+* Wie können die Selbstverwaltungsrechte der Kommunen in der Verfassung verankert werden (z.B. analog zu den Regelungen in der Verfassung von Baden-Württemberg)?
 
 * Wie können Rechte von Personen gestärkt werden, die in einer Lebensgemeinschaft Kinder erziehen oder für pflegebedürftige Personen sorgen?
 
 * Wie können Rechte von Menschen mit Behinderungen in der Verfassung verankert werden?
 
-* Wie kann die Stellung von Hessen als integrales Bestandteil des Europäischen Einigungsprozesses in der Verfassung unterstrichen werden?
+* Wie kann die Stellung von Hessen als integraler Bestandteil des europäischen Einigungsprozesses in der Verfassung unterstrichen werden?
 
 * Welche Regelungen in der Hessischen Verfassung stehen im Widerspruch zu den Bestimmungen des Grundgesetzes und der Bundesgesetzgebung?
 
