@@ -19,15 +19,15 @@ Dabei vertreten die Piraten die Haltung, dass der einzelne Abgeordnete der Pirat
 
 Jeder Mensch hat eine Privatsphäre, die frei von Überwachung bleiben muss. Ohne begründeten Anfangsverdacht darf es keine Bewegungsprofile, keine staatlichen Übergriffe, keine Lauschangriffe und keine Rasterfahndungen geben. 
 
-Die Unterwanderungen der Bürgerrechte durch den Staat in Form von Massendatenspeicherung, Rasterfahndungen, Erhebung von biometrischen Daten und Online-Durchsuchungen erfordern ein politisches Gegengewicht. Der Einführung von Überwachungsgesetzen, wie es in Deutschland zur Zeit der Fall ist, treten die Piraten entschieden entgegen. Durch die angedachten und teilweise bereits verabschiedeten Gesetzesvorhaben werden Bürgerrechte aufgehoben; der Rechtsstaat wandelt sich in einen Überwachungsstaat, wie wir es nur von totalitären Regimen kennen. 
+Die Unterwanderungen der Bürgerrechte durch den Staat in Form von Massendatenspeicherung, Rasterfahndungen, Erhebung von biometrischen Daten und Online-Durchsuchungen erfordern ein politisches Gegengewicht. Der Einführung von Überwachungsgesetzen, wie es in Deutschland zurzeit der Fall ist, treten die Piraten entschieden entgegen. Durch die angedachten und teilweise bereits verabschiedeten Gesetzesvorhaben werden Bürgerrechte aufgehoben; der Rechtsstaat wandelt sich in einen Überwachungsstaat, wie wir es nur von totalitären Regimen kennen. 
 
 Die Piraten fordern, dass der Staat diese Werkzeuge deinstalliert und unsere Gesellschaft dabei unterstützt, sich weiter zu entwickeln. Die informationelle Selbstbestimmung muss sowohl in der hessischen Verfassung als auch im Grundgesetz der Bundesrepublik Deutschland als Grundrecht verankert werden. 
 
-Der Staat muss verpflichtet werden, jedem Bürger auf Verlangen Informationen über die ihn betreffenden Daten Auskunft zu geben, und bei Überwachung ohne konkreten Verdacht den Bürger von sich aus auf diese Überwachung hinzuweisen. Über die angelegten Datenbanken und die Art und Weise wie mit den Daten umgegangen wird, muss sich die Öffentlichkeit ungehindert informieren können. 
+Der Staat muss verpflichtet werden, jedem Bürger auf Verlangen Informationen über die ihn betreffenden Daten Auskunft zu geben, und bei Überwachung ohne konkreten Verdacht den Bürger von sich aus auf diese Überwachung hinzuweisen. Über die angelegten Datenbanken und die Art und Weise, wie mit den Daten umgegangen wird, muss sich die Öffentlichkeit ungehindert informieren können. 
 
-Die Überprüfbarkeit der gespeicherten Daten soll unverzüglich ohne Terminvorgabe zu den üblichen Öffnungszeiten ermöglicht werden. Die Löschung unberechtigterweise erhobener Daten muss auf Antrag jederzeit möglich sein. Die Löschung muß den betroffenen Bürgern unverzüglich und überprüfbar bestätigt werden. 
+Die Überprüfbarkeit der gespeicherten Daten soll unverzüglich ohne Terminvorgabe zu den üblichen Öffnungszeiten ermöglicht werden. Die Löschung unberechtigterweise erhobener Daten muss auf Antrag jederzeit möglich sein. Die Löschung muss den betroffenen Bürgern unverzüglich und überprüfbar bestätigt werden. 
 
-Diese Auskunftspflicht gilt auch für juristische Personen, und muss kostenlos erfolgen. 
+Diese Auskunftspflicht gilt auch für juristische Personen und muss kostenlos erfolgen. 
 
 Daten dürfen nicht unberechtigterweise erhoben werden; sollten sich nachträglich Daten als unberechtigt erhoben herausstellen, sind diese unverzüglich und vollständig zu löschen und die Betroffenen in Kenntnis zu setzen.
 
@@ -35,13 +35,17 @@ Daten dürfen nicht unberechtigterweise erhoben werden; sollten sich nachträgli
 
 Die freie Meinungsäußerung ist ein Eckpfeiler unserer Demokratie und darf nicht durch Onlinedurchsuchungen untergraben werden. Das Missbrauchspotenzial dieser Technik ist so immens, dass die Verantwortbarkeit nicht gegeben ist. 
 
-Onlinedurchsuchungen stellen zudem eine massive Bedrohung für die Sicherheit der informationellen Infrastruktur dar. Wenn Sicherheitslücken in bestehenden System nicht geschlossen und aufgedeckt oder neue aufgebrochen werden, wird damit die IT-Sicherheitsforschung ad absurdum geführt. Nicht die Begehren der Überwacher, sondern das Interesse des Einzelnen an Informationssicherheit hat Vorrang zu haben. 
+Onlinedurchsuchungen stellen zudem eine massive Bedrohung für die Sicherheit der informationellen Infrastruktur dar. Wenn Sicherheitslücken in bestehenden Systemen nicht geschlossen und aufgedeckt oder neue aufgebrochen werden, wird damit die IT-Sicherheitsforschung ad absurdum geführt. Nicht die Begehren der Überwacher, sondern das Interesse des Einzelnen an Informationssicherheit hat Vorrang zu haben. 
 
 ## Keine Vorratsdatenspeicherung
 
 Die Sicherung des Fernmeldegeheimnisses ist ein wichtiger Grundpfeiler zum Erhalt der Demokratie. Das Fernmeldegeheimnis ist unter anderem durch die Einführung der Vorratsdatenspeicherung bedroht. 
 
-Die Vorratsdatenspeicherung in der derzeit beschlossenen Form muss ersatzlos gestrichen werden, da diese ein eklatanter Verstoß gegenüber Artikel 10 GG darstellt, in dem systematisch und unter der Annahme einer Kollektivschuld aller an der öffentlich zugänglichen Telekommunikation beteiligter Bürger ausgegangen wird. Auch die Umstände der Telekommunikation sind nach den Leitsätzen im Urteil BvR 1611/96 des Bundesverfassungsgerichtes von Artikel 10 GG geschützt. 
+Die Vorratsdatenspeicherung in der derzeit beschlossenen Form muss ersatzlos gestrichen werden, da diese einen eklatanten Verstoß gegenüber Artikel 10 GG darstellt, in dem systematisch und unter der Annahme einer Kollektivschuld aller an der öffentlich zugänglichen Telekommunikation beteiligter Bürger ausgegangen wird. Auch die Umstände der Telekommunikation sind nach den Leitsätzen im Urteil BvR 1611/96 des Bundesverfassungsgerichtes von Artikel 10 GG geschützt. 
+
+## Kein "Staatstrojaner" (Quellen-Telekommunikationsüberwachung)
+
+Die hessischen Piraten lehnen einen Einsatz von Software zur sogenannten Quellen-Telekommunikationsüberwachung grundsätzlich ab. Der Einsatz solcher Software hat bislang in wiederholten Fällen zu erheblichen Gesetzesverletzungen durch die Ermittlungsbehörden geführt. Demgegenüber erkennen die hessischen Piraten keinen Anlass, zu solchen Ermittlungsmethoden zu greifen.
 
 ## Datensicherheit und Wahrung der Privatsphäre
 
@@ -51,13 +55,23 @@ Zur Gewährleistung von Datensicherheit und Privatsphäre müssen unterstützend
 
 Biometrische Merkmale dürfen nicht im Zusammenhang mit offiziellen Dokumenten zur Identifikation eines Bürgers gespeichert werden, bereits erhobene Daten müssen gelöscht werden. 
 
-Die Speicherung von biometrischen Daten im Zusammenhang mit Personaldokumenten bringt in der eigentlichen Sache, der besseren Erkennbarkeit von gesuchten Personen, keinen Sicherheitsgewinn, da dieser von der Zielgruppe dieser Maßnahme umgangen werden kann. Eine erhöhte Fälschungssicherheit, die diese Maßnahmen rechtfertigen würde, ist ebenfalls nicht gegeben. Der einzige Zweck dieser Dokumente ist eine möglichst lückenlose Überwachbarkeit großer Teile der Bevölkerung und ein großer Schritt hin zur systematischen staatlichen Überwachung. Dieser Schritt wird vor allem durch die Möglichkeit der RFID-Technik, Daten berührungslos aus mittlerer Entfernung und ohne Einflußnahme des Trägers abzurufen, ermöglicht. 
+Die Speicherung von biometrischen Daten im Zusammenhang mit Personaldokumenten bringt in der eigentlichen Sache, der besseren Erkennbarkeit von gesuchten Personen, keinen Sicherheitsgewinn, da dieser von der Zielgruppe dieser Maßnahme umgangen werden kann. Eine erhöhte Fälschungssicherheit, die diese Maßnahmen rechtfertigen würde, ist ebenfalls nicht gegeben. Der einzige Zweck dieser Dokumente ist eine möglichst lückenlose Überwachbarkeit großer Teile der Bevölkerung und ein großer Schritt hin zur systematischen staatlichen Überwachung. Dieser Schritt wird vor allem durch die Möglichkeit der RFID-Technik, Daten berührungslos aus mittlerer Entfernung und ohne Einflussnahme des Trägers abzurufen, ermöglicht. 
 
 ## Rückbau der Videoüberwachung
 
-Der Ausbau der Videoüberwachung an öffentlichen Plätzen muss gestoppt werden, da er nur scheinbar Sicherheit vermittelt, und eine Verschwendung von Steuergeldern darstellt. Zudem verhindert Videoüberwachung keine Straftaten, in Berlin führte die Einführung der Videoüberwachung und -aufzeichnung auf drei U-Bahn-Linien beispielsweise nicht zu einer sinkenden Kriminalitätsrate, sondern im Gegenteil sogar zu einem leichten Anstieg. 
+Der Ausbau der Videoüberwachung an öffentlichen Plätzen muss gestoppt werden, da er nur scheinbar Sicherheit vermittelt und eine Verschwendung von Steuergeldern darstellt. Zudem verhindert Videoüberwachung keine Straftaten, in Berlin führte die Einführung der Videoüberwachung und -aufzeichnung auf drei U-Bahn-Linien beispielsweise nicht zu einer sinkenden Kriminalitätsrate, sondern im Gegenteil sogar zu einem leichten Anstieg. 
 
-Zielführender sind hier eine bessere Ausleuchtung und eine verstärkte persönliche Polizeipräsenz. Videoüberwachung im öffentlichen Raum betrifft nahezu nur unverdächtige Normalbürger. Es gibt keinen Verdacht gegen eine konkrete Person, sondern alle Personen unterstehen einem Generalverdacht. 
+Zielführender sind hier eine bessere Ausleuchtung und eine verstärkte persönliche Polizeipräsenz. Videoüberwachung im öffentlichen Raum betrifft nahezu nur unverdächtige Normalbürger. Es gibt keinen Verdacht gegen eine konkrete Person, sondern alle Personen unterstehen einem Generalverdacht.
+
+## Datenschutz und Datenhandel
+
+Die Religionszugehörigkeit der Einwohner ist weder im Meldegesetz aufzuführen noch bei den Meldebehörden zu speichern.
+
+Die in § 3 Nr. 11 Hessische Meldegesetz (HMG) aufgeführte rechtliche Zugehörigkeit zu einer Religionsgesellschaft ist ersatzlos zu streichen.
+
+Die Daten über Einwohner gemäß Meldegesetz sind vornehmlich im Sinne staatlicher Aufgaben zu verwenden. Die Weitergabe von Daten über Einwohner muss der/dem Betroffenen mitgeteilt werden. Ein Verkauf der Daten aus dem Melderegister durch die Meldebehörden wird verboten. Die aufgrund des Meldegesetzes erfassten Daten sind nicht an öffentlich-rechtliche Religionsgesellschaften zu übermitteln.
+
+§ 32 Abs. 2 Hessisches Meldegesetz, Datenübermittlung an öffentlich-rechtliche Religionsgesellschaften, muss ersatzlos gestrichen werden.
 
 # Innenpolitik
 
