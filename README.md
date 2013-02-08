@@ -892,3 +892,13 @@ Der Ausbau von kabelgebundenen Netzen geht für uns mit der von Mobilfunknetzen 
 ## Transparenz
 
 Die öffentlichen Projekte zum Breitbandausbau müssen stets transparent durchgeführt werden und die Möglichkeit für jeden Bürger offen halten, neue Ideen und Vorschläge einzubringen. Insbesondere sind alle Studien, Projekte und Verträge die den Breitbandausbau betreffen, offen zu legen.
+
+# Monopole
+
+## Lockerung Branntweinmonopol
+
+Die Piratenpartei Hessen setzt sich für eine Lockerung des Branntweinmonopols ein, die über die aktuellen, auf Drängen der EU umgesetzten, Änderungen hinausgeht. Ebenfalls setzt sie sich für eine Freigabe aller privaten Destillieranlagen mit Brennkesseln von bis zu 5 Liter Volumen ein. Weiterhin soll die Herstellung ätherischer Öle in Dampfdestillationsanlagen mit einem Kesselvolumen von bis zu 100 Litern auch für Privatpersonen unbürokratisch möglich sein. Privatpersonen sollen auch deutlich größere gewerbliche Anlagen besitzen und benutzen dürfen, hierfür ist eine Anmeldung beim Zoll erforderlich.
+
+Das Verbot, Anleitungen zum Bau von Destillationsanlagen sowie zum Destilliervorgang zugänglich zu machen, muss schnellstmöglich aufgehoben werden. Seine Realitätsferne beweist sich auch darin, dass das entsprechende Wissen im Rahmen des Chemieunterrichts ohnehin vermittelt wird.
+
+Ebenso setzen sich die PIRATEN dafür ein, Schnapsbrennseminare zu legalisieren und Zeitschriftenartikel über das Destillieren veröffentlichen, Anleitungsfilme verbreiten sowie zu Vorführungszwecken öffentlich destillieren zu dürfen.
