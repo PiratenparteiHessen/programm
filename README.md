@@ -785,11 +785,61 @@ Verträge, die über öffentliche Gelder geschlossen werden, müssen für jeden 
 
 Die Piratenpartei Hessen ist der Ansicht, dass die Privatisierung des Universitätsklinikums Gießen und Marburg (UKGM) nach sechs Jahren privater Trägerschaft als gescheitert zu betrachten ist, da entgegen ursprünglicher Versprechungen einer verbesserten Patientenversorgung sowie besseren Bedingungen für Forschung und Lehre, sich diese massiv verschlechtert haben.
 
-Das Land Hessen soll daher alle Möglichkeiten zur Rückführung des UKGM in Landeseigentum prüfen und die hierfür bestehenden Optionen öffentlich zur Diskussion stellen. Vorrangiges Ziel ist es, die Qualität der Patientenversorgung sowie der Forschung und Lehre wieder sicher zu stellen. Insbesondere soll die Wahrnehmung des einmaligen Sonderrechtes zum Rückkauf des UKGM, im Falle einer Übernahme der Rhön Klinikum AG durch einen anderen privaten Krankenhausbetreiber (z.B. durch den Fresenius-Konzern), geprüft werden.
+Das Land Hessen soll daher alle Möglichkeiten zur Rückführung des UKGM in Landeseigentum prüfen und die hierfür bestehenden Optionen öffentlich zur Diskussion stellen. Vorrangiges Ziel ist es, die Qualität der Patientenversorgung sowie der Forschung und Lehre wieder sicherzustellen. Insbesondere soll die Wahrnehmung des einmaligen Sonderrechtes zum Rückkauf des UKGM, im Falle einer Übernahme der Rhön Klinikum AG durch einen anderen privaten Krankenhausbetreiber (z.B. durch den Fresenius-Konzern), geprüft werden.
 
 Sollte ein Rückkauf des UKGM nicht möglich sein oder einen unverhältnismäßig großen Aufwand bedeuten, so hat das Land Hessen dafür Sorge zu tragen, dass neue vertragliche Maßnahmen zur Gewährleistung der Qualität von Patientenversorgung sowie Forschung und Lehre etabliert werden, um zu verhindern, dass Landesmittel zweckentfremdet verwendet werden.
 
 Ein Universitätsklinikum hat einen wichtigen gesellschaftlichen Versorgungsauftrag, an den - zu Recht - von allen Bürgern, insbesondere aber von Patienten und Mitarbeitern, hohe Ansprüche gestellt werden. Um diesem Anspruch gerecht werden zu können, hält der Landesverband Hessen der Piratenpartei Deutschland die öffentliche Trägerschaft von Universitätskliniken oder zumindest vertragliche Maßnahmen zur Gewährleistung der Qualität von Patientenversorgung sowie Forschung und Lehre für unabdingbar.
+
+## Keine Ökonomisierung des Gesundheitssystems
+
+Die Privatisierung von Klinikbetrieben, die sich in gemeinnütziger Trägerschaft befinden, wird von der Piratenpartei Hessen grundsätzlich abgelehnt. Kommunale Krankenhäuser sollen durch kompetente Führungskräfte gelenkt werden, deren Zielvorgabe neben wirtschaftlichen Belangen auch das Wohl der Patienten und die Zufriedenheit der Mitarbeiter sein muss. Sollen Teilbereiche an private Betreiber übertragen werden, so sind an einen solchen Prozess hohe Anforderungen bezüglich der Qualität der medizinischen Versorgung, der Situation der Belegschaft und der Mitsprache der Bürger zu stellen. Wir beurteilen die Krankenhausverkäufe der vergangenen Jahre (wie das Uniklinikum Gießen/Marburg und die Horst-Schmidt-Klinken in Wiesbaden) als gescheitert und werden uns für eine baldige Zurückführung in öffentliche Hand einsetzen.
+
+Wir setzen uns dafür ein, dass das Land Hessen auf Bundesebene Initiativen für ein gerechtes Gesundheitssystem, welche die finanzielle Ausstattung der Kliniken und Krankenhäuser langfristig sicherstellen, in den Bundesrat und in die Gesundheitskonferenz einbringt.
+
+## Gesundheits-, Kranken- und Altenpflege
+
+### Verbesserung der Arbeitsbedingungen
+
+Arbeitsverträge im Pflegeberuf werden aus Kostengründen zum größten Teil nur noch zeitbefristet herausgegeben. In der Konsequenz bedeutet das, dass der Pflegepersonalschlüssel (PPR) seit Jahren nicht mehr dem tatsächlichen Pflegebedarf angepasst ist. Mehrarbeit wie auch angeordnete Überstunden sind somit an der Tagesordnung. Die damit einhergehende, permanente Überlastung birgt Gefahren für Patienten, Pflegebedürftige und Pflegekräfte.
+
+Die PIRATEN Hessen setzen sich daher dafür ein, dass die Landesregierung konkrete Maßnahmen ergreift, um die Arbeitsbedingungen von Pflegekräften und in der Pflege tätigen Menschen zu verbessern, um somit nicht nur einer Flucht aus den Gesundheitsberufen, sondern auch der permanenten Überbelastung entgegen zu steuern.
+
+### Stärkung der Teilhabe pflegebedürftiger Menschen
+
+Die PIRATEN Hessen setzen sich für die größtmögliche gesellschaftliche Teilhabe aller Menschen in unserem Land ein. Deshalb sehen wir auch die Notwendigkeit einer Stärkung und eines Ausbaus der pflegerischen Versorgung in unserer Gesellschaft mit dem Ziel, die Möglichkeiten älterer und körperlich oder geistig eingeschränkter Menschen zur Teilnahme am gesellschaftlichen Leben zu verbessern.
+
+Wir setzen uns ein für eine kreative Entwicklung neuer Versorgungs- und Betreuungsformen, die über die klassischen Formen der häuslichen Pflege oder Heimpflege hinausgehen und die Erreichung des oben genannten Zieles fördern. Dazu befürworten wir die Entwicklung von lokalen und kommunalen "Pflegeentwicklungskonzepten" unter Einbeziehung betroffener Patienten und Angehöriger sowie der ansässigen Pflegedienste und Einrichtungen.
+
+Auf Landesebene setzt sich die Piratenpartei dafür ein, dass das Land Hessen auf Bundesebene die Finanzierung solcher neuer Pflegekonzepte durch die Regelungen des SGB XI über die Gesundheitsministerkonferenz und den Bundesrat einbringt.
+
+### Finanzierung von Pflege
+
+Die PIRATEN Hessen setzen sich für eine ausreichende Finanzierung von Pflegeleistungen ein. Diese ist so zu gestalten, dass in Pflegeeinrichtungen sowie in der häuslichen Pflege genügend qualifiziertes Pflegepersonal eingesetzt werden kann, um den Ansprüchen pflegebedürftiger Menschen gerecht zu werden. Dazu wollen wir eine gesellschaftliche Debatte anstoßen, um langfristig tragbare und ausreichende Finanzierungskonzepte zu entwickeln.
+
+### Fortbildungspflicht in der Pflege
+
+Die PIRATEN Hessen fordern eine Fortbildungsverpflichtung und einen Fortbildungsnachweis von professionell beruflich Pflegenden, um den modernen pflegerischen als auch medizinischen Anforderungen gerecht zu werden. Unser Ziel ist die vertragliche Verpflichtung zu kontinuierlichen Fortbildungen von beruflichen Pflegekräften in ihrem Fachgebiet, die regelmäßig, alle zwei Jahre anhand eines Punktesystems überprüft und abgerufen wird. Im Anschluss wird dies mit einem Zertifikat bestätigt. Die regelmäßige Fortbildung ist vom Arbeitgeber freizustellen und als Arbeitszeit anzurechnen.
+
+### Pflegequalität und Pflegesicherheit
+
+Die PIRATEN Hessen sprechen sich für klare und eindeutige Regeln zum Personaleinsatz in Krankenhäusern und Pflegeeinrichtungen der Langzeitversorgung aus. Dabei ist die Anzahl an Patienten pro Pflegekraft durch ein Fachgremium des Bundes oder Landes festzulegen. Anhand des Fortbildungsnachweises kann auf die Qualifizierung der Pflegekräfte geschlossen werden.
+
+Zusätzlich ist je nach Bereich festzulegen, wie viele Hilfskräfte im Verhältnis zu den Pflegekräften einzusetzen sind. In besonderen Bereichen (z.B. Intensivstationen) ist dies an die Belastung der jeweiligen Abteilung entsprechend der Deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin (DIVI) anzupassen.
+
+## Erste Hilfe
+
+Die PIRATEN Hessen setzen sich dafür ein, dass ein auf Klassenstufen und Alter angepasstes Programm zur Förderung von Ersthelfermaßnahmen in allgemein- und weiterbildenden Schulen ausgearbeitet, eingeführt und regelmäßig durchgeführt wird. Dieses orientiert sich inhaltlich an den aktuellen Leitlinien der BAGEH (Bundesarbeitsgemeinschaft Erste Hilfe).
+
+Erste Hilfe soll in die Schulprogramme für Schüler ab der 5. Klasse freiwillig und ab der 7. Klasse verpflichtend, zum Beispiel im Rahmen von jährlichen Projekttagen oder anderen regelmäßigen Aktionen an Schulen aufgenommen und angeboten werden. Kindergarten- und Grundschulkinder sollen in jeweils angepasster Weise an angemessenes Verhalten in Notfallsituationen herangeführt werden.
+
+Darüber hinaus setzt sich die Piratenpartei für die Einrichtung und Förderung von Schulsanitätsdiensten ein, die auf freiwilliger Basis beruhen und das Verantwortungsbewusstsein der Schüler fördern sollen. Hierfür sollen Lehrer/-innen, Eltern oder andere mit der Schule verbundene Menschen eine Ausbildung zum Erste Hilfe-Ausbilder absolvieren, um den Schülern die notwendigen Kenntnisse zu vermitteln und diese fortwährend aufzufrischen.
+
+## Gesundheitliche Aufklärung
+
+Die PIRATEN Hessen setzen sich für eine umfassende gesundheitliche Aufklärung als nächsten Schritt einer sozialen Inklusion von Menschen mit psychischen Störungen ein. Vor allem jene Störungsbilder sollen hier in den Fokus gerückt werden, die häufig von Vorurteilen und Ausgrenzungen betroffen sind und dadurch die Lebensqualität und medizinische Therapie der Betroffenen erheblich beeinträchtigen. Zusätzlich sollen auch die möglichen Behandlungs- und komplementären Hilfsangebote und Einrichtungen in die Aufklärung einbezogen werden, um die Akzeptanz solcher in der Bevölkerung zu stärken und auch die Nutzung der Möglichkeiten gleich ob stationär, teilstationär oder ambulant mit weniger persönlichen Bedenken und Vorbehalten zu ermöglichen. Letztlich steht auch die Aufklärung der Betroffenen selbst in unserem Blickpunkt, vor allem über ihre rechtlichen Ansprüche sowie Hilfsangebote.
+
+Wir sehen die Bundeszentrale für gesundheitliche Aufklärung (BZgA) als geeignete Stelle zur Koordinierung und Organisation der umfassenden Aufklärung. Aber wir sehen hier vor allem die öffentlich-rechtlichen Rundfunkanstalten in der Pflicht, aber auch die privaten Sendeanstalten, Print- und Onlinemedien, ihren gesellschaftlichen Beitrag für eine wirksame gesundheitliche Aufklärung zu leisten. Besonderes Augenmerk sollte dabei auf die Vermittlung der Botschaft liegen, dass Menschen mit psychischen Störungen ein gleichberechtigter Teil der Gesellschaft sind.
 
 # Integration und Inklusion
 
