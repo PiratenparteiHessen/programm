@@ -75,7 +75,7 @@ Die Daten über Einwohner gemäß Meldegesetz sind vornehmlich im Sinne staatlic
 
 # Innenpolitik
 
-Der Bereich Inneres ist für die Piratenpartei von zentraler Bedeutung. Das massive Missbrauchspotenzial durch die installierten Überwachungstechniken und -werkzeuge erfordert allerhöchste Wachsamkeit bei den Beamtinnen und Beamten, die diese Werkzeuge bedienen. Ethische und moralische Grundsätze dürfen nicht übergangen werden. Die Möglichkeit der Nötigung durch Vorgesetzte, gegen geltendes Recht oder gegen ihr eigenes Gewissen zu handeln, muss bei Beamtinnen und Beamten ausgeschlossen sein. Diese und viele andere denkbare Konflikte tauchen im Zusammenhang mit der Einführung der Vorratsdatenspeicherung in Deutschland im Januar 2008 auf. 
+Der Bereich Inneres ist für die Piratenpartei von zentraler Bedeutung. Das massive Missbrauchspotenzial durch die installierten Überwachungstechniken und -werkzeuge erfordert allerhöchste Wachsamkeit bei den Beamtinnen und Beamten, die diese Werkzeuge bedienen. Ethische und moralische Grundsätze dürfen nicht übergangen werden. Die Möglichkeit der Nötigung durch Vorgesetzte, gegen geltendes Recht oder gegen ihr eigenes Gewissen zu handeln, muss bei Beamtinnen und Beamten ausgeschlossen sein. 
 
 ## Innere Sicherheit
 
@@ -87,7 +87,11 @@ Justitia mag blind sein, aber dies sollte sie wenigstens für jeden Bürger - un
 
 Wir stehen für eine bürgernahe, leistungsfähige und unabhängige Gerichtsversorgung in der Fläche als unverzichtbare Voraussetzung für die Herstellung und den Erhalt des Rechtsfriedens. Wir setzen uns zudem für die Konstanz in den Justizstrukturen und Effizienz im Rahmen der personellen und sachlichen Ausstattung der Gerichte ein. 
 
-Eine funktionierende und rechtsstaatlich verankerte Polizei als Teil der Exekutive ist unser Ziel. Wir setzen uns für eine Kennzeichnungspflicht für Polizeibeamte ein. Beamte im Einsatz bei Versammlungen sind zu verpflichten, von weitem sicht- und erkennbare Kennzeichen zu tragen. Um dem berechtigten Interesse der Beamten nach Datenschutz Rechnung zu tragen, sind die Kennzeichen pseudonym zu gestalten und dürfen von Einsatz zu Einsatz wechseln. Es muss jederzeit auch im Nachhinein sichergestellt sein, dass mit Hilfe eines richterlichen Beschlusses ein Kennzeichen einer Person zuzuordnen ist. 
+Eine funktionierende und rechtsstaatlich verankerte Polizei als Teil der Exekutive ist unser Ziel. Wir setzen uns für eine Kennzeichnungspflicht für Polizeibeamte ein. Beamte im Einsatz bei Versammlungen sind zu verpflichten, von weitem sicht- und erkennbare Kennzeichen zu tragen. Um dem berechtigten Interesse der Beamten nach Datenschutz Rechnung zu tragen, sind die Kennzeichen pseudonym zu gestalten und dürfen von Einsatz zu Einsatz wechseln. Es muss jederzeit auch im Nachhinein sichergestellt sein, dass mit Hilfe eines richterlichen Beschlusses ein Kennzeichen einer Person zuzuordnen ist.
+
+## Unabhängige Beschwerdestelle für Polizei-Übergriffe
+
+Die hessischen Piraten streben die Einrichtung einer unabhängigen Beschwerdestelle zur Entgegennahme von Beschwerden gegen Polizei-Übergriffe an, von der aus auch exklusiv Ermittlungen gegen beschuldigte Polizeibeamte geführt werden. Diese Stelle ist der Generalstaatsanwaltschaft anzugliedern, die zu diesem Zweck eine unabhängige Abteilung einrichtet. Ihr wird für diese Aufgabe eine Untersuchungskommission von polizeilichen Ermittlungsbeamten zur Seite gestellt, die dienstrechtlich ebenfalls der Generalstaatsanwaltschaft zugeordnet sind und nicht aus dem Polizeidienst des jeweiligen Bundeslandes rekrutiert werden dürfen, also stattdessen etwa aus der Bundespolizei oder der Polizei eines Nachbarlandes gewonnen werden. Die Beschwerdestelle soll auch für interne Verfahren zuständig sein, wie Mobbing- oder Diskriminierungsvorwürfe. Ihr Aufgabenbereich und die rechtlichen Rahmenbedingungen ihres Tätigwerdens müssen den von Amnesty International vorgeschlagenen "unabhängigen Untersuchungskommissionen" entsprechen.
 
 ## Ablehnung der Extremismusklausel
 
@@ -95,7 +99,15 @@ Der Landesverband Hessen der Piratenpartei lehnt die bestehende "Extremismusklau
 
 Die PIRATEN wertschätzen progressive, innovative und revolutionäre Ideen, die unsere freiheitlich-demokratische Gesellschaft voranbringen und der Verbreitung von menschenverachtenden Ideologien entgegenwirken wollen. Wir setzen uns daher gegen die Verwendung der "Extremismusklausel" ein.
 
-Durch die bürokratischen Hürden, die durch diese Klausel geschaffen werden, werden Menschen, die sich in Projekten gegen Rassismus, Faschismus, Antisemitismus, Antiziganismus, Fremdenfeindlichkeit, Nationalismus, Nationalsozialismus, Sexismus, Homophobie oder diktatorische Bestrebungen einsetzen, in ihrer politischen Arbeit unnötig blockiert. Die Unterstützungsbedingungen für solche Projekte müssen in diesem Sinne überarbeitet und verbessert werden. 
+Durch die bürokratischen Hürden, die durch diese Klausel geschaffen werden, werden Menschen, die sich in Projekten gegen Rassismus, Faschismus, Antisemitismus, Antiziganismus, Fremdenfeindlichkeit, Nationalismus, Nationalsozialismus, Sexismus, Homophobie oder diktatorische Bestrebungen einsetzen, in ihrer politischen Arbeit unnötig blockiert. Die Unterstützungsbedingungen für solche Projekte müssen in diesem Sinne überarbeitet und verbessert werden.
+
+## Drohneneinsätze in Hessen
+
+Die Piratenpartei Hessen spricht sich grundsätzlich gegen den Einsatz von Drohnen zum Zwecke der Überwachung durch die staatlichen Sicherheitsbehörden aus. Ein privater Einsatz von Drohnen mit Onboard-Kameras, beispielsweise durch Fotografen oder Demonstranten, ist unter Wahrung des Datenschutzes und des Persönlichkeitsrechtes zu erlauben. Dem Einsatz von Drohnentechnologie bei der Gefährdung von Menschleben, z. B. durch Bergungs- oder Rettungspersonal, steht die Piratenpartei offen gegenüber. Regelungen hierfür sind klar zu definieren.
+
+## Abschaffung des Landesamts für Verfassungsschutz
+
+Die Piratenpartei Hessen strebt die Abschaffung des Landesamts für Verfassungsschutz an. Dessen Aufgabenbereiche der Spionageabwehr sind dem Bundesamt für Verfassungsschutz zuzuweisen, im Übrigen können und sollen die Aufgaben von den bereits existierenden Staatsschutzabteilungen der hessischen Polizei übernommen werden.
 
 # Bildung
 
