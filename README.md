@@ -667,13 +667,13 @@ Eine artgerechte Wildtierhaltung ist innerhalb eines Zirkusbetriebes nicht mögl
 
 Durch den Druck des Handels sind die landwirtschaftlichen Erzeuger gezwungen, immer mehr Produkte zu immer günstigeren Preisen anzubieten. Das ist nur möglich durch Produktionssteigerung auf begrenzten Flächen und führt zu einem massiven Einsatz von Medikamenten in der Tierproduktion.
 
-Es ist wissenschaftlich erwiesen, dass durch den immer stärkeren Einsatz von Antibiotika, den zu geringen Haltungsflächen und hygienischen Umstände bei der Unterbringung der Tiere multiresistente Keime entstehen, die der Gesundheit von Mensch und Tier massiv schaden.
+Es ist wissenschaftlich erwiesen, dass durch den immer stärkeren Einsatz von Antibiotika, die zu geringen Haltungsflächen und die hygienischen Umstände bei der Unterbringung der Tiere multiresistente Keime entstehen, die der Gesundheit von Mensch und Tier massiv schaden.
 
-Wir werden dafür sorgen, dass jede verabreichte Dosis offen gelegt werden muss und Jedem diese Information an leicht zugänglicher Stelle zur Verfügung stehen muss.
+Wir werden dafür sorgen, dass jede verabreichte Dosis offen gelegt werden und jedem diese Information an leicht zugänglicher Stelle zur Verfügung stehen muss.
 
 Darüber hinaus setzen wir uns dafür ein, dass Tiere und tierische Produkte nur dann verarbeitet werden dürfen, wenn zuvor verabreichte Medikamente bis auf festgelegte Grenzwerte auch abgebaut sind.
 
-Desweiterem ist die prophylaktische Medikamentengabe zu verbieten, wenn sie nur dadurch notwendig wird, durch falsche Haltung entstandene Krankheiten oder Schäden zu verhindern oder zu reduzieren oder nur dazu dient die wirtschaftliche Leistung der Tiere weiter anzuheben. Stattdessen sollen nur tatsächlich erkrankte Tiere gemäß dem Grad ihrer Erkrankung nach dem Urteil eines fachkundigen Tierarztes behandelt werden und die prohylaktische Gabe von Medikamenten soll nur bei begründeten Fällen, die der Abwendung größerer Schäden dient, erfolgen.
+Des weiteren ist die prophylaktische Medikamentengabe zu verbieten, wenn sie nur dadurch notwendig wird, dass durch falsche Haltung entstandene Krankheiten oder Schäden verhindert oder reduziert werden sollen, oder sie nur dazu dient, die wirtschaftliche Leistung der Tiere weiter anzuheben. Stattdessen sollen nur tatsächlich erkrankte Tiere gemäß dem Grad ihrer Erkrankung nach dem Urteil eines fachkundigen Tierarztes behandelt werden und die prohylaktische Gabe von Medikamenten soll nur bei begründeten Fällen, die der Abwendung größerer Schäden dient, erfolgen.
 
 Zu diesem Zweck befürworten wir regelmäßige Kontrollen der tierischen Nahrungsmittel und die Veröffentlichung der Ergebnisse an zentraler Stelle.
 
