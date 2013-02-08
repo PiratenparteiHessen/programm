@@ -117,7 +117,7 @@ Neben einer ausreichenden Zahl von Lehrern ist die Fortbildung der schon vorhand
 
 Unterrichtsgarantie Plus darf kein Modell für Unterricht durch unqualifiziertes Lehrpersonal und verschwendete Schulzeit bleiben. Der Festanstellung von Lehrern zur Pufferung krankheits- und fortbildungsbedingter Unterrichtsausfälle ist der Vorzug zu geben. Unterrichtsmaterialien müssen wieder kostenfrei zu Verfügung gestellt werden. Für Ganztagsschulen oder bei Nachmittagsunterricht ist es erforderlich, eine kostenlose Verpflegung mit vollwertigen Mahlzeiten anzubieten. Dass diese auch eher ökologischen Maßstäben entsprechen und nicht von minderwertiger Kantinenqualität sein sollte, ist selbstverständlich. Die Umsetzbarkeit dieser Forderungen zeigen zahlreiche Modelle. 
 
-Die Einführung der Studiengebühren zur Erhöhung der Effizienz in Hochschulen und Universitäten verfehlte klar ihr Ziel, Mit ihrer Rücknahme ist ein erster Schritt getan. Jetzt sind Finanzierungsmodelle umzusetzen, die eine Benachteiligung sozial und finanziell schwächer gestellter Studenten ausschließen. Als Finanzierungsmodelle für Hochschulen sind neben der öffentlichen Hand auch private und gewerbliche Stiftungen anzustreben. Die freie und uneingeschränkte Zugänglichkeit zu Wissen und Werken, die in Hochschulen erarbeitet wurden, muss für alle öffentlichen Einrichtungen gewährleistet sein. Wirtschaftlich verwertbare Forschungsergebnisse und daraus erzielte Erlöse sollen in den Ausbau von Bildungseinrichtungen fließen. 
+Die Einführung der Studiengebühren zur Erhöhung der Effizienz in Hochschulen und Universitäten verfehlte klar ihr Ziel. Mit ihrer Rücknahme ist ein erster Schritt getan. Jetzt sind Finanzierungsmodelle umzusetzen, die eine Benachteiligung sozial und finanziell schwächer gestellter Studenten ausschließen. Als Finanzierungsmodelle für Hochschulen sind neben der öffentlichen Hand auch private und gewerbliche Stiftungen anzustreben. Die freie und uneingeschränkte Zugänglichkeit zu Wissen und Werken, die in Hochschulen erarbeitet wurden, muss für alle öffentlichen Einrichtungen gewährleistet sein. Wirtschaftlich verwertbare Forschungsergebnisse und daraus erzielte Erlöse sollen in den Ausbau von Bildungseinrichtungen fließen. 
 
 Der Landesverband Hessen der Piratenpartei Deutschland will Rahmenbedingungen einführen, die das immerwährende Lernen in allen Lebensbereichen ermöglichen.
 
@@ -127,7 +127,7 @@ Der Landesverband Hessen der Piratenpartei Deutschland will Bildungseinrichtunge
 
 Die deutsche Bildungspolitik ist in Lagern gefangen, die sich kaum bewegen können. Die hessischen Piraten sehen Bildung als lebenslangen Prozess, der nicht nur auf junge Menschen beschränkt werden sollte. Wir wollen deshalb Rahmenbedingungen einführen, die das immerwährende Lernen in allen Lebensbereichen ermöglichen. 
 
-Zudem soll endlich wieder der Lernende im Mittelpunkt stehen und zum Hauptakteuer des eigenen Bildungsprozesses werden. Durch mehr Mitbestimmung und Transparenz in den Lehrplänen und Angeboten wollen wir Bildungseinrichtungen als demokratischen und öffentlichen Handlungsraum der Teilnehmer gestalten. 
+Zudem soll endlich wieder der Lernende im Mittelpunkt stehen und zum Hauptakteur des eigenen Bildungsprozesses werden. Durch mehr Mitbestimmung und Transparenz in den Lehrplänen und Angeboten wollen wir Bildungseinrichtungen als demokratischen und öffentlichen Handlungsraum der Teilnehmer gestalten.
 
 ## Bildung in einer freiheitlich-demokratischen Gesellschaft
 
@@ -141,13 +141,13 @@ Investitionen in Bildung sind Investitionen in die Zukunft.
 
 Der freie Zugang zu Bildungseinrichtungen ist im Interesse aller. Deshalb ist es Aufgabe der gesamten Gesellschaft, in Form des Staates, eine leistungsfähige und ihrem Zwecke angemessene Bildungsinfrastruktur zu finanzieren und frei zur Verfügung zu stellen. Private Finanzierung öffentlicher Bildungseinrichtungen ist grundsätzlich zu begrüßen, solange sie keinen Einfluss auf die bestehenden Lehrinhalte hat. 
 
-Bildungsgebühren jeglicher Art schränken den Zugang zu Bildung ein und sind deshalb kategorisch abzulehnen. Aus diesem Grund ist auch die Lehrmittelfreiheit zu befürworten. Diese ist am besten dadurch herzustellen, dass die Verwendung und das Schaffen von freien Werken zur Vermittlung von Wissen unterstützt und ausgebaut wird. Diese freien Werke sind nicht nur kostenfrei im Unterricht einsetzbar, sondern ermöglichen dazu dem Lehrenden ohne rechtliche Hürden die Lernmittel auf seinen Unterricht anzupassen. 
+Bildungsgebühren jeglicher Art schränken den Zugang zu Bildung ein und sind deshalb kategorisch abzulehnen. Aus diesem Grund ist auch die Lehrmittelfreiheit zu befürworten. Diese ist am besten dadurch herzustellen, dass die Verwendung und das Schaffen von freien Werken zur Vermittlung von Wissen unterstützt und ausgebaut werden. Diese freien Werke sind nicht nur kostenfrei im Unterricht einsetzbar, sondern ermöglichen dazu dem Lehrenden ohne rechtliche Hürden die Lernmittel auf seinen Unterricht anzupassen. 
 
 Trotz des staatlichen Bildungsauftrages soll die Erziehung in Bildungseinrichtungen die Erziehung durch die Eltern nicht ersetzen. Zur umfassenden Bildung gehört, dass sich beide Formen der Erziehung gegenseitig ergänzen und fördern. 
 
 ## Bildung als individueller Prozess
 
-Jeder Mensch ist ein Individuum mit persönlichen Neigungen, Stärken und Schwächen. Institutionelle Bildung soll daher den Einzelnen unterstützen seine Begabungen zu entfalten, Schwächen abzubauen und neue Interessen und Fähigkeiten zu entdecken. Neben starren Lehr- und Stundenplänen, werden vor allem einige Formen der Leistungsbewertung diesen Forderungen nicht gerecht. Insbesondere die Bewertung von Verhalten nach einem vorgegebenen Normenraster z.B. bei den sogenannten Kopfnoten lehnen wir ab. 
+Jeder Mensch ist ein Individuum mit persönlichen Neigungen, Stärken und Schwächen. Institutionelle Bildung soll daher den Einzelnen unterstützen seine Begabungen zu entfalten, Schwächen abzubauen und neue Interessen und Fähigkeiten zu entdecken. Neben starren Lehr- und Stundenplänen werden vor allem einige Formen der Leistungsbewertung diesen Forderungen nicht gerecht. Insbesondere die Bewertung von Verhalten nach einem vorgegebenen Normenraster z.B. bei den sogenannten Kopfnoten lehnen wir ab. 
 
 Die Bildungsinhalte haben auf fundierten und belegbaren Erkenntnissen zu basieren und müssen von einem möglichst neutralen Standpunkt aus vermittelt werden. Dies beinhaltet vor allem eine sachliche Darstellung, die Ausgewogenheit der Standpunkte und eine kritische Quellenbewertung. 
 
@@ -197,21 +197,21 @@ Ab dem dritten Lebensjahr des Kindes ist den Eltern ein Kindergartenplatz aktiv 
 
 ## Schulbildung
 
-Jedwedes Bildungsangebot – von Krippen bis Schule ist gebührenfrei. Es gibt keine versteckten Kosten für Lernmittel, Bücher, Computer, Kopierkosten, Klassenfahrten, Mittagessen, Förderung u.Ä..
+Jedwedes Bildungsangebot – von Krippen bis Schule ist gebührenfrei. Es gibt keine versteckten Kosten für Lernmittel, Bücher, Computer, Kopierkosten, Klassenfahrten, Mittagessen, Förderung und Ähnliches.
 
-Bildung geht vor Copyright bzw. Urheberrecht. Im Rahmen des Unterrichts ist die Kopierbarkeit und der Einsatz jedweden Materials prinzipiell kostenfrei und rechtlich zu gewährleisten.
+Bildung geht vor Copyright bzw. Urheberrecht. Im Rahmen des Unterrichts sind die Kopierbarkeit und der Einsatz jedweden Materials prinzipiell kostenfrei und rechtlich zu gewährleisten.
 
 Niemand darf aufgrund von Herkunft, Geschlecht, Wohnort, Einkommen, Alter, Aussehen, Behinderung oder vorhandenen Budgets von einer Schule ausgeschlossen werden. Übersteigt die Nachfrage nach einer bestimmten Schule das Angebot an Plätzen, legt das Schulamt ein Auswahlverfahren fest, das sicherstellt, dass die Vergabe nach objektiven und pädagogischen Kriterien und ohne Berücksichtigung der Person erfolgt.
 
-Werden Bildungseinrichtung in freier Trägerschaft, analog den öffentlichen Schulen, durch das Land Hessen gefördert, so dürfen sie über diese Förderung hinaus keine Gebühren oder Schulgeld verlangen.
+Werden Bildungseinrichtungen in freier Trägerschaft, analog den öffentlichen Schulen, durch das Land Hessen gefördert, so dürfen sie über diese Förderung hinaus keine Gebühren oder Schulgeld verlangen.
 
-Die Schulen, staatliche wie solche in freier Trägerschaft, erhalten die staatliche Zuweisungen an Lehrerstellen bzw. Finanzmitteln auf der Basis einer Lerngruppenstärke von 20 Schülern.
+Die Schulen, staatliche wie solche in freier Trägerschaft, erhalten die staatlichen Zuweisungen an Lehrerstellen bzw. Finanzmitteln auf der Basis einer Lerngruppenstärke von 20 Schülern.
 
 Die Regelgrundschulzeit beträgt 6 Jahre.
 
-Schulen sind als angebotsorientierte Ganztagsschulen von 07:00 bis 17:00 Uhr zu organisieren (ausgenommen berufliche Schulen). Kernarbeits- und Unterrichtszeit ist von 09:00 bis 15:00 Uhr. Davor und danach sind geeignete Förder- und Forderangebote (Talentförderung, AG's, usw.) anzubieten.
+Schulen sind als angebotsorientierte Ganztagsschulen von 07:00 bis 17:00 Uhr zu organisieren (ausgenommen berufliche Schulen). Kernarbeits- und Unterrichtszeit ist von 09:00 bis 15:00 Uhr. Davor und danach sind geeignete Förder- und Forderangebote (Talentförderung, Arbeitsgruppen usw.) anzubieten.
 
-Die Piraten fordern die sofortige Umsetzung der in der Behindertenrechtskonvention (BRK), die seit dem 26. März 2009 in Kraft gesetzt wurde. Alle beeinträchtigten Schüler und Schüler mit Behinderung haben das Recht auf den Besuch einer Regelschule (Inklusion). Alle Regelschulen sind somit Inklusionsschulen. Jede Klasse muss bis zu 3 beeinträchtigte Schüler aufnehmen. Jede Inklusionsklasse wird durch einen Förderlehrer unterstützt (durchgängig).
+Die Piraten fordern die sofortige Umsetzung der Behindertenrechtskonvention (BRK), die am 26. März 2009 in Kraft gesetzt wurde. Alle beeinträchtigten Schüler und Schüler mit Behinderung haben das Recht auf den Besuch einer Regelschule (Inklusion). Alle Regelschulen sind somit Inklusionsschulen. Jede Klasse muss bis zu 3 beeinträchtigte Schüler aufnehmen. Jede Inklusionsklasse wird durch einen Förderlehrer unterstützt (durchgängig).
 
 An jeder Schule sind pro 100 Schüler
 
@@ -229,7 +229,7 @@ Lernende mit Lernproblemen haben Anspruch auf umfangreiche Förderung durch Spez
 
 Der Wechsel zwischen verschiedenen Schulen - auch aus anderen (Bundes-)Ländern - ist durch individuelle Förderung zu unterstützen.
 
-Die Piraten streben die Überwindung des veralteten mehr-gliedrigen Schulsystems an. Im Sinne eines gemeinsamen, sozialen Lernens schließt sich der 6-jährigen Grundschule eine 4-jährige Gemeinschaftsschule an. Hier wird zunächst im gemischten Klassenverband, mit fortschreitendem Alter zunehmend in Interessens-spezifischen sowie Förderungs-orientierten Kursen.
+Die Piraten streben die Überwindung des veralteten mehrgliedrigen Schulsystems an. Im Sinne eines gemeinsamen, sozialen Lernens schließt sich der 6-jährigen Grundschule eine 4-jährige Gemeinschaftsschule an. Hier wird zunächst im gemischten Klassenverband, mit fortschreitendem Alter zunehmend in interessensspezifischen sowie förderungsorientierten Kursen.
 
 Das schließt die Anwendung unterschiedlicher pädagogischer Konzepte innerhalb einer Schule ein.
 
@@ -245,15 +245,15 @@ Die dreijährige Fachschulausbildung für Erzieherinnen/Erzieher wird beibehalte
 
 Die Ausbildung der Lehrkräfte in Hessen bedarf dringend einer Veränderung. Ziele der Piraten sind hier: 
 
-* Potentielle Lehrkräfte sollen viel früher feststellen können, ob sie persönlich für den Unterricht von Kindern und Jugendlichen geeignet sind
+* Potenzielle Lehrkräfte sollen viel früher feststellen können, ob sie persönlich für den Unterricht von Kindern und Jugendlichen geeignet sind.
 
-* Angehende Lehrkräfte sollen noch besser pädagogisch und didaktisch auf den Unterricht vorbereitet werden
+* Angehende Lehrkräfte sollen noch besser pädagogisch und didaktisch auf den Unterricht vorbereitet werden.
 
-* In der Praxis stehende Lehrkräfte sollen mit geeigneten Anreizen zur regelmäßigen Weiterbildung und Tätigkeit an verschiedenen Schulen motiviert werden
+* In der Praxis stehende Lehrkräfte sollen mit geeigneten Anreizen zur regelmäßigen Weiterbildung und Tätigkeit an verschiedenen Schulen motiviert werden.
 
-* Allen Lehrkräften sollen ihre Stärken und Schwächen aufgezeigt sowie Weiterbildungs-und Entwicklungspotentiale erschlossen werden
+* Allen Lehrkräften sollen ihre Stärken und Schwächen aufgezeigt sowie Weiterbildungs-und Entwicklungspotenziale erschlossen werden.
 
-* Das Verfallen in unreflektierte Verhaltens- und Reaktionsmuster sowie das Entstehen von Stress-Krankheiten und Burn Out soll vermieden werden
+* Das Verfallen in unreflektierte Verhaltens- und Reaktionsmuster sowie das Entstehen von Stress-Krankheiten und Burn-out soll vermieden werden.
 
 Weiterbildungen, Schul- und Fachwechsel und Auszeiten sollen erleichtert und positiv unterstützt werden.
 
