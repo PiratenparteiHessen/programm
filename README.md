@@ -3,11 +3,11 @@ Der Entwurf des Programmes der Piratenpartei Deutschland Landesverband Hessen ba
 
 # Präambel
 
-Dieses Programm stellt die Ziele der Piraten für die neu beginnende Legislaturperiode in Hessen dar. Es fußt auf den Prinzipien, aus denen die Piraten entstanden sind: Der Verpflichtung und Verantwortung gegenüber dem Individuum in einer sozialen ethischen Gesellschaft sowie dem Schutz des zur Entfaltung des Menschen immer erforderlichen privaten und unantastbaren Lebensraumes, sowohl in geistiger als auch in materieller Hinsicht. 
+Dieses Programm stellt die Ziele der Piraten für die neu beginnende Legislaturperiode in Hessen dar. Es fußt auf den Prinzipien, aus denen die Piraten entstanden sind: der Verpflichtung und Verantwortung gegenüber dem Individuum in einer sozialen ethischen Gesellschaft sowie dem Schutz des zur Entfaltung des Menschen immer erforderlichen privaten und unantastbaren Lebensraumes, sowohl in geistiger als auch in materieller Hinsicht. 
 
 Gleichzeitig erkennen die Piraten die Regeln eines demokratischen und sozialen Staates als notwendige Grundlage des gesellschaftlichen Lebens. Werden staatliche Regeln erstellt, die ein Abwägen zwischen öffentlichem und privatem Interesse erfordern, sind jedoch die zur Entfaltung der Persönlichkeit notwendigen Räume der privaten Lebensführung jederzeit zu achten. 
 
-Kultur und Bildung sind die besten Garanten für eine gefestigte Gesellschaftsstruktur, in der jeder Einzelne sein Tun beurteilen und abwägen kann. Verantwortung und Respekt gegenüber der Gesellschaft und damit auch gegenüber dem Einzelnen sind Grundwerte denen wir uns verpflichtet fühlen. 
+Kultur und Bildung sind die besten Garanten für eine gefestigte Gesellschaftsstruktur, in der jeder Einzelne sein Tun beurteilen und abwägen kann. Verantwortung und Respekt gegenüber der Gesellschaft und damit auch gegenüber dem Einzelnen sind Grundwerte, denen wir uns verpflichtet fühlen. 
 
 Die Piraten sind der noch jungen Tradition der digitalen Kommunikation verpflichtet, in deren basisdemokratischen Ausrichtung die Wurzeln der Partei liegen und mit deren selbstordnenden Prinzipien ihre Denkweise in weiten Teilen beschrieben ist. 
 
