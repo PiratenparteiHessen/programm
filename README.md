@@ -943,6 +943,8 @@ In den Beständen sollen bestehende Projekte zur Digitalisierung vorangetrieben 
 
 Die regionale Filmförderung ist weiter auszubauen, mit besonderen Akzenten auf digitaler Filmproduktion, Dokumentarfilmen und Nachwuchsförderung. Programmkinos müssen ebenso gefördert und in ihrer Existenz gesichert werden wie Theater.
 
+Wer Mittel der Hessische Filmförderung beantragt, verpflichtet sich, bei erfolgter Bewilligung der Förderung, sein Werk 5 Jahre nach der ersten kommerziellen Veröffentlichung unter der Creative Commons Lizenz "Nichtkommerziell mit Namensnennung" (CC-NC-BY) freizugeben.
+
 ## Reform der Theaterförderung in Hessen
 
 Die Piratenpartei Hessen setzt sich für eine grundlegende Reform der hessischen Theaterförderung ein. Alle Akteure, ob feste Ensembles oder freie Gruppen, müssen gleichermaßen gute Bedingungen für ihre Projekte erhalten. Vorhandene Häuser und Institutionen sollen als möglichst frei verfügbare Ressourcen betrachtet werden.
