@@ -672,6 +672,11 @@ Die Piratenpartei Hessen setzt sich dafür ein, dass Sozialbehörden, wenn sie e
 
 Soziale Hilfe ist in jedem Fall wichtiger als ihre Verwaltung. Die Piratenpartei Hessen setzt sich dafür ein, dass überall, wo Angaben abgefragt oder Informationen oder Bescheide gegeben werden, sichergestellt werden muss, dass alle Betroffenen alle gegebenen Informationen vollständig verstanden haben. Dokumente, deren Inhalt verstanden werden muss, um Ansprüche stellen oder eine rechtliche Position wahren zu können (z.B. Informationsschriften, Formulare), müssen so verfasst sein, dass alle Betroffenen sie selbstständig verstehen können. Alles muss in Einfacher Sprache abgefasst oder vollständig erläutert sein. Das gilt auch für Gesetzestexte, auf die Bezug genommen wird. Zudem sollen in allen Sozialbehörden Fachkräfte zur Verfügung stehen, die Menschen mit schlechter Lesekompetenz oder mit Sprachschwierigkeiten Hilfe zum Verständnis leisten. Bei allen Vorgängen, die ein Einverständnis von Betroffenen erfordern oder bei denen Informationen von diesen eingeholt werden sollen, müssen diese Fachkräfte ein Vetorecht haben, wenn sie den Eindruck haben, dass sich die Betroffenen über die Bedeutung des Vorganges nicht im Klaren sind.
 
+## Sanktionsmoratorium
+
+Die Piratenpartei Hessen fordert eine sofortige Aussetzung aller Sanktionen zur Durchsetzung sozialpolitischer Ziele, die die Möglichkeit von Menschen auf ein Leben in Würde, ohne existentielle Bedrohung und mit gesellschaftlicher Teilhabe einschränken. Solche Disziplinierungen können kein Mittel eines Staates sein, der seine Bürger achtet.
+Das Land Hessen sowie die hessischen Kreise und Kommunen sollen alles in ihrer Macht Stehende tun, um eine Verhängung derartiger Sanktionen unverzüglich zu stoppen.
+
 ## Umstellung Altersversorgung der Landtagsabgeordneten
 
 Die Altersversorgung von Mitgliedern des hessischen Landtags (Landtagsabgeordnete) wird in die Deutsche Rentenversicherung überführt. Die bisherigen Regelungen der Altersversorgung für Mitglieder des hessischen Landtages werden so schnell als möglich beendet.
