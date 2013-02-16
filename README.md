@@ -105,6 +105,10 @@ Durch die bürokratischen Hürden, die durch diese Klausel geschaffen werden, we
 
 Die Piratenpartei Hessen spricht sich grundsätzlich gegen den Einsatz von Drohnen zum Zwecke der Überwachung durch die staatlichen Sicherheitsbehörden aus. Ein privater Einsatz von Drohnen mit Onboard Kameras, beispielweise durch Fotografen oder Demonstranten, ist unter Wahrung des Datenschutzes und des Persönlichkeitsrechtes zu erlauben. Dem Einsatz von Drohnentechnologie bei der Gefährdung von Menschleben, z. B. durch Bergungs- oder Rettungspersonal, steht die Piratenpartei offen gegenüber. Regelungen hierfür sind klar zu definieren.
 
+## Abschaffung des Landesamts für Verfassungsschutz
+
+Die Piratenpartei Hessen strebt die Abschaffung des Landesamts für Verfassungsschutz an. Dessen Aufgabenbereiche der Spionageabwehr sind dem Bundesamt für Verfassungsschutz zuzuweisen, im übrigen können und sollen die Aufgaben von den bereits existierenden Staatsschutzabteilungen der hessischen Polizei übernommen werden.
+
 # Bildung
 
 Es ist erforderlich, die in anderen Ländern erfolgreichen Maßnahmen zu erkennen und für Hessen zu adaptieren. Schulen müssen dazu beitragen, soziale Kluften zu überwinden, statt sie zu verstärken. Hierbei müssen Konzepte wie Ganztagsschule, Betreuung durch Pädagogen in freien Nachmittagszeiten aber auch gezielte Förderung leistungsschwacher Schüler diskutiert werden. Möglichkeiten des gemeinsamen Schulweges und die Bevorzugung öffentlicher Transportmittel einerseits im sozialen Kontext, anderseits aber auch im Sinne des Umweltschutzgedankens sind zu prüfen und umzusetzen. 
