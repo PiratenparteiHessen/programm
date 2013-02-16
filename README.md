@@ -452,6 +452,18 @@ Wer sich einbürgern lässt, muss seine alte Staatsangehörigkeit nicht länger 
 
 Die Fristen und Bedingungen bis zu einem dauerhaft abgesicherten Aufenthaltsrecht und zur Chance einer Einbürgerung sind deutlich zu senken, besondere Anstrengungen der Migranten zu Spracherwerb und beruflicher Integration sind positiv zu unterstützen.
 
+## Flucht aufgrund der sexuellen und geschlechtlichen Identität ist als Asylgrund ernstzunehmen
+
+In vielen Staaten ist die Diskriminierung von Menschen aufgrund ihrer sexuellen oder geschlechtlichen Identität alltäglich, schränkt sie in ihrem täglichen Leben stark ein und zwingt sie zu einem Leben im Verborgenen.
+
+Für die Piratenpartei Hessen ist die freie Entfaltung und Auslebung der geschlechtlichen und sexuellen Identität ein unantastbares Menschenrecht, das in einem demokratischen Staat unter besonderen Schutz gestellt werden muss.
+
+Menschen, die in Staaten leben, die dieses Menschenrecht missachten und deshalb zu einer Flucht aus ihren Herkunftsländern gezwungen werden, müssen diesen Schutz uneingeschränkt erhalten.
+
+Sobald ein Mensch in einem Staat aufgrund seiner Sexualität,die in der Bundesrepublik gelebt werden darf, verfolgt wird, ist ihm Asyl zu gewähren, ohne dass der Nachweis einer konkreten Verfolgung zu erbringen ist.
+
+Der politischen Verfolgung aufgrund der sexuellen oder geschlechtlichen Identität muss international entgegengewirkt werden. Auf nationaler Ebene ist eine Reform des Asylrechts in diese Richtung dringend und zeitnah notwendig, auch um international ein Zeichen gegen Diskriminierung und Menschenrechtsverletzungen zu setzen. Das Land Hessen sollte hier mit gutem Beispiel vorangehen.
+
 # Neue Landesverfassung
 
 Die Piratenpartei Hessen setzt sich für die Durchführung einer Volksabstimmung über eine neue Verfassung für das Land Hessen im Jahre 2016 ein. Dazu werden wir im Landtag eine Enquete Kommission zur Erarbeitung eines Vorschlages für Verfassungsreform einsetzen.
