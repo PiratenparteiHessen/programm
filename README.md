@@ -818,6 +818,14 @@ Die PIRATEN Hessen sprechen sich für klare und eindeutige Regeln zum Personalei
 
 Zusätzlich ist je nach Bereich festzulegen, wie viele Hilfskräfte im Verhältnis zu den Pflegekräften einzusetzen sind. In besonderen Bereichen (z.B. Intensivstationen) ist dies an die Belastung der jeweiligen Abteilung anzupassen (siehe DIVI).
 
+## Erste Hilfe
+
+Die PIRATEN Hessen setzen sich dafür ein, dass ein auf Klassenstufen und Alter angepasstes Programm zur Förderung von Ersthelfermaßnahmen in allgemein- und weiterbildenden Schulen ausgearbeitet, eingeführt und regelmäßig durchgeführt wird. Dieses orientiert sich inhaltlich an den aktuellen Leitlinien der BAGEH (Bundes Arbeitsgemeinschaft für Erste Hilfe).
+
+Erste Hilfe soll in die Schulprogramme für Schüler ab der 5. Klasse freiwillig und ab der 7. Klasse verpflichtend, zum Beispiel im Rahmen von jährlichen Projekttagen oder anderen regelmäßigen Aktionen an Schulen aufgenommen und angeboten werden. Kindergarten- und Grundschulkinder sollen in jeweils angepasster Weise an angemessenes Verhalten in Notfallsituationen herangeführt werden.
+
+Darüber hinaus setzt sich die Piratenpartei für die Einrichtung und Förderung von Schulsanitätsdiensten ein, die auf freiwilliger Basis beruhen und das Verantwortungsbewusstsein der Schüler fördern sollen. Hierfür sollen Lehrer/-innen, Eltern, oder andere mit der Schule verbundene Menschen, eine Ausbildung zum Erste Hilfe Ausbilder absolvieren um den Schülern die notwendigen Kenntnisse zu vermitteln und diese fortwährend aufzufrischen.
+
 # Integration und Inklusion
 
 ## Umsetzung der UN-Behindertenrechtskonvention
