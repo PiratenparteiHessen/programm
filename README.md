@@ -281,6 +281,10 @@ Die Piratenpartei Hessen setzt sich für eine verbesserte Korruptionsbekämpfung
 
 Zusätzlich streben die hessischen Piraten eine Bundesratsinitiative Hessens zur Novellierung von § 108e StGB an.
 
+## Abbau und Verhinderung übermäßiger Bürokratie
+
+Die Piratenpartei Hessen setzt sich dafür ein, dass umfassende Anstrengungen zur Vermeidung übermäßiger Bürokratie unternommen werden.
+
 ## Lobbyismus
 
 Lobbyarbeit kann einerseits die Wissensbasis zur Entscheidungsfindung erweitern, birgt aber andererseits die Gefahr der gewollten oder ungewollten Beeinflussung. Deshalb ist die Arbeit von und mit Interessensvertretern der verschiedenen gesellschaftlichen Gruppierungen jederzeit offen zu legen und zu dokumentieren.
