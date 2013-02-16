@@ -350,7 +350,9 @@ Weiterführend sollen überregionale Begehren und Entscheide ermöglicht werden.
 
 ## Mehr Teilhabe
 
-Eine Grundsäule der Demokratie ist auch immer das Wahlrecht und die Frage, wem es gewährt wird. Junge Menschen interessieren sich wieder verstärkt für Politik und sind auch bereit, Verantwortung zu übernehmen. Wir wollen deshalb in Hessen auf Landes- und Kommunalebene das aktive Wahlalter auf 16 Jahre und das passive Wahlalter auf 18 Jahre absenken, wie es bereits in vielen anderen Bundesländern praktiziert wird. 
+Eine Grundsäule der Demokratie ist auch immer das Wahlrecht und die Frage, wem es gewährt wird. Junge Menschen interessieren sich wieder verstärkt für Politik und sind auch bereit, Verantwortung zu übernehmen. Wir wollen deshalb in Hessen auf Landes- und Kommunalebene das aktive Wahlalter auf 14 Jahre und das passive Wahlalter auf 18 Jahre absenken, wie es bereits in vielen anderen Bundesländern praktiziert wird.
+
+Junge Menschen werden mit 14 Jahren strafmündig und uneingeschränkt religionsmündig. Mit dem Eintritt der Schuldfähigkeit verlangt der Gesetzgeber von jeder Person, die Werte und Gesetze unserer Gesellschaft zu beachten und nach ihnen zu handeln. Viele beginnen in dieser Zeit auch mit konkreten Überlegungen für die Berufswahl. Auf die Lebensumstände, die diese Überlegungen prägen, hat die Politik einen entscheidenden Einfluss. Es ist daher angemessen, die Altersgrenze für das aktive Wahlrecht auf den Beginn der Strafmündigkeit zu senken. Mit dem Beginn dieser Verantwortlichkeit sollte allen auch das Recht zugestanden werden, zu entscheiden, welche politische Gruppierung sie in der Politik momentan am besten vertritt. Keine Pflichten ohne Rechte.
 
 Das Wahlrecht soll allen Einwohnern offen stehen. Wir werden deshalb alle nötigen Schritte unternehmen, einschließlich der Einleitung einer Bundesratsinitiative zur Änderung entsprechender Gesetze.
 
