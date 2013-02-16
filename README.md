@@ -648,3 +648,7 @@ Wir sehen den Ausbau von Leerrohren als eine Schlüsselinfrastruktur für den Br
 ## Mobilfunknetze
 
 Der Ausbau von kabelgebundenen Netzen geht für uns mit der von Mobilfunknetzen Hand in Hand. Durch die flächendeckende Verfügbarkeit an kabelgebunden Breitbandanbindungen können kostengünstig engmaschige Funknetze errichtet werden, die mit dem steigenden Bedarf nach mobilen Internetzugängen Schritt halten können.
+
+## Transparenz
+
+Die öffentlichen Projekte zum Breitbandausbau müssen stets transparent durchgeführt werden und die Möglichkeit für jeden Bürger offen halten neue Ideen und Vorschläge einzubringen. Insbesondere sind alle Studien, Projekte und Verträge die den Breitbandausbau betreffen offen zu legen.
