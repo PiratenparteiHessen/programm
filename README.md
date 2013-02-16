@@ -57,7 +57,17 @@ Die Speicherung von biometrischen Daten im Zusammenhang mit Personaldokumenten b
 
 Der Ausbau der Videoüberwachung an öffentlichen Plätzen muss gestoppt werden, da er nur scheinbar Sicherheit vermittelt, und eine Verschwendung von Steuergeldern darstellt. Zudem verhindert Videoüberwachung keine Straftaten, in Berlin führte die Einführung der Videoüberwachung und -aufzeichnung auf drei U-Bahn-Linien beispielsweise nicht zu einer sinkenden Kriminalitätsrate, sondern im Gegenteil sogar zu einem leichten Anstieg. 
 
-Zielführender sind hier eine bessere Ausleuchtung und eine verstärkte persönliche Polizeipräsenz. Videoüberwachung im öffentlichen Raum betrifft nahezu nur unverdächtige Normalbürger. Es gibt keinen Verdacht gegen eine konkrete Person, sondern alle Personen unterstehen einem Generalverdacht. 
+Zielführender sind hier eine bessere Ausleuchtung und eine verstärkte persönliche Polizeipräsenz. Videoüberwachung im öffentlichen Raum betrifft nahezu nur unverdächtige Normalbürger. Es gibt keinen Verdacht gegen eine konkrete Person, sondern alle Personen unterstehen einem Generalverdacht.
+
+## Datenschutz und Datenhandel
+
+Die Religionszugehörigkeit der Einwohner ist weder im Meldegesetz aufzuführen noch bei den Meldebehörden zu speichern.
+
+Die in § 3 Nr. 11 hessische Meldegesetz (HMG) aufgeführte rechtliche Zugehörigkeit zu einer Religionsgesellschaft ist ersatzlos zu streichen.
+
+Die Daten über Einwohner gemäß Meldegesetz sind vornehmlich im Sinne staatlicher Aufgaben zu verwenden. Die Weitergabe von Daten über Einwohner muss der/dem Betroffenen mitgeteilt werden. Ein Verkauf der Daten aus dem Melderegister durch die Meldebehörden wird verboten. Die auf Grund des Meldegesetzes erfassten Daten sind nicht an öffentlich-rechtliche Religionsgesellschaften zu übermitteln.
+
+§ 32 Abs. 2 hessisches Meldegesetz, Datenübermittlung an öffentlich-rechtliche Religionsgesellschaften, muss ersatzlos gestrichen werden.
 
 # Innenpolitik
 
