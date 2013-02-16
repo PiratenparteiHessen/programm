@@ -700,6 +700,12 @@ Die Piratenpartei setzt sich für die Abschaffung der Sondervorabbesteuerung von
 
 Demnach muss ausschließlich die betroffene Berufsgruppe pro Tag einen Pauschalbetrag von 25€ an den jeweiligen Bordellbetreiber abführen, den dieser dann vierteljährlich an das jeweils zuständige Finanzamt zu entrichtet hat. Das Verfahren ist diskriminierend, widerspricht Datenschutzprinzipien und dem Steuergeheimnis.
 
+## Keine Grabsteine aus ausbeuterischer Kinderarbeit
+
+Die Piratenpartei Hessen setzt sich für die Umsetzung der ILO Konvention 182 gegen die ausbeuterische Kinderarbeit ein.
+
+So wollen wir, dass auf den Hessischen Friedhöfen ausschließlich Grabsteine verwendet werden dürfen, die nachweislich ohne Kinderarbeit hergestellt wurden. Hierfür sind die dafür nötigen gesetzlichen Regelungen zu schaffen.
+
 # Infrastruktur und öffentliche Gelder
 
 Privatisierung bestehender öffentlicher Infrastruktur ist abzulehnen.
