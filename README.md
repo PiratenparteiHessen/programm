@@ -241,11 +241,51 @@ Ein wesentlicher Teil der Politik der Piraten stellt die Durchsichtigkeit und Na
 
 Lobbyarbeit kann einerseits die Wissensbasis zur Entscheidungsfindung erweitern, birgt aber andererseits die Gefahr der gewollten oder ungewollten Beeinflussung. Deshalb ist die Arbeit von und mit Interessensvertretern der verschiedenen gesellschaftlichen Gruppierungen jederzeit offen zu legen und zu dokumentieren. Sowohl für Parlamentarier als auch für Regierende und Ausführende muss eine größtmögliche Auskunftspflicht bestehen, die allerdings jederzeit den datenschutzrechtlichen Bestimmungen genügen muss. Hierzu zählt auch die umfassende Offenlegung der Einkommensverhältnisse aller an der politischen Entscheidungsfindung Beteiligten. Eine ausreichende Alimentierung ist Voraussetzung für unabhängige und effektive Arbeit. Einem Verdacht auf Vorteilsnahme durch Regierende und Parlamentarier kann auf diese Weise effektiv begegnet werden. 
 
-##  Informationsfreiheits- und Transparenzgesetz
+# Transparenter Staat
+
+Ein wesentlicher Teil der Politik der Piraten stellt die Durchsichtigkeit und Nachvollziehbarkeit politischer Vorgänge dar. Genauso wie parlamentarische Abstimmungen in aller Regel offen und für jedermann nachvollziehbar sind, müssen politische Entscheidungen für den Bürger als Souverän des Staates offen und nachvollziehbar sein.
+
+Sowohl für Parlamentarier als auch für Regierende und Ausführende muss eine größtmögliche Auskunftspflicht bestehen, die allerdings jederzeit den datenschutzrechtlichen Bestimmungen genügen muss. Hierzu zählt auch die umfassende Offenlegung der Einkommensverhältnisse aller an der politischen Entscheidungsfindung Beteiligten. Eine ausreichende Alimentierung ist Voraussetzung für unabhängige und effektive Arbeit. Einem Verdacht auf Vorteilsnahme durch Regierende und Parlamentarier kann auf diese Weise effektiv begegnet werden.
+
+## Informationsfreiheits- und Transparenzgesetz
 
 Das Land Hessen ist eines der wenigen Bundesländer, welches noch kein Informationsfreiheitsgesetz hat und wo es auch noch kaum Informationsfreiheitssatzungen auf der kommunalen Ebene gibt. Dies gilt es mit der Einführung eines hessischen Informationsfreiheitsgesetzes auf Basis der Informationsfreiheitsmustersatzung des Berliner Informationsfreiheitsgesetzes für die Landes- und Kommunalebene zu korrigieren. Gleichzeitig sind die jeweiligen Datenschutzbeauftragten zu Datenschutz- und Informationsfreiheitsbeauftragten aufzuwerten.
 
 Die Informationsfreiheit legt jedoch nur die Basis für ein Auskunftsrecht. In der Informationsgesellschaft des 21. Jahrhunderts ist aber die Notwendigkeit zur mehr Transparenz eine Bringpflicht. Dieser Umstand kann nur mit der Einführung eines hessischen Transparenzgesetzes auf Basis des Hamburger Gesetzentwurfes rechtlich verankert werden.
+
+## Öffentlichkeitsprinzip
+
+Die Piratenpartei Hessen setzt sich für das generell geltende Prinzip der Öffentlichkeit ein. Dies betrifft sowohl die öffentliche Verwaltung als auch alle parlamentarischen Gremien. Das Öffentlichkeitsprinzip soll grundsätzlich Vorrang vor der nichtöffentlichen Arbeit der Verwaltung oder des parlamentarischen Betriebs haben.
+
+Gesetze, Verordnungen, Satzungen und andere Rechtsnormen, die das Prinzip der Nichtöffentlichkeit festschreiben, bedürfen der Änderung.
+
+In begründeten Fällen kann die Nichtöffentlichkeit hergestellt werden. Dies ist entsprechend zu dokumentieren.
+
+## Korruptionsbekämpfung
+
+Die Piratenpartei Hessen setzt sich für eine verbesserte Korruptionsbekämpfung auch in hessischen Parlamenten ein. Das UN-Abkommen UNCAC (United Nations Convention against Corruption) ist in Hessen umzusetzen und eine weite Auslegung des Korruptionsbegriffs ist gesetzlich festzuschreiben. Für Korruption im strafrechtlichen Betrieb sind harte strafrechtliche Konsequenzen zu definieren.
+
+Zusätzlich streben die hessischen Piraten eine Bundesratsinitiative Hessens zur Novellierung von § 108e StGB an.
+
+## Lobbyismus
+
+Lobbyarbeit kann einerseits die Wissensbasis zur Entscheidungsfindung erweitern, birgt aber andererseits die Gefahr der gewollten oder ungewollten Beeinflussung. Deshalb ist die Arbeit von und mit Interessensvertretern der verschiedenen gesellschaftlichen Gruppierungen jederzeit offen zu legen und zu dokumentieren.
+
+### Lobbyistenregister
+
+Die Piratenpartei Hessen setzt sich für die Schaffung eines Lobbyistenregisters für das Land Hessen ein. Das Register wirkt inklusiv, nur wer sich eintragen lässt, genießt die damit verbundenen Rechte und Pflichten als Lobbyist. Interessengruppen müssen ihre Vertreter namentlich benennen, um daran teilnehmen zu können.
+
+Lobbyist soll zur Berufsbezeichnung für natürliche Personen werden. Mit dem Berufsstand sind besondere Rechte rund um den parlamentarischen Betrieb sowie Pflichten im Dienst der staatlichen Transparenz verbunden.
+
+Die Transparenzpflichten und die Rechte der Lobbyisten sind detailliert auszuarbeiten und bindend. Ein Verstoß soll mit einer permanenten Streichung aus dem Register geahndet werden können.
+
+Das Register soll möglichst niedrige Eintrittshürden aufweisen, so dass die Gesellschaft in größtmöglicher Breite im parlamentarischen Umfeld repräsentiert wird. Eine Aufnahme soll für alle gesellschaftlichen Interessengruppen der Normalfall sein, eine Ablehnung der Aufnahme muss begründet werden.
+
+### Legislativer Fußabdruck
+
+Vorlagen, Berichte und Anträge zu Rechtsnormen, wie beispielsweise Gesetze, Verordnungen oder Satzungen, sind mit einem „legislativen Fußabdruck“ zu versehen, genauso wie die daraus resultierenden Rechtsnormen selbst.
+
+Darin sind alle Lobbyisten oder Beauftragte aufzulisten, die mit Abgeordneten oder der Verwaltung bei ihrer Arbeit an einer Rechtsnorm in Kontakt waren und welche Änderungen dies zur Folge hatte.
 
 # Open Access
 
