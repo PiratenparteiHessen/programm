@@ -280,7 +280,6 @@ In begründeten Fällen kann die Nichtöffentlichkeit hergestellt werden. Dies i
 ### Öffentliche Sitzung des Gemeindevorstands
 
 Die Piratenpartei Hessen setzt sich dafür ein, dass der Gemeindevorstand in der Regel öffentlichen tagt. (§67 HGO)
-Anmerkung
 
 ## Veröffentlichungen in kostenlosen Zeitungen und im Internet
 
