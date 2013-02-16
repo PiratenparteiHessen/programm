@@ -677,6 +677,12 @@ Soziale Hilfe ist in jedem Fall wichtiger als ihre Verwaltung. Die Piratenpartei
 Die Altersversorgung von Mitgliedern des hessischen Landtags (Landtagsabgeordnete) wird in die Deutsche Rentenversicherung überführt. Die bisherigen Regelungen der Altersversorgung für Mitglieder des hessischen Landtages werden so schnell als möglich beendet.
 Sollte eine Überführung in die Deutsche Rentenversicherung für Landtagsabgeordnete aus verfassungsrechtlichen Gründen nicht möglich sein, wird die zu erreichende Altersversorgung der Landtagsabgeordneten hinsichtlich der Höhe und des Bezugsbeginns an die Regelungen der Deutschen Rentenversicherung angeglichen.
 
+## Abschaffung der Sondervorabbesteuerung von Prostituierten
+
+Die Piratenpartei setzt sich für die Abschaffung der Sondervorabbesteuerung von Prostituierten ein, die die Hessische Landesregierung nach dem sogenannten "Düsseldorfer Verfahren" seit 15.9.2008 praktiziert.
+
+Demnach muss ausschließlich die betroffene Berufsgruppe pro Tag einen Pauschalbetrag von 25€ an den jeweiligen Bordellbetreiber abführen, den dieser dann vierteljährlich an das jeweils zuständige Finanzamt zu entrichtet hat. Das Verfahren ist diskriminierend, widerspricht Datenschutzprinzipien und dem Steuergeheimnis.
+
 # Infrastruktur und öffentliche Gelder
 
 Privatisierung bestehender öffentlicher Infrastruktur ist abzulehnen.
