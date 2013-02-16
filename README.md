@@ -41,7 +41,11 @@ Onlinedurchsuchungen stellen zudem eine massive Bedrohung für die Sicherheit de
 
 Die Sicherung des Fernmeldegeheimnisses ist ein wichtiger Grundpfeiler zum Erhalt der Demokratie. Das Fernmeldegeheimnis ist unter anderem durch die Einführung der Vorratsdatenspeicherung bedroht. 
 
-Die Vorratsdatenspeicherung in der derzeit beschlossenen Form muss ersatzlos gestrichen werden, da diese ein eklatanter Verstoß gegenüber Artikel 10 GG darstellt, in dem systematisch und unter der Annahme einer Kollektivschuld aller an der öffentlich zugänglichen Telekommunikation beteiligter Bürger ausgegangen wird. Auch die Umstände der Telekommunikation sind nach den Leitsätzen im Urteil BvR 1611/96 des Bundesverfassungsgerichtes von Artikel 10 GG geschützt. 
+Die Vorratsdatenspeicherung in der derzeit beschlossenen Form muss ersatzlos gestrichen werden, da diese ein eklatanter Verstoß gegenüber Artikel 10 GG darstellt, in dem systematisch und unter der Annahme einer Kollektivschuld aller an der öffentlich zugänglichen Telekommunikation beteiligter Bürger ausgegangen wird. Auch die Umstände der Telekommunikation sind nach den Leitsätzen im Urteil BvR 1611/96 des Bundesverfassungsgerichtes von Artikel 10 GG geschützt.
+
+## Keine Quellen-TKÜ ("Staatstrojaner")
+
+Die hessischen Piraten lehnen einen Einsatz von Software zur so genannten Quellen-TKÜ grundsätzlich ab. Der Einsatz solcher Software hat bislang in wiederholten Fällen zu erheblichen Gesetzesverletzungen durch die Ermittlungsbehörden geführt. Demgegenüber erkennen die hessischen Piraten keinen Anlass, zu solchen Ermittlungsmethoden zu greifen. 
 
 ## Datensicherheit und Wahrung der Privatsphäre
 
@@ -257,37 +261,45 @@ Die Piraten unterstützen die Berliner Erklärung der Open-Access-Bewegung und f
 
 Die Piraten fordern die Einbeziehung von Software und anderen digitalen Gütern, die mit öffentlichen Mitteln produziert werden, in das Open-Access-Konzept. Werke, die von oder im Auftrag von staatlichen Stellen erstellt werden, sollen der Öffentlichkeit zur freien Verwendung zur Verfügung gestellt werden. Der Quelltext von Software muss dabei Teil der Veröffentlichung sein. Dies ist nicht nur zum direkten Nutzen der Öffentlichkeit, sondern auch die staatlichen Stellen können im Gegenzug von Verbesserungen durch die Öffentlichkeit profitieren (Open-Source-Prinzip/Freie Software). Weiterhin wird die Nachhaltigkeit der öffentlich eingesetzten IT-Infrastruktur verbessert und die Abhängigkeit von Softwareanbietern verringert. 
 
-# Mehr Demokratie
+# Mehr und direktere Demokratie
 
-In den letzten Jahren haben sich in ganz Deutschland Defizite in der direkten Teilhabe der Bürger an den politischen Entscheidungsprozessen gezeigt. Weder werden die Bürger ausreichend informiert noch dürfen sie in angemessener Weise Entscheidungen selber treffen. Gerade Hessen steht im Vergleich zu den meisten anderen Bundesländern in diesem Bereich schlecht da. 
+Ziel jeder gut funktionierenden Demokratie muss es sein, jedem Einzelnen möglichst viele Mitbestimmungsrechte und Beteiligungsmöglichkeiten zu geben. Momentan findet dies sowohl in Hessen als auch im gesamten Bundesgebiet nicht ausreichend statt. Wichtige Entscheidungen werden nicht per Volks- oder Bürgerentscheid getroffen, sondern grundsätzlich nur über den parlamentarischen Weg entschieden. Dies führt u.a. zu einer zunehmenden Parteienverdrossenheit und einem Gefühl der Ohnmacht.
 
-Die hessischen Piraten wollen deswegen die direktdemokratischen Elemente auf allen Ebenen der politischen Entscheidungsfindungen stärken. Dazu wollen wir die Hürden bei Volksbegehren und Volksentscheiden auf Landesebene deutlich senken und die Möglichkeit der Bürgerbegehren und Bürgerentscheide auf allen kommunalen Ebenen überhaupt erst einmal einführen. 
+Wir Piraten sind der Meinung, dass es zu allen wichtigen und einen großen Teil der Bevölkerung direkt betreffenden Entscheidungen sowohl auf Bundes- als auch auf Landesebene Volksabstimmungen geben muss.
 
-Als neues Element soll das Ratsbegehren den kommunalen Vertretern die Möglichkeit geben, die Einleitung eines Bürgerentscheids mit der Mehrheit der abgegebenen Stimmen beschließen zu können. Dadurch entfiele in diesen Fällen die vorgelagerte Hürde des Bürgerbegehrens völlig, was die Entscheidungsprozesse beschleunigen und den Bürgern zeigen würde, dass sie von ihren Vertretern ernst genommen werden. 
+Aber in den letzten Jahren haben sich in ganz Deutschland Defizite in der direkten Teilhabe der Bürger an den politischen Entscheidungsprozessen gezeigt. Weder werden die Bürger ausreichend informiert, noch dürfen sie in angemessener Weise Entscheidungen selber treffen. Gerade Hessen steht im Vergleich zu den meisten anderen Bundesländern in diesem Bereich schlechter da.
 
-## Wahlrecht
+## Direkte Demokratie
 
-Die Piraten fordern unbedingt die Abschaffung jeglicher Maßnahmen, durch die die Nachvollziehbarkeit demokratischer Wahlen gefährdet wird. Konkret werden Wahlcomputer adressiert, die in Hessen bereits in neun Gemeindender Vergangenheit eingesetzt wurden. Gegen den Einsatz dieser Geräte wurde bereits eine Klage durch unsere Spitzenkandidatin Nicole Hornung eingereicht. 
+Wir hessischen Piraten wollen deswegen die direktdemokratischen Elemente auf allen Ebenen der politischen Entscheidungsfindungen stärken. Dazu wollen wir die Hürden bei Volksbegehren und Volksentscheiden auf Landesebene deutlich senken. Auf der kommunalen Ebene (Gemeindevertretungen, Stadtverordnetenversammlungen und Kreistage) sind die bisherigen Möglichkeiten des Bürgerbegehrens, der Bürgerentscheide, sowie des Petitionsrechts überhaupt erst einmal gleichberechtigt einzuführen. Bei den Regierungsbezirken wollen wir eine Einführung prüfen.
 
-Während bei dem klassischen Papierstimmzettel die Wahl von jedermann nachvollzogen werden kann, müssen beim Einsatz von Wahlcomputern Millionen Bürgerinnen und Bürger darauf vertrauen, dass weder der Hersteller der Wahlcomputer, jemand aus dem Wahlvorstand noch einer der vorher bereits gewählt habenden Bürger Manipulationen vorgenommen hat. 
+Als neues Element soll das sogenannte Ratsbegehren den Vertretern auf Landes- und Kommunalebene die Möglichkeit geben, die Einleitung eines Bürger- bzw. Volksentscheids mit der Mehrheit der abgegebenen Stimmen beschließen zu können. Dadurch entfiele in diesen Fällen die vorgelagerte Hürde des Bürger- bzw. Volksbegehrens völlig, was die Entscheidungsprozesse beschleunigen und den Bürgern zeigen würde, dass sie von ihren Vertretern ernst genommen werden.
 
-Die einzige Form des Wahlcomputers, die wir akzeptieren würden, wären Geräte, bei denen neben der elektronischen Zählung noch ein Ausdruck auf Papier erfolgt. Die elektronische Zählung darf als vorläufiges Ergebnis verkündet werden, das amtliche Endergebnis muss nachvollziehbar von Menschen ausgezählt werden. 
+Ergänzend sind die direktdemokratischen Verfahren zu vereinfachen und bürgerfreundlicher in ihrer organisatorischen Handhabung zu gestalten. Auch muss es ermöglicht werden, Petitionen, Begehren und Entscheide online unter Einhaltung des Datenschutzes mitzuzeichnen.
 
-# Direkte Demokratie
+Einschränkungen der thematischen Gegenstände sind abzubauen, solange sie nicht demokratischen Grundwerten entgegen stehen und der Minderheitenschutz gewährleistet bleibt.
 
-Ziel jeder funktionierenden Demokratie sollte es sein, jedem Einzelnen möglichst viele Mitbestimmungsrechte und Möglichkeiten zu geben. Momentan findet dies sowohl in Hessen, als auch im gesamten Bundesgebiet nicht statt. Auch wichtige Entscheidungen werden nicht per Volksentscheid sondern grundsätzlich nur über den parlamentarischen Weg entschieden. Dies führt zu einer zunehmenden Politikverdrossenheit und einem Gefühl der Ohnmacht. 
-
-Die Piraten sind der Meinung, dass es zu allen wichtigen und einen großen Teil der Bevölkerung direkt betreffenden Entscheidungen sowohl auf Bundes- als auch auf Landesebene Volksabstimmungen geben muss. 
-
-Die Möglichkeit des Bürgerbegehrens muss ausgeweitet und vereinfacht werden, Politik darf nicht mehr alleine in den Parlamenten geschehen. Jeder Einzelne muss ein Höchstmaß an Verantwortung bekommen. Ferner muss die Möglichkeit zur Zulassung von Parteien vereinfacht werden, damit der Bürger ein größeres Maß an Wahlmöglichkeiten hat und sich in einem breiteren Spektrum entfalten kann. 
-
-Bürgerinitiativen gehören ebenso wie Parteien vom Staat gefördert, allerdings setzen sich die Piraten für eine Reform der Parteifinanzierung ein. Durch diese soll die Benachteiligung von kleineren Parteien und Parteiähnlichen Vereinen oder Initiativen beendet werden. Im Mittelpunkt unserer Demokratie muss der Mensch und nicht die Partei stehen. 
+Weiterführend sollen überregionale Begehren und Entscheide ermöglicht werden. Diese sind auf der Ebene von Landkreisen und kreisfreien Städten durchzuführen. Voraussetzung ist jeweils eine gemeinsame Betroffenheit, wie es beispielsweise bei größeren Infrastrukturprojekten gegeben ist. Die Grenzen von Regierungsbezirken können dabei überquert werden, die von Bundesländern ist zu prüfen.
 
 ## Mehr Teilhabe
 
 Eine Grundsäule der Demokratie ist auch immer das Wahlrecht und die Frage, wem es gewährt wird. Junge Menschen interessieren sich wieder verstärkt für Politik und sind auch bereit, Verantwortung zu übernehmen. Wir wollen deshalb in Hessen auf Landes- und Kommunalebene das aktive Wahlalter auf 16 Jahre und das passive Wahlalter auf 18 Jahre absenken, wie es bereits in vielen anderen Bundesländern praktiziert wird. 
 
 Das Wahlrecht soll allen Einwohnern offen stehen. Wir werden deshalb alle nötigen Schritte unternehmen, einschließlich der Einleitung einer Bundesratsinitiative zur Änderung entsprechender Gesetze.
+
+## Weniger Hürden
+
+Wir Piraten setzen uns für die Abschaffung der 5%-Hürde zur Landtagswahl ein, damit diese undemokratische Abgrenzung entfällt. Auf kommunaler und europäischer Ebene ist dies bereits geltendes Recht.
+
+Die Möglichkeit einen Fraktionsstatus zu erhalten, ist derzeit noch essenziell, um alle parlamentarischen Rechte zu erlangen. Deswegen möchten wir Piraten die Eintrittshöhe im Land und den Kommunen absenken und verbindlich festschreiben.
+
+## Wahlcomputer
+
+Die Piraten fordern unbedingt die Abschaffung jeglicher Maßnahmen, durch die die Nachvollziehbarkeit demokratischer Wahlen gefährdet wird. Konkret werden Wahlcomputer adressiert, die in Hessen bereits in der Vergangenheit eingesetzt wurden.
+
+Während bei dem klassischen Papierstimmzettel die Wahl von jedermann nachvollzogen werden kann, müssen beim Einsatz von Wahlcomputern Millionen Bürgerinnen und Bürger darauf vertrauen, dass weder der Hersteller der Wahlcomputer, jemand aus dem Wahlvorstand noch einer der vorher bereits gewählt habenden Bürger Manipulationen vorgenommen hat.
+
+Die einzige Form des Wahlcomputers, die wir akzeptieren würden, wären Geräte, bei denen neben der elektronischen Zählung noch ein Ausdruck auf Papier erfolgt. Die elektronische Zählung darf als vorläufiges Ergebnis verkündet werden, das amtliche Endergebnis muss nachvollziehbar von Menschen ausgezählt werden. 
 
 # Nachhaltige Umweltpolitik
 
