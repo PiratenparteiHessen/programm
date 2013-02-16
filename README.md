@@ -3,11 +3,11 @@ Der Entwurf des Programmes der Piratenpartei Deutschland Landesverband Hessen ba
 
 # Präambel
 
-Dieses Programm stellt die Ziele der Piraten für die neu beginnende Legislaturperiode in Hessen dar. Es fußt auf den Prinzipien, aus denen die Piraten entstanden sind: Der Verpflichtung und Verantwortung gegenüber dem Individuum in einer sozialen ethischen Gesellschaft sowie dem Schutz des zur Entfaltung des Menschen immer erforderlichen privaten und unantastbaren Lebensraumes, sowohl in geistiger als auch in materieller Hinsicht. 
+Dieses Programm stellt die Ziele der Piraten für die neu beginnende Legislaturperiode in Hessen dar. Es fußt auf den Prinzipien, aus denen die Piraten entstanden sind: der Verpflichtung und Verantwortung gegenüber dem Individuum in einer sozialen ethischen Gesellschaft sowie dem Schutz des zur Entfaltung des Menschen immer erforderlichen privaten und unantastbaren Lebensraumes, sowohl in geistiger als auch in materieller Hinsicht. 
 
 Gleichzeitig erkennen die Piraten die Regeln eines demokratischen und sozialen Staates als notwendige Grundlage des gesellschaftlichen Lebens. Werden staatliche Regeln erstellt, die ein Abwägen zwischen öffentlichem und privatem Interesse erfordern, sind jedoch die zur Entfaltung der Persönlichkeit notwendigen Räume der privaten Lebensführung jederzeit zu achten. 
 
-Kultur und Bildung sind die besten Garanten für eine gefestigte Gesellschaftsstruktur, in der jeder Einzelne sein Tun beurteilen und abwägen kann. Verantwortung und Respekt gegenüber der Gesellschaft und damit auch gegenüber dem Einzelnen sind Grundwerte denen wir uns verpflichtet fühlen. 
+Kultur und Bildung sind die besten Garanten für eine gefestigte Gesellschaftsstruktur, in der jeder Einzelne sein Tun beurteilen und abwägen kann. Verantwortung und Respekt gegenüber der Gesellschaft und damit auch gegenüber dem Einzelnen sind Grundwerte, denen wir uns verpflichtet fühlen. 
 
 Die Piraten sind der noch jungen Tradition der digitalen Kommunikation verpflichtet, in deren basisdemokratischen Ausrichtung die Wurzeln der Partei liegen und mit deren selbstordnenden Prinzipien ihre Denkweise in weiten Teilen beschrieben ist. 
 
@@ -19,15 +19,15 @@ Dabei vertreten die Piraten die Haltung, dass der einzelne Abgeordnete der Pirat
 
 Jeder Mensch hat eine Privatsphäre, die frei von Überwachung bleiben muss. Ohne begründeten Anfangsverdacht darf es keine Bewegungsprofile, keine staatlichen Übergriffe, keine Lauschangriffe und keine Rasterfahndungen geben. 
 
-Die Unterwanderungen der Bürgerrechte durch den Staat in Form von Massendatenspeicherung, Rasterfahndungen, Erhebung von biometrischen Daten und Online-Durchsuchungen erfordern ein politisches Gegengewicht. Der Einführung von Überwachungsgesetzen, wie es in Deutschland zur Zeit der Fall ist, treten die Piraten entschieden entgegen. Durch die angedachten und teilweise bereits verabschiedeten Gesetzesvorhaben werden Bürgerrechte aufgehoben; der Rechtsstaat wandelt sich in einen Überwachungsstaat, wie wir es nur von totalitären Regimen kennen. 
+Die Unterwanderungen der Bürgerrechte durch den Staat in Form von Massendatenspeicherung, Rasterfahndungen, Erhebung von biometrischen Daten und Online-Durchsuchungen erfordern ein politisches Gegengewicht. Der Einführung von Überwachungsgesetzen, wie es in Deutschland zurzeit der Fall ist, treten die Piraten entschieden entgegen. Durch die angedachten und teilweise bereits verabschiedeten Gesetzesvorhaben werden Bürgerrechte aufgehoben; der Rechtsstaat wandelt sich in einen Überwachungsstaat, wie wir es nur von totalitären Regimen kennen. 
 
 Die Piraten fordern, dass der Staat diese Werkzeuge deinstalliert und unsere Gesellschaft dabei unterstützt, sich weiter zu entwickeln. Die informationelle Selbstbestimmung muss sowohl in der hessischen Verfassung als auch im Grundgesetz der Bundesrepublik Deutschland als Grundrecht verankert werden. 
 
-Der Staat muss verpflichtet werden, jedem Bürger auf Verlangen Informationen über die ihn betreffenden Daten Auskunft zu geben, und bei Überwachung ohne konkreten Verdacht den Bürger von sich aus auf diese Überwachung hinzuweisen. Über die angelegten Datenbanken und die Art und Weise wie mit den Daten umgegangen wird, muss sich die Öffentlichkeit ungehindert informieren können. 
+Der Staat muss verpflichtet werden, jedem Bürger auf Verlangen Informationen über die ihn betreffenden Daten Auskunft zu geben, und bei Überwachung ohne konkreten Verdacht den Bürger von sich aus auf diese Überwachung hinzuweisen. Über die angelegten Datenbanken und die Art und Weise, wie mit den Daten umgegangen wird, muss sich die Öffentlichkeit ungehindert informieren können. 
 
-Die Überprüfbarkeit der gespeicherten Daten soll unverzüglich ohne Terminvorgabe zu den üblichen Öffnungszeiten ermöglicht werden. Die Löschung unberechtigterweise erhobener Daten muss auf Antrag jederzeit möglich sein. Die Löschung muß den betroffenen Bürgern unverzüglich und überprüfbar bestätigt werden. 
+Die Überprüfbarkeit der gespeicherten Daten soll unverzüglich ohne Terminvorgabe zu den üblichen Öffnungszeiten ermöglicht werden. Die Löschung unberechtigterweise erhobener Daten muss auf Antrag jederzeit möglich sein. Die Löschung muss den betroffenen Bürgern unverzüglich und überprüfbar bestätigt werden. 
 
-Diese Auskunftspflicht gilt auch für juristische Personen, und muss kostenlos erfolgen. 
+Diese Auskunftspflicht gilt auch für juristische Personen und muss kostenlos erfolgen. 
 
 Daten dürfen nicht unberechtigterweise erhoben werden; sollten sich nachträglich Daten als unberechtigt erhoben herausstellen, sind diese unverzüglich und vollständig zu löschen und die Betroffenen in Kenntnis zu setzen.
 
@@ -35,17 +35,17 @@ Daten dürfen nicht unberechtigterweise erhoben werden; sollten sich nachträgli
 
 Die freie Meinungsäußerung ist ein Eckpfeiler unserer Demokratie und darf nicht durch Onlinedurchsuchungen untergraben werden. Das Missbrauchspotenzial dieser Technik ist so immens, dass die Verantwortbarkeit nicht gegeben ist. 
 
-Onlinedurchsuchungen stellen zudem eine massive Bedrohung für die Sicherheit der informationellen Infrastruktur dar. Wenn Sicherheitslücken in bestehenden System nicht geschlossen und aufgedeckt oder neue aufgebrochen werden, wird damit die IT-Sicherheitsforschung ad absurdum geführt. Nicht die Begehren der Überwacher, sondern das Interesse des Einzelnen an Informationssicherheit hat Vorrang zu haben. 
+Onlinedurchsuchungen stellen zudem eine massive Bedrohung für die Sicherheit der informationellen Infrastruktur dar. Wenn Sicherheitslücken in bestehenden Systemen nicht geschlossen und aufgedeckt oder neue aufgebrochen werden, wird damit die IT-Sicherheitsforschung ad absurdum geführt. Nicht die Begehren der Überwacher, sondern das Interesse des Einzelnen an Informationssicherheit hat Vorrang zu haben. 
 
 ## Keine Vorratsdatenspeicherung
 
 Die Sicherung des Fernmeldegeheimnisses ist ein wichtiger Grundpfeiler zum Erhalt der Demokratie. Das Fernmeldegeheimnis ist unter anderem durch die Einführung der Vorratsdatenspeicherung bedroht. 
 
-Die Vorratsdatenspeicherung in der derzeit beschlossenen Form muss ersatzlos gestrichen werden, da diese ein eklatanter Verstoß gegenüber Artikel 10 GG darstellt, in dem systematisch und unter der Annahme einer Kollektivschuld aller an der öffentlich zugänglichen Telekommunikation beteiligter Bürger ausgegangen wird. Auch die Umstände der Telekommunikation sind nach den Leitsätzen im Urteil BvR 1611/96 des Bundesverfassungsgerichtes von Artikel 10 GG geschützt.
+Die Vorratsdatenspeicherung in der derzeit beschlossenen Form muss ersatzlos gestrichen werden, da diese einen eklatanten Verstoß gegenüber Artikel 10 GG darstellt, in dem systematisch und unter der Annahme einer Kollektivschuld aller an der öffentlich zugänglichen Telekommunikation beteiligter Bürger ausgegangen wird. Auch die Umstände der Telekommunikation sind nach den Leitsätzen im Urteil BvR 1611/96 des Bundesverfassungsgerichtes von Artikel 10 GG geschützt. 
 
-## Keine Quellen-TKÜ ("Staatstrojaner")
+## Kein "Staatstrojaner" (Quellen-Telekommunikationsüberwachung)
 
-Die hessischen Piraten lehnen einen Einsatz von Software zur so genannten Quellen-TKÜ grundsätzlich ab. Der Einsatz solcher Software hat bislang in wiederholten Fällen zu erheblichen Gesetzesverletzungen durch die Ermittlungsbehörden geführt. Demgegenüber erkennen die hessischen Piraten keinen Anlass, zu solchen Ermittlungsmethoden zu greifen.
+Die hessischen Piraten lehnen einen Einsatz von Software zur sogenannten Quellen-Telekommunikationsüberwachung grundsätzlich ab. Der Einsatz solcher Software hat bislang in wiederholten Fällen zu erheblichen Gesetzesverletzungen durch die Ermittlungsbehörden geführt. Demgegenüber erkennen die hessischen Piraten keinen Anlass, zu solchen Ermittlungsmethoden zu greifen.
 
 ## Datensicherheit und Wahrung der Privatsphäre
 
@@ -55,11 +55,11 @@ Zur Gewährleistung von Datensicherheit und Privatsphäre müssen unterstützend
 
 Biometrische Merkmale dürfen nicht im Zusammenhang mit offiziellen Dokumenten zur Identifikation eines Bürgers gespeichert werden, bereits erhobene Daten müssen gelöscht werden. 
 
-Die Speicherung von biometrischen Daten im Zusammenhang mit Personaldokumenten bringt in der eigentlichen Sache, der besseren Erkennbarkeit von gesuchten Personen, keinen Sicherheitsgewinn, da dieser von der Zielgruppe dieser Maßnahme umgangen werden kann. Eine erhöhte Fälschungssicherheit, die diese Maßnahmen rechtfertigen würde, ist ebenfalls nicht gegeben. Der einzige Zweck dieser Dokumente ist eine möglichst lückenlose Überwachbarkeit großer Teile der Bevölkerung und ein großer Schritt hin zur systematischen staatlichen Überwachung. Dieser Schritt wird vor allem durch die Möglichkeit der RFID-Technik, Daten berührungslos aus mittlerer Entfernung und ohne Einflußnahme des Trägers abzurufen, ermöglicht. 
+Die Speicherung von biometrischen Daten im Zusammenhang mit Personaldokumenten bringt in der eigentlichen Sache, der besseren Erkennbarkeit von gesuchten Personen, keinen Sicherheitsgewinn, da dieser von der Zielgruppe dieser Maßnahme umgangen werden kann. Eine erhöhte Fälschungssicherheit, die diese Maßnahmen rechtfertigen würde, ist ebenfalls nicht gegeben. Der einzige Zweck dieser Dokumente ist eine möglichst lückenlose Überwachbarkeit großer Teile der Bevölkerung und ein großer Schritt hin zur systematischen staatlichen Überwachung. Dieser Schritt wird vor allem durch die Möglichkeit der RFID-Technik, Daten berührungslos aus mittlerer Entfernung und ohne Einflussnahme des Trägers abzurufen, ermöglicht. 
 
 ## Rückbau der Videoüberwachung
 
-Der Ausbau der Videoüberwachung an öffentlichen Plätzen muss gestoppt werden, da er nur scheinbar Sicherheit vermittelt, und eine Verschwendung von Steuergeldern darstellt. Zudem verhindert Videoüberwachung keine Straftaten, in Berlin führte die Einführung der Videoüberwachung und -aufzeichnung auf drei U-Bahn-Linien beispielsweise nicht zu einer sinkenden Kriminalitätsrate, sondern im Gegenteil sogar zu einem leichten Anstieg. 
+Der Ausbau der Videoüberwachung an öffentlichen Plätzen muss gestoppt werden, da er nur scheinbar Sicherheit vermittelt und eine Verschwendung von Steuergeldern darstellt. Zudem verhindert Videoüberwachung keine Straftaten, in Berlin führte die Einführung der Videoüberwachung und -aufzeichnung auf drei U-Bahn-Linien beispielsweise nicht zu einer sinkenden Kriminalitätsrate, sondern im Gegenteil sogar zu einem leichten Anstieg. 
 
 Zielführender sind hier eine bessere Ausleuchtung und eine verstärkte persönliche Polizeipräsenz. Videoüberwachung im öffentlichen Raum betrifft nahezu nur unverdächtige Normalbürger. Es gibt keinen Verdacht gegen eine konkrete Person, sondern alle Personen unterstehen einem Generalverdacht.
 
@@ -67,15 +67,15 @@ Zielführender sind hier eine bessere Ausleuchtung und eine verstärkte persönl
 
 Die Religionszugehörigkeit der Einwohner ist weder im Meldegesetz aufzuführen noch bei den Meldebehörden zu speichern.
 
-Die in § 3 Nr. 11 hessische Meldegesetz (HMG) aufgeführte rechtliche Zugehörigkeit zu einer Religionsgesellschaft ist ersatzlos zu streichen.
+Die in § 3 Nr. 11 Hessische Meldegesetz (HMG) aufgeführte rechtliche Zugehörigkeit zu einer Religionsgesellschaft ist ersatzlos zu streichen.
 
-Die Daten über Einwohner gemäß Meldegesetz sind vornehmlich im Sinne staatlicher Aufgaben zu verwenden. Die Weitergabe von Daten über Einwohner muss der/dem Betroffenen mitgeteilt werden. Ein Verkauf der Daten aus dem Melderegister durch die Meldebehörden wird verboten. Die auf Grund des Meldegesetzes erfassten Daten sind nicht an öffentlich-rechtliche Religionsgesellschaften zu übermitteln.
+Die Daten über Einwohner gemäß Meldegesetz sind vornehmlich im Sinne staatlicher Aufgaben zu verwenden. Die Weitergabe von Daten über Einwohner muss der/dem Betroffenen mitgeteilt werden. Ein Verkauf der Daten aus dem Melderegister durch die Meldebehörden wird verboten. Die aufgrund des Meldegesetzes erfassten Daten sind nicht an öffentlich-rechtliche Religionsgesellschaften zu übermitteln.
 
-§ 32 Abs. 2 hessisches Meldegesetz, Datenübermittlung an öffentlich-rechtliche Religionsgesellschaften, muss ersatzlos gestrichen werden.
+§ 32 Abs. 2 Hessisches Meldegesetz, Datenübermittlung an öffentlich-rechtliche Religionsgesellschaften, muss ersatzlos gestrichen werden.
 
 # Innenpolitik
 
-Der Bereich Inneres ist für die Piratenpartei von zentraler Bedeutung. Das massive Missbrauchspotenzial durch die installierten Überwachungstechniken und -werkzeuge erfordert allerhöchste Wachsamkeit bei den Beamtinnen und Beamten, die diese Werkzeuge bedienen. Ethische und moralische Grundsätze dürfen nicht übergangen werden. Die Möglichkeit der Nötigung durch Vorgesetzte, gegen geltendes Recht oder gegen ihr eigenes Gewissen zu handeln, muss bei Beamtinnen und Beamten ausgeschlossen sein. Diese und viele andere denkbare Konflikte tauchen im Zusammenhang mit der Einführung der Vorratsdatenspeicherung in Deutschland im Januar 2008 auf. 
+Der Bereich Inneres ist für die Piratenpartei von zentraler Bedeutung. Das massive Missbrauchspotenzial durch die installierten Überwachungstechniken und -werkzeuge erfordert allerhöchste Wachsamkeit bei den Beamtinnen und Beamten, die diese Werkzeuge bedienen. Ethische und moralische Grundsätze dürfen nicht übergangen werden. Die Möglichkeit der Nötigung durch Vorgesetzte, gegen geltendes Recht oder gegen ihr eigenes Gewissen zu handeln, muss bei Beamtinnen und Beamten ausgeschlossen sein. 
 
 ## Innere Sicherheit
 
@@ -103,11 +103,11 @@ Durch die bürokratischen Hürden, die durch diese Klausel geschaffen werden, we
 
 ## Drohneneinsätze in Hessen
 
-Die Piratenpartei Hessen spricht sich grundsätzlich gegen den Einsatz von Drohnen zum Zwecke der Überwachung durch die staatlichen Sicherheitsbehörden aus. Ein privater Einsatz von Drohnen mit Onboard Kameras, beispielweise durch Fotografen oder Demonstranten, ist unter Wahrung des Datenschutzes und des Persönlichkeitsrechtes zu erlauben. Dem Einsatz von Drohnentechnologie bei der Gefährdung von Menschleben, z. B. durch Bergungs- oder Rettungspersonal, steht die Piratenpartei offen gegenüber. Regelungen hierfür sind klar zu definieren.
+Die Piratenpartei Hessen spricht sich grundsätzlich gegen den Einsatz von Drohnen zum Zwecke der Überwachung durch die staatlichen Sicherheitsbehörden aus. Ein privater Einsatz von Drohnen mit Onboard-Kameras, beispielsweise durch Fotografen oder Demonstranten, ist unter Wahrung des Datenschutzes und des Persönlichkeitsrechtes zu erlauben. Dem Einsatz von Drohnentechnologie bei der Gefährdung von Menschleben, z. B. durch Bergungs- oder Rettungspersonal, steht die Piratenpartei offen gegenüber. Regelungen hierfür sind klar zu definieren.
 
 ## Abschaffung des Landesamts für Verfassungsschutz
 
-Die Piratenpartei Hessen strebt die Abschaffung des Landesamts für Verfassungsschutz an. Dessen Aufgabenbereiche der Spionageabwehr sind dem Bundesamt für Verfassungsschutz zuzuweisen, im übrigen können und sollen die Aufgaben von den bereits existierenden Staatsschutzabteilungen der hessischen Polizei übernommen werden.
+Die Piratenpartei Hessen strebt die Abschaffung des Landesamts für Verfassungsschutz an. Dessen Aufgabenbereiche der Spionageabwehr sind dem Bundesamt für Verfassungsschutz zuzuweisen, im Übrigen können und sollen die Aufgaben von den bereits existierenden Staatsschutzabteilungen der hessischen Polizei übernommen werden.
 
 # Bildung
 
@@ -117,7 +117,7 @@ Neben einer ausreichenden Zahl von Lehrern ist die Fortbildung der schon vorhand
 
 Unterrichtsgarantie Plus darf kein Modell für Unterricht durch unqualifiziertes Lehrpersonal und verschwendete Schulzeit bleiben. Der Festanstellung von Lehrern zur Pufferung krankheits- und fortbildungsbedingter Unterrichtsausfälle ist der Vorzug zu geben. Unterrichtsmaterialien müssen wieder kostenfrei zu Verfügung gestellt werden. Für Ganztagsschulen oder bei Nachmittagsunterricht ist es erforderlich, eine kostenlose Verpflegung mit vollwertigen Mahlzeiten anzubieten. Dass diese auch eher ökologischen Maßstäben entsprechen und nicht von minderwertiger Kantinenqualität sein sollte, ist selbstverständlich. Die Umsetzbarkeit dieser Forderungen zeigen zahlreiche Modelle. 
 
-Die Einführung der Studiengebühren zur Erhöhung der Effizienz in Hochschulen und Universitäten verfehlte klar ihr Ziel, Mit ihrer Rücknahme ist ein erster Schritt getan. Jetzt sind Finanzierungsmodelle umzusetzen, die eine Benachteiligung sozial und finanziell schwächer gestellter Studenten ausschließen. Als Finanzierungsmodelle für Hochschulen sind neben der öffentlichen Hand auch private und gewerbliche Stiftungen anzustreben. Die freie und uneingeschränkte Zugänglichkeit zu Wissen und Werken, die in Hochschulen erarbeitet wurden, muss für alle öffentlichen Einrichtungen gewährleistet sein. Wirtschaftlich verwertbare Forschungsergebnisse und daraus erzielte Erlöse sollen in den Ausbau von Bildungseinrichtungen fließen. 
+Die Einführung der Studiengebühren zur Erhöhung der Effizienz in Hochschulen und Universitäten verfehlte klar ihr Ziel. Mit ihrer Rücknahme ist ein erster Schritt getan. Jetzt sind Finanzierungsmodelle umzusetzen, die eine Benachteiligung sozial und finanziell schwächer gestellter Studenten ausschließen. Als Finanzierungsmodelle für Hochschulen sind neben der öffentlichen Hand auch private und gewerbliche Stiftungen anzustreben. Die freie und uneingeschränkte Zugänglichkeit zu Wissen und Werken, die in Hochschulen erarbeitet wurden, muss für alle öffentlichen Einrichtungen gewährleistet sein. Wirtschaftlich verwertbare Forschungsergebnisse und daraus erzielte Erlöse sollen in den Ausbau von Bildungseinrichtungen fließen. 
 
 Der Landesverband Hessen der Piratenpartei Deutschland will Rahmenbedingungen einführen, die das immerwährende Lernen in allen Lebensbereichen ermöglichen.
 
@@ -127,7 +127,7 @@ Der Landesverband Hessen der Piratenpartei Deutschland will Bildungseinrichtunge
 
 Die deutsche Bildungspolitik ist in Lagern gefangen, die sich kaum bewegen können. Die hessischen Piraten sehen Bildung als lebenslangen Prozess, der nicht nur auf junge Menschen beschränkt werden sollte. Wir wollen deshalb Rahmenbedingungen einführen, die das immerwährende Lernen in allen Lebensbereichen ermöglichen. 
 
-Zudem soll endlich wieder der Lernende im Mittelpunkt stehen und zum Hauptakteuer des eigenen Bildungsprozesses werden. Durch mehr Mitbestimmung und Transparenz in den Lehrplänen und Angeboten wollen wir Bildungseinrichtungen als demokratischen und öffentlichen Handlungsraum der Teilnehmer gestalten. 
+Zudem soll endlich wieder der Lernende im Mittelpunkt stehen und zum Hauptakteur des eigenen Bildungsprozesses werden. Durch mehr Mitbestimmung und Transparenz in den Lehrplänen und Angeboten wollen wir Bildungseinrichtungen als demokratischen und öffentlichen Handlungsraum der Teilnehmer gestalten.
 
 ## Bildung in einer freiheitlich-demokratischen Gesellschaft
 
@@ -141,13 +141,13 @@ Investitionen in Bildung sind Investitionen in die Zukunft.
 
 Der freie Zugang zu Bildungseinrichtungen ist im Interesse aller. Deshalb ist es Aufgabe der gesamten Gesellschaft, in Form des Staates, eine leistungsfähige und ihrem Zwecke angemessene Bildungsinfrastruktur zu finanzieren und frei zur Verfügung zu stellen. Private Finanzierung öffentlicher Bildungseinrichtungen ist grundsätzlich zu begrüßen, solange sie keinen Einfluss auf die bestehenden Lehrinhalte hat. 
 
-Bildungsgebühren jeglicher Art schränken den Zugang zu Bildung ein und sind deshalb kategorisch abzulehnen. Aus diesem Grund ist auch die Lehrmittelfreiheit zu befürworten. Diese ist am besten dadurch herzustellen, dass die Verwendung und das Schaffen von freien Werken zur Vermittlung von Wissen unterstützt und ausgebaut wird. Diese freien Werke sind nicht nur kostenfrei im Unterricht einsetzbar, sondern ermöglichen dazu dem Lehrenden ohne rechtliche Hürden die Lernmittel auf seinen Unterricht anzupassen. 
+Bildungsgebühren jeglicher Art schränken den Zugang zu Bildung ein und sind deshalb kategorisch abzulehnen. Aus diesem Grund ist auch die Lehrmittelfreiheit zu befürworten. Diese ist am besten dadurch herzustellen, dass die Verwendung und das Schaffen von freien Werken zur Vermittlung von Wissen unterstützt und ausgebaut werden. Diese freien Werke sind nicht nur kostenfrei im Unterricht einsetzbar, sondern ermöglichen dazu dem Lehrenden ohne rechtliche Hürden die Lernmittel auf seinen Unterricht anzupassen. 
 
 Trotz des staatlichen Bildungsauftrages soll die Erziehung in Bildungseinrichtungen die Erziehung durch die Eltern nicht ersetzen. Zur umfassenden Bildung gehört, dass sich beide Formen der Erziehung gegenseitig ergänzen und fördern. 
 
 ## Bildung als individueller Prozess
 
-Jeder Mensch ist ein Individuum mit persönlichen Neigungen, Stärken und Schwächen. Institutionelle Bildung soll daher den Einzelnen unterstützen seine Begabungen zu entfalten, Schwächen abzubauen und neue Interessen und Fähigkeiten zu entdecken. Neben starren Lehr- und Stundenplänen, werden vor allem einige Formen der Leistungsbewertung diesen Forderungen nicht gerecht. Insbesondere die Bewertung von Verhalten nach einem vorgegebenen Normenraster z.B. bei den sogenannten Kopfnoten lehnen wir ab. 
+Jeder Mensch ist ein Individuum mit persönlichen Neigungen, Stärken und Schwächen. Institutionelle Bildung soll daher den Einzelnen unterstützen seine Begabungen zu entfalten, Schwächen abzubauen und neue Interessen und Fähigkeiten zu entdecken. Neben starren Lehr- und Stundenplänen werden vor allem einige Formen der Leistungsbewertung diesen Forderungen nicht gerecht. Insbesondere die Bewertung von Verhalten nach einem vorgegebenen Normenraster z.B. bei den sogenannten Kopfnoten lehnen wir ab. 
 
 Die Bildungsinhalte haben auf fundierten und belegbaren Erkenntnissen zu basieren und müssen von einem möglichst neutralen Standpunkt aus vermittelt werden. Dies beinhaltet vor allem eine sachliche Darstellung, die Ausgewogenheit der Standpunkte und eine kritische Quellenbewertung. 
 
@@ -197,21 +197,21 @@ Ab dem dritten Lebensjahr des Kindes ist den Eltern ein Kindergartenplatz aktiv 
 
 ## Schulbildung
 
-Jedwedes Bildungsangebot – von Krippen bis Schule ist gebührenfrei. Es gibt keine versteckten Kosten für Lernmittel, Bücher, Computer, Kopierkosten, Klassenfahrten, Mittagessen, Förderung u.Ä..
+Jedwedes Bildungsangebot – von Krippen bis Schule ist gebührenfrei. Es gibt keine versteckten Kosten für Lernmittel, Bücher, Computer, Kopierkosten, Klassenfahrten, Mittagessen, Förderung und Ähnliches.
 
-Bildung geht vor Copyright bzw. Urheberrecht. Im Rahmen des Unterrichts ist die Kopierbarkeit und der Einsatz jedweden Materials prinzipiell kostenfrei und rechtlich zu gewährleisten.
+Bildung geht vor Copyright bzw. Urheberrecht. Im Rahmen des Unterrichts sind die Kopierbarkeit und der Einsatz jedweden Materials prinzipiell kostenfrei und rechtlich zu gewährleisten.
 
 Niemand darf aufgrund von Herkunft, Geschlecht, Wohnort, Einkommen, Alter, Aussehen, Behinderung oder vorhandenen Budgets von einer Schule ausgeschlossen werden. Übersteigt die Nachfrage nach einer bestimmten Schule das Angebot an Plätzen, legt das Schulamt ein Auswahlverfahren fest, das sicherstellt, dass die Vergabe nach objektiven und pädagogischen Kriterien und ohne Berücksichtigung der Person erfolgt.
 
-Werden Bildungseinrichtung in freier Trägerschaft, analog den öffentlichen Schulen, durch das Land Hessen gefördert, so dürfen sie über diese Förderung hinaus keine Gebühren oder Schulgeld verlangen.
+Werden Bildungseinrichtungen in freier Trägerschaft, analog den öffentlichen Schulen, durch das Land Hessen gefördert, so dürfen sie über diese Förderung hinaus keine Gebühren oder Schulgeld verlangen.
 
-Die Schulen, staatliche wie solche in freier Trägerschaft, erhalten die staatliche Zuweisungen an Lehrerstellen bzw. Finanzmitteln auf der Basis einer Lerngruppenstärke von 20 Schülern.
+Die Schulen, staatliche wie solche in freier Trägerschaft, erhalten die staatlichen Zuweisungen an Lehrerstellen bzw. Finanzmitteln auf der Basis einer Lerngruppenstärke von 20 Schülern.
 
 Die Regelgrundschulzeit beträgt 6 Jahre.
 
-Schulen sind als angebotsorientierte Ganztagsschulen von 07:00 bis 17:00 Uhr zu organisieren (ausgenommen berufliche Schulen). Kernarbeits- und Unterrichtszeit ist von 09:00 bis 15:00 Uhr. Davor und danach sind geeignete Förder- und Forderangebote (Talentförderung, AG's, usw.) anzubieten.
+Schulen sind als angebotsorientierte Ganztagsschulen von 07:00 bis 17:00 Uhr zu organisieren (ausgenommen berufliche Schulen). Kernarbeits- und Unterrichtszeit ist von 09:00 bis 15:00 Uhr. Davor und danach sind geeignete Förder- und Forderangebote (Talentförderung, Arbeitsgruppen usw.) anzubieten.
 
-Die Piraten fordern die sofortige Umsetzung der in der Behindertenrechtskonvention (BRK), die seit dem 26. März 2009 in Kraft gesetzt wurde. Alle beeinträchtigten Schüler und Schüler mit Behinderung haben das Recht auf den Besuch einer Regelschule (Inklusion). Alle Regelschulen sind somit Inklusionsschulen. Jede Klasse muss bis zu 3 beeinträchtigte Schüler aufnehmen. Jede Inklusionsklasse wird durch einen Förderlehrer unterstützt (durchgängig).
+Die Piraten fordern die sofortige Umsetzung der Behindertenrechtskonvention (BRK), die am 26. März 2009 in Kraft gesetzt wurde. Alle beeinträchtigten Schüler und Schüler mit Behinderung haben das Recht auf den Besuch einer Regelschule (Inklusion). Alle Regelschulen sind somit Inklusionsschulen. Jede Klasse muss bis zu 3 beeinträchtigte Schüler aufnehmen. Jede Inklusionsklasse wird durch einen Förderlehrer unterstützt (durchgängig).
 
 An jeder Schule sind pro 100 Schüler
 
@@ -229,7 +229,7 @@ Lernende mit Lernproblemen haben Anspruch auf umfangreiche Förderung durch Spez
 
 Der Wechsel zwischen verschiedenen Schulen - auch aus anderen (Bundes-)Ländern - ist durch individuelle Förderung zu unterstützen.
 
-Die Piraten streben die Überwindung des veralteten mehr-gliedrigen Schulsystems an. Im Sinne eines gemeinsamen, sozialen Lernens schließt sich der 6-jährigen Grundschule eine 4-jährige Gemeinschaftsschule an. Hier wird zunächst im gemischten Klassenverband, mit fortschreitendem Alter zunehmend in Interessens-spezifischen sowie Förderungs-orientierten Kursen.
+Die Piraten streben die Überwindung des veralteten mehrgliedrigen Schulsystems an. Im Sinne eines gemeinsamen, sozialen Lernens schließt sich der 6-jährigen Grundschule eine 4-jährige Gemeinschaftsschule an. Hier wird zunächst im gemischten Klassenverband, mit fortschreitendem Alter zunehmend in interessensspezifischen sowie förderungsorientierten Kursen.
 
 Das schließt die Anwendung unterschiedlicher pädagogischer Konzepte innerhalb einer Schule ein.
 
@@ -245,15 +245,15 @@ Die dreijährige Fachschulausbildung für Erzieherinnen/Erzieher wird beibehalte
 
 Die Ausbildung der Lehrkräfte in Hessen bedarf dringend einer Veränderung. Ziele der Piraten sind hier: 
 
-* Potentielle Lehrkräfte sollen viel früher feststellen können, ob sie persönlich für den Unterricht von Kindern und Jugendlichen geeignet sind
+* Potenzielle Lehrkräfte sollen viel früher feststellen können, ob sie persönlich für den Unterricht von Kindern und Jugendlichen geeignet sind.
 
-* Angehende Lehrkräfte sollen noch besser pädagogisch und didaktisch auf den Unterricht vorbereitet werden
+* Angehende Lehrkräfte sollen noch besser pädagogisch und didaktisch auf den Unterricht vorbereitet werden.
 
-* In der Praxis stehende Lehrkräfte sollen mit geeigneten Anreizen zur regelmäßigen Weiterbildung und Tätigkeit an verschiedenen Schulen motiviert werden
+* In der Praxis stehende Lehrkräfte sollen mit geeigneten Anreizen zur regelmäßigen Weiterbildung und Tätigkeit an verschiedenen Schulen motiviert werden.
 
-* Allen Lehrkräften sollen ihre Stärken und Schwächen aufgezeigt sowie Weiterbildungs-und Entwicklungspotentiale erschlossen werden
+* Allen Lehrkräften sollen ihre Stärken und Schwächen aufgezeigt sowie Weiterbildungs-und Entwicklungspotenziale erschlossen werden.
 
-* Das Verfallen in unreflektierte Verhaltens- und Reaktionsmuster sowie das Entstehen von Stress-Krankheiten und Burn Out soll vermieden werden
+* Das Verfallen in unreflektierte Verhaltens- und Reaktionsmuster sowie das Entstehen von Stress-Krankheiten und Burn-out soll vermieden werden.
 
 Weiterbildungen, Schul- und Fachwechsel und Auszeiten sollen erleichtert und positiv unterstützt werden.
 
@@ -265,7 +265,7 @@ Sowohl für Parlamentarier als auch für Regierende und Ausführende muss eine g
 
 ## Informationsfreiheits- und Transparenzgesetz
 
-Das Land Hessen ist eines der wenigen Bundesländer, welches noch kein Informationsfreiheitsgesetz hat und wo es auch noch kaum Informationsfreiheitssatzungen auf der kommunalen Ebene gibt. Dies gilt es mit der Einführung eines hessischen Informationsfreiheitsgesetzes auf Basis der Informationsfreiheitsmustersatzung des Berliner Informationsfreiheitsgesetzes für die Landes- und Kommunalebene zu korrigieren. Gleichzeitig sind die jeweiligen Datenschutzbeauftragten zu Datenschutz- und Informationsfreiheitsbeauftragten aufzuwerten.
+Das Land Hessen ist eines der wenigen Bundesländer, welches noch kein Informationsfreiheitsgesetz hat und wo es auch noch kaum Informationsfreiheitssatzungen auf der kommunalen Ebene gibt. Dies gilt es mit der Einführung eines hessischen Informationsfreiheitsgesetzes, auf Basis der Informationsfreiheitsmustersatzung des Berliner Informationsfreiheitsgesetzes, für die Landes- und Kommunalebene zu korrigieren. Gleichzeitig sind die jeweiligen Datenschutzbeauftragten zu Datenschutz- und Informationsfreiheitsbeauftragten aufzuwerten.
 
 Die Informationsfreiheit legt jedoch nur die Basis für ein Auskunftsrecht. In der Informationsgesellschaft des 21. Jahrhunderts ist aber die Notwendigkeit zur mehr Transparenz eine Bringpflicht. Dieser Umstand kann nur mit der Einführung eines hessischen Transparenzgesetzes auf Basis des Hamburger Gesetzentwurfes rechtlich verankert werden.
 
@@ -279,7 +279,7 @@ In begründeten Fällen kann die Nichtöffentlichkeit hergestellt werden. Dies i
 
 ### Öffentliche Sitzung des Gemeindevorstands
 
-Die Piratenpartei Hessen setzt sich dafür ein, dass der Gemeindevorstand in der Regel öffentlichen tagt. (§67 HGO)
+Die Piratenpartei Hessen setzt sich für eine Änderung des §67 der Hessischen Gemeindeordnung ein mit dem Ziel, dass der Gemeindevorstand in der Regel öffentlich tagt.
 
 ## Veröffentlichungen in kostenlosen Zeitungen und im Internet
 
@@ -353,17 +353,17 @@ Weiterführend sollen überregionale Begehren und Entscheide ermöglicht werden.
 
 Eine Grundsäule der Demokratie ist auch immer das Wahlrecht und die Frage, wem es gewährt wird. Junge Menschen interessieren sich wieder verstärkt für Politik und sind auch bereit, Verantwortung zu übernehmen. Wir wollen deshalb in Hessen auf Landes- und Kommunalebene das aktive Wahlalter auf 14 Jahre und das passive Wahlalter auf 18 Jahre absenken, wie es bereits in vielen anderen Bundesländern praktiziert wird.
 
-Junge Menschen werden mit 14 Jahren strafmündig und uneingeschränkt religionsmündig. Mit dem Eintritt der Schuldfähigkeit verlangt der Gesetzgeber von jeder Person, die Werte und Gesetze unserer Gesellschaft zu beachten und nach ihnen zu handeln. Viele beginnen in dieser Zeit auch mit konkreten Überlegungen für die Berufswahl. Auf die Lebensumstände, die diese Überlegungen prägen, hat die Politik einen entscheidenden Einfluss. Es ist daher angemessen, die Altersgrenze für das aktive Wahlrecht auf den Beginn der Strafmündigkeit zu senken. Mit dem Beginn dieser Verantwortlichkeit sollte allen auch das Recht zugestanden werden, zu entscheiden, welche politische Gruppierung sie in der Politik momentan am besten vertritt. Keine Pflichten ohne Rechte.
+Junge Menschen werden mit 14 Jahren strafmündig und uneingeschränkt religionsmündig. Mit dem Eintritt der Schuldfähigkeit verlangt der Gesetzgeber von jeder Person, die Werte und Gesetze unserer Gesellschaft zu beachten und nach ihnen zu handeln. Viele beginnen in dieser Zeit auch mit konkreten Überlegungen für die Berufswahl. Auf die Lebensumstände, die diese Überlegungen prägen, hat die Politik einen entscheidenden Einfluss. Es ist daher angemessen, die Altersgrenze für das aktive Wahlrecht auf den Beginn der Strafmündigkeit zu senken. Mit dem Beginn dieser Verantwortlichkeit sollte allen auch das Recht zugestanden werden zu entscheiden, welche politische Gruppierung sie in der Politik momentan am besten vertritt. Keine Pflichten ohne Rechte.
 
 Das Wahlrecht soll allen Einwohnern offen stehen. Wir werden deshalb alle nötigen Schritte unternehmen, einschließlich der Einleitung einer Bundesratsinitiative zur Änderung entsprechender Gesetze.
 
 ### Erweiterte Befugnisse des Ausländerbeirats
 
-Die Piratenpartei Hessen setzt sich dafür ein, dass die Rechte und Befugnisse des Ausländerbeirats dergestalt erweitert werden, dass er zukünftig Einsicht in alle relevanten Sitzungsunterlagen erhält und auch die Gemeindevertretung und der Gemeindevorstand den Ausländerbeirat zu den Tagesordnungspunkten hören muss, die Interessen der ausländischen Einwohner berühren. Darüber hinaus soll die Gemeindevertretung dem Ausländerbeirat Antragsrechte geben können. (§88)
+Die Piratenpartei Hessen setzt sich für eine Änderung des §88 der Hessischen Gemeindeordnung ein mit dem Ziel, dass die Rechte und Befugnisse des Ausländerbeirats dergestalt erweitert werden, dass er zukünftig Einsicht in alle relevanten Sitzungsunterlagen erhält und auch die Gemeindevertretung und der Gemeindevorstand den Ausländerbeirat zu den Tagesordnungspunkten hören muss, die Interessen der ausländischen Einwohner berühren. Darüber hinaus soll die Gemeindevertretung dem Ausländerbeirat Antragsrechte geben können.
 
 ### Implementierung des Jugendparlamentes
 
-Durch die Einrichten eines Jugendparlaments, dass mit den erforderlichen Mitteln, auch finanzieller Art, unterstützt wird, beabsichtigt die Piratenpartei in Hessen, die Rechte und Interessen von Kindern und Jugendlichen zu stärken und aktive politische Mitgestaltung für sie praktisch erlebbar zu machen. (§ 4c) Dabei orientiert sie sich in den Rechten und Befugnissen am Ausländerbeirat.
+Durch die Einrichten eines Jugendparlaments, dass mit den erforderlichen Mitteln, auch finanzieller Art, unterstützt wird, beabsichtigt die Piratenpartei in Hessen, die Rechte und Interessen von Kindern und Jugendlichen zu stärken und aktive politische Mitgestaltung für sie praktisch erlebbar zu machen. Dies erfordert eine Änderung des §4c der Hessischen Gemeindeordnung. Dabei orientiert sie sich in den Rechten und Befugnissen am Ausländerbeirat.
 
 ## Weniger Hürden
 
@@ -377,7 +377,7 @@ Die Piraten fordern unbedingt die Abschaffung jeglicher Maßnahmen, durch die di
 
 Während bei dem klassischen Papierstimmzettel die Wahl von jedermann nachvollzogen werden kann, müssen beim Einsatz von Wahlcomputern Millionen Bürgerinnen und Bürger darauf vertrauen, dass weder der Hersteller der Wahlcomputer, jemand aus dem Wahlvorstand noch einer der vorher bereits gewählt habenden Bürger Manipulationen vorgenommen hat.
 
-Die einzige Form des Wahlcomputers, die wir akzeptieren würden, wären Geräte, bei denen neben der elektronischen Zählung noch ein Ausdruck auf Papier erfolgt. Die elektronische Zählung darf als vorläufiges Ergebnis verkündet werden, das amtliche Endergebnis muss nachvollziehbar von Menschen ausgezählt werden. 
+Die einzige Form des Wahlcomputers, die wir akzeptieren würden, wären Geräte, bei denen neben der elektronischen Zählung noch ein Ausdruck auf Papier erfolgt. Die elektronische Zählung darf als vorläufiges Ergebnis verkündet werden, das amtliche Endergebnis muss nachvollziehbar von Menschen ausgezählt werden.
 
 # Nachhaltige Umweltpolitik
 
@@ -397,7 +397,7 @@ Zum Schutz der Bürger braucht es verbindliche und praxisnahe Lärmobergrenzen, 
 
 Zusätzlich muss der Schutz der Nachtruhe von 22 bis 6 Uhr gewährleistet sein und in den dazugehörigen Randstunden Lärm vermieden oder reduziert werden.
 
-Durch den föderalistischen Aufbau Deutschlands, ist nicht jedes der vor Ort entstehenden Probleme alleine auf Landes- oder Kommunalebene zu lösen, sondern muss teilweise mit Bund oder gar mit der Europäischen Union zusammen angegangen werden.
+Durch den föderalistischen Aufbau Deutschlands ist nicht jedes der vor Ort entstehenden Probleme alleine auf Landes- oder Kommunalebene zu lösen, sondern muss teilweise mit Bund oder gar mit der Europäischen Union zusammen angegangen werden.
 
 ### Analyse
 
@@ -405,7 +405,7 @@ Um ein umfassendes Bild der Lärmbelästigung zu bekommen, braucht es ein Netz a
 
 Das aufzubauende Messnetzwerk ist auch für Bürger zu öffnen, um nicht geprüfte Messdaten ebenfalls zentral verfügbar und verarbeitbar zu machen.
 
-Alle Daten sind in einem OpenData-Portal in Echtzeit zur Verfügung zu stellen und mit Daten des Straßen-, Schienen- und Flugverkehrs zu ergänzen, um Ursache und Wirkung transparent darstellen zu können.
+Alle Daten sind in einem Open Data-Portal in Echtzeit zur Verfügung zu stellen und mit Daten des Straßen-, Schienen- und Flugverkehrs zu ergänzen, um Ursache und Wirkung transparent darstellen zu können.
 
 ### Straßenlärm
 
@@ -421,27 +421,31 @@ Ein nächtliches Tempolimit bei gleichzeitiger freier Fahrt, um unnötiges Brems
 
 Eine weitere Entlastung verspricht der Austausch der alten Graugussklotzbremsen durch leisere Kunststoffbremsen, wie es in der Schweiz beispielsweise schon Standard ist.
 
-Um die Fahrtgeräusche zu reduzieren ist der Einsatz von niedrigen, aber gleisnahen Schallschutzwänden zu prüfen. Je näher sie am Gleis stehen, desto besser reduzieren sie denn Schall. Obendrein versperren sie nicht die Sicht.
+Um die Fahrtgeräusche zu reduzieren ist der Einsatz, von niedrigen, aber gleisnahen Schallschutzwänden zu prüfen. Je näher sie am Gleis stehen, desto besser reduzieren sie den Schall. Obendrein versperren sie nicht die Sicht.
 
 ### Fluglärm
 
-Die vom Rhein-Main-Flughafen entfernteren Gebiete können nach einer Studie des Main-Kinzig-Kreise mittels den folgenden drei Maßnahmen sofort entlastet werden:
+Die vom Rhein-Main-Flughafen entfernteren Gebiete können nach einer Studie des Main-Kinzig-Kreises mittels der folgenden drei Maßnahmen sofort entlastet werden:
 
-* Anheben der Anflughöhe um 1000 Fuß (300m)
-* Einführen des kontinuierlichen Sinkflugverfahrens (CDA) bis zum Endanflugpunktes des Leitstrahles (ILS)
-* Sammeln der Flugzeuge in großer Höhe nach dem Point-Merge-Verfahren anstatt der jetzigen geflogenen Trombonen mit Vollschub in niedriger Höhe
+  - Anheben der Anflughöhe um 1000 Fuß (300m)
+
+  - Einführen des kontinuierlichen Sinkflugverfahrens (CDA) bis zum Endanflugpunkt des Leitstrahles (ILS)
+
+  - Sammeln der Flugzeuge in großer Höhe nach dem Point-Merge-Verfahren anstatt der jetzigen geflogenen Trombonen mit Vollschub in niedriger Höhe  
 
 Die derzeitige gerichtlich bestätigte Nachtflugbeschränkung, ein Verbot von regulären Starts und Landungen, ist von 23 bis 5 Uhr auf 22 bis 6 Uhr auszuweiten und der Flugverkehr in den Randstunden mittels eines Mediationsverfahrens zu reduzieren.
 
 Politische Lösungen für den Endanflug gestalten sich im Spannungsfeld zwischen betroffenen Bürgern und wirtschaftlicher Bedeutung des Flughafens als sehr schwierig. Deswegen schlagen wir Piraten Hessen vor, die folgenden strittigen Punkte jeweils über einen überregionalen Bürgerentscheid, der vom Lärm betroffenen Kreise und kreisfreien Städte, abstimmen zu lassen:
 
-* Deckelung der Flugbewegungen
-* Schließung der Nordwest-Landebahn
-* Weiterer Ausbau des Flughafens (Stichwort Atlantavariante)
+  - Deckelung der Flugbewegungen
+
+  - Schließung der Nordwest-Landebahn
+
+  - Weiterer Ausbau des Flughafens (Stichwort Atlantavariante)
 
 Zusätzliche Maßnahmen, wie eine Ausdifferenzierung der lärmbedingten Landegebühren und entsprechende Landebahnzuweisungen sind zu prüfen.
 
-Auch die Simulation eines vollständig computergestützen GPS-Endanflugs (Segmented RNAV) im Parallelbetrieb der Südbahnen und der Nordwestlandebahn kann helfen eine Entlastung unterhalb des Leitstrahls zu ermöglichen.
+Auch die Simulation eines vollständig computergestützten GPS-Endanflugs (Segmented RNAV) im Parallelbetrieb der Südbahnen und der Nordwestlandebahn kann helfen, eine Entlastung unterhalb des Leitstrahls zu ermöglichen.
 
 ### Forschung
 
@@ -467,15 +471,15 @@ Das Recht auf Netzzugang ist ein Menschenrecht und sollte explizit in die Hessis
 
 # Störerhaftung
 
-Die Piratenpartei Hessen setzt sich für eine Neuregelung der Störerhaftung im Bereich der Telekommunikation ein. Es sollen insbesondere die bestehende Rechtsunsicherheit beseitigt und das zur Verfügung stellen von Internetzugängen und Anonymisierungsdiensten durch Privatpersonen und als kostenloser Service für Kunden ohne unverhältismässig hohem Aufwand und unkalkulierbare Risiken ermöglicht werden.
+Die Piratenpartei Hessen setzt sich für eine Neuregelung der Störerhaftung im Bereich der Telekommunikation ein. Es sollen insbesondere die bestehende Rechtsunsicherheit beseitigt und das zur Verfügung stellen von Internetzugängen und Anonymisierungsdiensten durch Privatpersonen und als kostenloser Service für Kunden ohne unverhältismäßig hohem Aufwand und unkalkulierbare Risiken ermöglicht werden.
 
 # Asyl- und Migrationspolitik
 
-Die Piratenpartei Hessen schätzt unsere pluralistische Gesellschaft, die von der Vielfalt der verschiedenen Kulturen, Weltanschauungen, Religionen und Lebensmodelle lebt. Viele Flüchtlinge jedoch, die gerade erst vor Krieg und Verfolgung aus ihrem Ursprungsland geflohen sind, sehen sich hier in Deutschland Repressalien und einem Alltag voller Diskriminierungen ausgeliefert. Aus unserem Verständnis einer offenen, freien, solidarischen und demokratischen Gesellschaft heraus lehnen wir diese Art des Umgangs mit Flüchtlingen in Hessen und auf Bundesebene ab. Daher müssen alle Verfahrensweise in der Asylpolitik uneingeschränkt auf den Prüfstand. Sofern die Entscheidungskompetenz nicht in die Landesebene fällt, werden die hessischen Piraten Entscheidungen im Bundesrat anregen und vorbereiten. Bereits in dieser Thematik erfahrene Organisationen, wie beispielsweise ProAsyl und der hessische Flüchtlingsrat sind dabei stärker in den Diskurs mit einzubeziehen.
+Die Piratenpartei Hessen schätzt unsere pluralistische Gesellschaft, die von der Vielfalt der verschiedenen Kulturen, Weltanschauungen, Religionen und Lebensmodelle lebt. Viele Flüchtlinge jedoch, die gerade erst vor Krieg und Verfolgung aus ihrem Ursprungsland geflohen sind, sehen sich hier in Deutschland Repressalien und einem Alltag voller Diskriminierungen ausgeliefert. Aus unserem Verständnis einer offenen, freien, solidarischen und demokratischen Gesellschaft heraus lehnen wir diese Art des Umgangs mit Flüchtlingen in Hessen und auf Bundesebene ab. Daher müssen alle Verfahrensweisen in der Asylpolitik uneingeschränkt auf den Prüfstand. Sofern die Entscheidungskompetenz nicht in die Landesebene fällt, werden die hessischen Piraten Entscheidungen im Bundesrat anregen und vorbereiten. Bereits in dieser Thematik erfahrene Organisationen, wie beispielsweise ProAsyl und der hessische Flüchtlingsrat, sind dabei stärker in den Diskurs mit einzubeziehen.
 
 ## Residenzpflicht abschaffen
 
-Die Freiheit, Freizügigkeit und Selbstbestimmung eines jeden Menschen ist ein hohes Gut einer demokratischen Gesellschaft. Eine Einschränkung der Wahl des Aufenthaltsortes ist nichts anderes als Inhaftierung in einem großflächigen Gefängnis und schränken Flüchtlinge damit in ihrem Menschenrecht auf Freizügigkeit ein. Die hessischen Piraten setzen sich für ein Ende der Residenzpflicht ein. Jedem Flüchtling der in Hessen lebt ist die Freizügigkeit innerhalb der europäischen Gemeinschaft ohne Einschränkung zu gewähren. Dadurch bekommen Flüchtlinge die Möglichkeit für ihre Rechte im Rahmen von Versammlungen einzutreten und an Treffen innerhalb von Organisationen, sowie an familiären und freundschaftlichen Treffen teilzunehmen.
+Die Freiheit, Freizügigkeit und Selbstbestimmung eines jeden Menschen ist ein hohes Gut einer demokratischen Gesellschaft. Eine Einschränkung der Wahl des Aufenthaltsortes ist nichts anderes als Inhaftierung in einem großflächigen Gefängnis und schränken Flüchtlinge damit in ihrem Menschenrecht auf Freizügigkeit ein. Die hessischen Piraten setzen sich für ein Ende der Residenzpflicht ein. Jedem Flüchtling, der in Hessen lebt, ist die Freizügigkeit innerhalb der Europäischen Union ohne Einschränkung zu gewähren. Dadurch bekommen Flüchtlinge die Möglichkeit für ihre Rechte im Rahmen von Versammlungen einzutreten und an Treffen innerhalb von Organisationen, sowie an familiären und freundschaftlichen Treffen teilzunehmen.
 
 ## Grundrechte auf alle Menschen ausweiten
 
@@ -489,7 +493,7 @@ Als Maßnahmen zur Verbesserung der Lebenssituation von Asylsuchenden und geduld
 	
   2. Die Verletzung des Rechts auf ein zügiges Verfahren gemäß Artikel 6 der Europäischen Menschenrechtskommission (EMRK) durch Verschleppung wird beendet.
 	
-  3. Die Schaffung von Beratungen, unter welchen Umständen eine Rückkehr in das jeweilige Ursprungsland möglich wäre, sofern dies vom Antragssteller gewünscht ist, bzw. Wege aufzeigen wie eine Integration in unsere Gesellschaft möglich ist.
+  3. Die Schaffung von Beratungen, die aufzeigen, unter welchen Umständen eine Rückkehr in das jeweilige Ursprungsland möglich wäre, sofern dies vom Antragssteller gewünscht ist, oder wie eine Integration in unser Gesellschaft möglich ist.
 	
   4. Eine Bleiberechtsregelung, die die gesamte Familie (inkl. Verwandte zweiten Grades) umfasst und die besondere Situation von Eltern und Kindern berücksichtigt.
 	
@@ -507,7 +511,7 @@ Als Maßnahmen zur Verbesserung der Lebenssituation von Asylsuchenden und geduld
 
 ## Abschaffung der Optionspflicht und Modernisierung des Staatsangehörigkeitsrechts
 
-Die hessischen PIRATEN setzen sich für die Abschaffung des Optionsmodell auf Bundes- und Landesebene ein. Wird ein Kind ausländischer Eltern in Deutschland geboren und hält sich mindestens ein Elternteil mit einem unbefristeten Aufenthaltstitel legal in Deutschland auf, erhält das Kind neben der Staatsbürgerschaft der Eltern dauerhaft auch die deutsche Staatsangehörigkeit. Das bislang geltende Erfordernis, sich ab Vollendung des 18. Lebensjahrs für eine der beiden Staatsbürgerschaften entscheiden zu müssen, entfällt.
+Die hessischen PIRATEN setzen sich für die Abschaffung des Optionsmodells auf Bundes- und Landesebene ein. Wird ein Kind ausländischer Eltern in Deutschland geboren und hält sich mindestens ein Elternteil mit einem unbefristeten Aufenthaltstitel legal in Deutschland auf, erhält das Kind neben der Staatsbürgerschaft der Eltern dauerhaft auch die deutsche Staatsangehörigkeit. Das bislang geltende Erfordernis, sich ab Vollendung des 18. Lebensjahrs für eine der beiden Staatsbürgerschaften entscheiden zu müssen, entfällt.
 
 Wer sich einbürgern lässt, muss seine alte Staatsangehörigkeit nicht länger aufgeben. Mehrfache bzw. doppelte Staatsbürgerschaft wird auch bei der Einbürgerung ermöglicht.
 
@@ -517,11 +521,11 @@ Die Fristen und Bedingungen bis zu einem dauerhaft abgesicherten Aufenthaltsrech
 
 In vielen Staaten ist die Diskriminierung von Menschen aufgrund ihrer sexuellen oder geschlechtlichen Identität alltäglich, schränkt sie in ihrem täglichen Leben stark ein und zwingt sie zu einem Leben im Verborgenen.
 
-Für die Piratenpartei Hessen ist die freie Entfaltung und Auslebung der geschlechtlichen und sexuellen Identität ein unantastbares Menschenrecht, das in einem demokratischen Staat unter besonderen Schutz gestellt werden muss.
+Für die Piratenpartei Hessen ist die freie Entfaltung und das Ausleben der geschlechtlichen und sexuellen Identität ein unantastbares Menschenrecht, das in einem demokratischen Staat unter besonderen Schutz gestellt werden muss.
 
 Menschen, die in Staaten leben, die dieses Menschenrecht missachten und deshalb zu einer Flucht aus ihren Herkunftsländern gezwungen werden, müssen diesen Schutz uneingeschränkt erhalten.
 
-Sobald ein Mensch in einem Staat aufgrund seiner Sexualität,die in der Bundesrepublik gelebt werden darf, verfolgt wird, ist ihm Asyl zu gewähren, ohne dass der Nachweis einer konkreten Verfolgung zu erbringen ist.
+Sobald ein Mensch in einem Staat aufgrund seiner Sexualität, die in der Bundesrepublik gelebt werden darf, verfolgt wird, ist ihm Asyl zu gewähren, ohne dass der Nachweis einer konkreten Verfolgung zu erbringen ist.
 
 Der politischen Verfolgung aufgrund der sexuellen oder geschlechtlichen Identität muss international entgegengewirkt werden. Auf nationaler Ebene ist eine Reform des Asylrechts in diese Richtung dringend und zeitnah notwendig, auch um international ein Zeichen gegen Diskriminierung und Menschenrechtsverletzungen zu setzen. Das Land Hessen sollte hier mit gutem Beispiel vorangehen.
 
@@ -531,15 +535,15 @@ Die Piratenpartei Hessen setzt sich für die Durchführung einer Volksabstimmung
 
 Die Enquete Kommission soll sich insbesondere mit folgenden Fragestellungen befassen:
 
-* Wie kann die Stärkung der demokratischen Beteiligungsmöglichkeiten in Hessen erreicht werden – zum Beispiel durch Absenkung von Wahlalter, Verfahrenserleichterungen für Volksbegehren und Volksentscheide.
+* Wie kann die Stärkung der demokratischen Beteiligungsmöglichkeiten in Hessen erreicht werden &mdash; zum Beispiel durch Absenkung von Wahlalter, Verfahrenserleichterungen für Volksbegehren und Volksentscheide?
 
-* Wie können die Selbstverwaltungsrechte der Kommunen in der Verfassung verankert werden? (z.B. analog zu den Regelungen in der Verfassung von Baden-Württemberg)
+* Wie können die Selbstverwaltungsrechte der Kommunen in der Verfassung verankert werden (z.B. analog zu den Regelungen in der Verfassung von Baden-Württemberg)?
 
 * Wie können Rechte von Personen gestärkt werden, die in einer Lebensgemeinschaft Kinder erziehen oder für pflegebedürftige Personen sorgen?
 
 * Wie können Rechte von Menschen mit Behinderungen in der Verfassung verankert werden?
 
-* Wie kann die Stellung von Hessen als integrales Bestandteil des Europäischen Einigungsprozesses in der Verfassung unterstrichen werden?
+* Wie kann die Stellung von Hessen als integraler Bestandteil des europäischen Einigungsprozesses in der Verfassung unterstrichen werden?
 
 * Welche Regelungen in der Hessischen Verfassung stehen im Widerspruch zu den Bestimmungen des Grundgesetzes und der Bundesgesetzgebung?
 
@@ -547,7 +551,7 @@ Die Enquete Kommission soll sich insbesondere mit folgenden Fragestellungen befa
 
 Der Landesverband Hessen der Piratenpartei setzt sich dafür ein, dass klare gesetzliche Regelungen geschaffen werden, die Whistleblowern einen besonderen Kündigungsschutz gewähren.
 
-Im Bereich des Strafrechts müssen zudem die §§ 94, 95, 96, 109g, 203, 353b und 355 StGB dahingehend ergänzt werden, dass diese Taten im Falle des Whistleblowings nicht rechtswidrig sind.
+Im Bereich des Strafrechts müssen zudem die §§ 94, 95, 96, 109g, 203, 353b und 355 StGB dahin gehend ergänzt werden, dass diese Taten im Falle des Whistleblowings nicht rechtswidrig sind.
 
 # Sucht- und Drogenpolitik
 
@@ -561,7 +565,7 @@ Die Hessen-Piraten wenden sich strikt gegen die Praxis vieler Firmen, Drogentest
 
 Amtsmitarbeitern mit Bürgerkontakt ist es, auch ohne jede fachliche Qualifikation, erlaubt, reine Vermutungen über einen möglichen Drogenkonsum in persönliche Akten einzutragen. Derartige Einträge werden in der Folge nicht mehr hinterfragt und können so zu enormen, ungerechtfertigten Hürden für die Betroffenen werden. Die Praxis ungeschulter Mitarbeiter in Behörden, reine Vermutungen bezüglich eines Drogenkonsums in persönliche Akten einzutragen und diese weiterzugeben, ist zu unterbinden.
 
-Im Rahmen von Ermittlungen des LKA kommt es immer wieder dazu, dass Leute unschuldig des Konsums, Besitzes oder Verkaufs von illegalen Drogen verdächtigt werden. Eine erkennungsdienstliche Behandlung findet hierbei oft in rechtlich fragwürdigem Rahmen statt. Die so festgestellten, sehr persönlichen Daten müssen nach ergebnislos gebliebenen Ermittlungen umgehend wieder gelöscht werden. Dies wird heute nicht so praktiziert. Betroffene sind gezwungen mittels selbst bezahltem rechtlichen Beistand eine solche Löschung durchzusetzen. Die Hessen-Piraten pochen auf Löschung personenbezogener Daten, wenn sich ein Verdacht nicht bestätigt. Eine weitere Verwendung der Daten und die Weitergabe hat auf jeden Fall zu unterbleiben.
+Im Rahmen von Ermittlungen des LKA kommt es immer wieder dazu, dass Leute unschuldig des Konsums, Besitzes oder Verkaufs von illegalen Drogen verdächtigt werden. Eine erkennungsdienstliche Behandlung findet hierbei oft in rechtlich fragwürdigem Rahmen statt. Die so festgestellten, sehr persönlichen Daten müssen nach ergebnislos gebliebenen Ermittlungen umgehend wieder gelöscht werden. Dies wird heute nicht so praktiziert. Betroffene sind gezwungen, mittels selbst bezahltem rechtlichen Beistand eine solche Löschung durchzusetzen. Die Hessen-Piraten pochen auf Löschung personenbezogener Daten, wenn sich ein Verdacht nicht bestätigt. Eine weitere Verwendung und die Weitergabe der Daten haben auf jeden Fall zu unterbleiben.
 
 In staatlichen Hilfsprogrammen, zum Beispiel bei der Methadon-Substitution, müssen teilnehmende Personen zur Erlangung der Krankenkassenleistung ihren behandelnden Arzt von jeder Schweigepflicht entbinden. Diese beispiellose und entwürdigende Vorgehensweise ist aufzuheben. Drogenkranke Menschen sind, wie alle anderen Bürger auch, als normale Patienten zu behandeln.
 
@@ -571,17 +575,17 @@ Heroinkonsum wurde in der Vergangenheit weitgehend werteorientiert diskutiert. E
 
 Wenn überhaupt, wurden Schwerstabhängige mit Ersatzstoffen behandelt, um sie zur Abstinenz zu führen. Wer keinen Therapieplatz erhielt, beim Beikonsum erwischt wurde oder wegen der fehlenden Rauschwirkung der Ersatzstoffe in der psychischen Abhängigkeit verblieb, wurde in die Kriminalität gedrängt und in der Folge Opfer von Verelendung und gesellschaftlicher Ächtung. Suchtkranke verdienen es jedoch, mit den besten zur Verfügung stehenden Medikamenten und Therapien behandelt zu werden.
 
-Durch erfolgreiche Pilotprojekte, unter anderem in Frankfurt am Main, wurde der Nachweis geführt, dass es möglich ist, Schwerstabhängige durch kontrollierten Konsum reinen Diamorphins zu stabilisieren. Bei einigen reduzierte sich der Bedarf, andere wurden dauerhaft abstinent. Bei allen Teilnehmern zeigten sich erhebliche Verbesserungen: Hatte sich ihr Leben vorher ausschließlich um Beschaffungskriminalität und das Besorgen der nächsten Dosis gedreht, gewannen sie nun ihre Selbstbestimmung zurück und fanden neuen Lebensmut. In der frei gewordenen Zeit fanden viele Wohnung und Arbeit und begannen wieder, am gesellschaftlichen Leben teilzunehmen. Der körperliche Zustand der Konsumenten verbesserte sich grundlegend. Die durch gefährliche Beimischungen (Talkum, Paracetamol, Glasstaub, Strychnin, Psychopharmaka usw.) und Verschmutzung durch Keime und Bakterien im "Straßenheroin" entstandenen gesundheitlichen Probleme traten nicht mehr auf. Infektionen z.B. mit Hepatitis-C und HIV wurden verhindert.
+Durch erfolgreiche Pilotprojekte, unter anderem in Frankfurt am Main, wurde der Nachweis geführt, dass es möglich ist, Schwerstabhängige durch kontrollierten Konsum reinen Diamorphins zu stabilisieren. Bei einigen reduzierte sich der Bedarf, andere wurden dauerhaft abstinent. Bei allen Teilnehmern zeigten sich erhebliche Verbesserungen: Hatte sich ihr Leben vorher ausschließlich um Beschaffungskriminalität und das Besorgen der nächsten Dosis gedreht, gewannen sie nun ihre Selbstbestimmung zurück und fanden neuen Lebensmut. In der frei gewordenen Zeit fanden viele Wohnung und Arbeit und begannen wieder, am gesellschaftlichen Leben teilzunehmen. Der körperliche Zustand der Konsumenten verbesserte sich grundlegend. Die durch gefährliche Beimischungen (Talkum, Paracetamol, Glasstaub, Strychnin, Psychopharmaka usw.) und Verschmutzung durch Keime und Bakterien im "Straßenheroin" entstandenen gesundheitlichen Probleme traten nicht mehr auf. Infektionen z.B. mit Hepatitis C und HIV wurden verhindert.
 
 Auf Basis dieser Erfahrungen muss kontrolliert verabreichtes Diamorphin als Medikament im Rahmen einer wirksamen Therapie betrachtet und als weiterer Baustein in der Behandlung Suchtkranker etabliert werden.
 
-Die PIRATEN werden sich daher für eine Ausweitung des Diamorphin-Programmes stark machen. Das Land soll die Einrichtung entsprechend gesicherter Arztpraxen und Ambulanzen unterstützen.
+Die PIRATEN werden sich daher für eine Ausweitung des Diamorphin-Programmes starkmachen. Das Land soll die Einrichtung entsprechend gesicherter Arztpraxen und Ambulanzen unterstützen.
 
 ## Präventionsunterricht an Schulen
 
 Die Maßnahmen zur Drogenprävention an Schulen sind unzulänglich. Auch der Wissensstand des lehrenden Personals erweist sich oft als sehr gering. Einzelne Pilotprojekte haben gezeigt, wie wichtig und nachhaltig eine gute Prävention bereits im Grundschulalter ist. Jedweder Erstgebrauch, ob bei legalen oder illegalen Substanzen, nahm in den teilnehmenden Gruppen gegenüber den Vergleichsgruppen deutlich ab. Die erzielten Erkenntnisse und Erfolge tragen die Kinder wie selbstverständlich in die weiterführenden Schulen und ihren Freundeskreis. So wird für eine Multiplikation gesorgt, die Unterricht alleine kaum leisten kann.
 
-Die Hessen-Piraten regen an, auf der Basis solcher Beispiele mit Vorbildcharakter ein landesweit flächendeckendes Informations- und Aufklärungskonzept zu entwickeln. Hierbei soll besonderes Augenmerk auf einheitliches und sachliches Lehrmaterial sowie eine vorbereitende Schulung des Lehrpersonals gelegt werden. So wird an Bildungseinrichtungen ein kompetenter Unterricht ermöglicht. Auch externe Fachreferenten sollen Teil dieses Konzepts werden, um besonders in der Sekundarstufe das Wissen bei Lehrern und Schülern zu vertiefen. Grundgedanke und Ziel ist es Vorurteile gegen Wissen auszutauschen.
+Die Hessen-Piraten regen an, auf der Basis solcher Beispiele mit Vorbildcharakter ein landesweit flächendeckendes Informations- und Aufklärungskonzept zu entwickeln. Hierbei soll besonderes Augenmerk auf einheitliches und sachliches Lehrmaterial sowie eine vorbereitende Schulung des Lehrpersonals gelegt werden. So wird an Bildungseinrichtungen ein kompetenter Unterricht ermöglicht. Auch externe Fachreferenten sollen Teil dieses Konzepts werden, um besonders in der Sekundarstufe das Wissen bei Lehrern und Schülern zu vertiefen. Grundgedanke und Ziel ist es, Vorurteile gegen Wissen auszutauschen.
 
 ## Cannabis legalisieren
 
@@ -589,15 +593,15 @@ In Hessen konsumieren heute ca. 500.000 Menschen zumindest gelegentlich Cannabis
 
 Alle bisherigen Versuche, den Schwarzmarkt einzudämmen, führten zu immer weiteren Einschränkungen der Grundrechte: Tausende Abhörmaßnahmen werden gegen vermeintliche Drogendealer angeordnet, daraus erwachsen aber regelmäßig auch Verfahren gegen einfache Konsumenten. Durch lange aufbewahrte so genannte "taktische Hinweise" der Polizei entsteht faktisch eine zentrale "Kifferdatei", die zum Teil nur auf Vermutungen basiert. Die Einstufung von z.B. Bahnhöfen und Parks als "gefährliche Orte" ermöglicht verdachtsunabhängige Personenkontrollen. Da die Rechtsprechung undurchsichtig ist, werden Besitzer von Kleinstmengen ersatzweise von den Führerscheinbehörden schikaniert. Selbst Patienten mit lebenseinschränkenden Krankheiten, denen Cannabis als Medikament nachweislich hilft, werden Opfer der Strafverfolgung.
 
-Als PIRATEN werden wir uns unserer Verantwortung stellen und den Schwarzmarkt beseitigen. Das aufgrund der Verbotspolitik entstandene kriminelle Milieu muss nachhaltig ausgetrocknet werden: Herstellung, Verkauf und Konsum von Hanfprodukten muss aus der Kriminalität herausgeholt und den Mechanismen des Jugend- und Verbraucherschutzes unterworfen werden. Schimmelpilz und gesundheitsgefährende Beimengung von Streckmitteln, wie z.B. Vogelsand, Backmischungen, Haarspray, Dünger, synthetische Stoffe oder Blei müssen verhindert werden.
+Als PIRATEN werden wir uns unserer Verantwortung stellen und den Schwarzmarkt beseitigen. Das aufgrund der Verbotspolitik entstandene kriminelle Milieu muss nachhaltig ausgetrocknet werden: Herstellung, Verkauf und Konsum von Hanfprodukten müssen aus der Kriminalität herausgeholt und den Mechanismen des Jugend- und Verbraucherschutzes unterworfen werden. Schimmelpilz und gesundheitsgefährdende Beimengungen von Streckmitteln, wie z.B. Vogelsand, Backmischungen, Haarspray, Dünger, synthetischen Stoffen oder Blei müssen verhindert werden.
 
 Portugal, den Niederlanden und Tschechien zeigen, ist langfristig mit geringeren Konsumentenzahlen zu rechnen.
 
-Im Gegensatz zu den Niederlanden, wo die Coffee Shops aus illegalen Quellen kaufen müssen, hat Hessen hier eine besondere Chance auf legal angebauten Hanf durch eine bestimmte Anzahl an zertifizierten Landwirten. Hierdurch lassen sich die Vertriebswege kontrollieren und die Qualität kann überprüft werden. Der Zuschuss zur organisierten Kriminalität durch den illegalen Handel mit Cannabis wird so verdrängt werden.
+Im Gegensatz zu den Niederlanden, wo die Coffeeshops aus illegalen Quellen kaufen müssen, hat Hessen hier eine besondere Chance auf legal angebauten Hanf durch eine bestimmte Anzahl an zertifizierten Landwirten. Hierdurch lassen sich die Vertriebswege kontrollieren und die Qualität kann überprüft werden. Der Zuschuss zur organisierten Kriminalität durch den illegalen Handel mit Cannabis wird so verdrängt werden.
 
 ## E-Zigarette
 
-In Hessen benutzt heute eine wachsende Anzahl an Menschen die so genannte E-Zigarette als Genussmittel. Die gesundheitlichen Risiken und das Suchtpotential der nikotinhaltigen Flüssigkeiten, auch Liquids genannt, sind erheblich geringer als beim Tabakkonsum.
+In Hessen benutzt heute eine wachsende Anzahl an Menschen die sogenannte E-Zigarette als Genussmittel. Die gesundheitlichen Risiken und das Suchtpotenzial der nikotinhaltigen Flüssigkeiten, auch Liquids genannt, sind erheblich geringer als beim Tabakkonsum.
 
 Die Piratenpartei Hessen regt an, dass nikotinhaltige Liquids nicht als Arzneimittel, sondern als zugelassenes Handelsgut eingestuft werden. Wir widersprechen auch klar allen Versuchen, die Liquids einer zusätzlichen Versteuerung, z.B. gemäß Tabaksteuergesetz, zu unterstellen. Sicherheits- und Qualitätsstandards für die Produktion und den Vertrieb von E-Zigaretten und kennzeichnungspflichtigen Liquids müssen erarbeitet werden. Eine einheitliche europäische Regelung ist erforderlich, die auch den Belangen des Jugendschutzes Rechnung trägt.
 
@@ -615,7 +619,7 @@ Die Piratenpartei Hessen setzt sich für eine vollständige Legalisierung der pr
 
 # Trennung von Staat und Kirchen
 
-Die Piraten Hessen bekennen sich zu einem säkularen Staat, in dem die Belange von Staat und Kirchen von einander separiert sind. Dabei ist das Grundrecht auf freie Religionszugehörigkeit sowie die jeweilige Religionsausübung zu achten und zu respektieren.
+Die Piraten Hessen bekennen sich zu einem säkularen Staat, in dem die Belange von Staat und Kirchen voneinander separiert sind. Dabei ist das Grundrecht auf freie Religionszugehörigkeit sowie die jeweilige Religionsausübung zu achten und zu respektieren.
 
 ## Einstellung des Kirchensteuereinzuges
 
@@ -623,11 +627,11 @@ In einem modernen säkularen Staat ist es nicht mehr zeitgemäß, wenn die Finan
 
 ## Kostenfreier Kirchenaustritt
 
-Um das Grund- und Menschenrecht der Religionsfreiheit wahrnehmen zu können, ist es erforderlich die freie Wahl zu haben welcher Religionsgemeinschaft man angehört. Der Austritt aus den Kirchen, Religions- oder Weltanschauungsgemeinschaften des öffentlichen Rechts wird in Hessen durch Belegung der amtlichen Austrittserklärung mit einer Gebühr von 25 Euro jedoch für Menschen mit geringen finanziellen Mitteln unnötig erschwert. Wir fordern daher den Kirchenaustritt kostenfrei zu ermöglichen.
+Um das Grund- und Menschenrecht der Religionsfreiheit wahrnehmen zu können, ist es erforderlich, die freie Wahl zu haben, welcher Religionsgemeinschaft man angehört. Der Austritt aus den Kirchen, Religions- oder Weltanschauungsgemeinschaften des öffentlichen Rechts wird in Hessen durch Belegung der amtlichen Austrittserklärung mit einer Gebühr von 25 Euro jedoch für Menschen mit geringen finanziellen Mitteln unnötig erschwert. Wir fordern daher den Kirchenaustritt kostenfrei zu ermöglichen.
 
 ## Novellierung des Feiertagsgesetzes
 
-Die Piraten Hessen sprechen sich für den Beibehalt aller bisherigen Feiertage bei gleichzeitiger Streichung aller Einschränkungen und Sonderregelungen aus.
+Die Piraten Hessen sprechen sich für die Beibehaltung aller bisherigen Feiertage bei gleichzeitiger Streichung aller Einschränkungen und Sonderregelungen aus.
 
 # Tierschutz
 
@@ -663,13 +667,13 @@ Eine artgerechte Wildtierhaltung ist innerhalb eines Zirkusbetriebes nicht mögl
 
 Durch den Druck des Handels sind die landwirtschaftlichen Erzeuger gezwungen, immer mehr Produkte zu immer günstigeren Preisen anzubieten. Das ist nur möglich durch Produktionssteigerung auf begrenzten Flächen und führt zu einem massiven Einsatz von Medikamenten in der Tierproduktion.
 
-Es ist wissenschaftlich erwiesen, dass durch den immer stärkeren Einsatz von Antibiotika, den zu geringen Haltungsflächen und hygienischen Umstände bei der Unterbringung der Tiere multiresistente Keime entstehen, die der Gesundheit von Mensch und Tier massiv schaden.
+Es ist wissenschaftlich erwiesen, dass durch den immer stärkeren Einsatz von Antibiotika, die zu geringen Haltungsflächen und die hygienischen Umstände bei der Unterbringung der Tiere multiresistente Keime entstehen, die der Gesundheit von Mensch und Tier massiv schaden.
 
-Wir werden dafür sorgen, dass jede verabreichte Dosis offen gelegt werden muss und Jedem diese Information an leicht zugänglicher Stelle zur Verfügung stehen muss.
+Wir werden dafür sorgen, dass jede verabreichte Dosis offen gelegt werden und jedem diese Information an leicht zugänglicher Stelle zur Verfügung stehen muss.
 
 Darüber hinaus setzen wir uns dafür ein, dass Tiere und tierische Produkte nur dann verarbeitet werden dürfen, wenn zuvor verabreichte Medikamente bis auf festgelegte Grenzwerte auch abgebaut sind.
 
-Desweiterem ist die prophylaktische Medikamentengabe zu verbieten, wenn sie nur dadurch notwendig wird, durch falsche Haltung entstandene Krankheiten oder Schäden zu verhindern oder zu reduzieren oder nur dazu dient die wirtschaftliche Leistung der Tiere weiter anzuheben. Stattdessen sollen nur tatsächlich erkrankte Tiere gemäß dem Grad ihrer Erkrankung nach dem Urteil eines fachkundigen Tierarztes behandelt werden und die prohylaktische Gabe von Medikamenten soll nur bei begründeten Fällen, die der Abwendung größerer Schäden dient, erfolgen.
+Des weiteren ist die prophylaktische Medikamentengabe zu verbieten, wenn sie nur dadurch notwendig wird, dass durch falsche Haltung entstandene Krankheiten oder Schäden verhindert oder reduziert werden sollen, oder sie nur dazu dient, die wirtschaftliche Leistung der Tiere weiter anzuheben. Stattdessen sollen nur tatsächlich erkrankte Tiere gemäß dem Grad ihrer Erkrankung nach dem Urteil eines fachkundigen Tierarztes behandelt werden und die prohylaktische Gabe von Medikamenten soll nur bei begründeten Fällen, die der Abwendung größerer Schäden dient, erfolgen.
 
 Zu diesem Zweck befürworten wir regelmäßige Kontrollen der tierischen Nahrungsmittel und die Veröffentlichung der Ergebnisse an zentraler Stelle.
 
@@ -683,7 +687,7 @@ Aufgabe staatlicher Gesellschaftspolitik ist es, die Erfüllung grundlegender Be
 
 Der Staat legitimiert sein Bestehen dadurch, dass er das Vertrauen seiner Bürger erwirbt und erhält. Dazu gehört, dass er diese proaktiv in der Wahrnehmung ihrer Rechte unterstützt und Hilfestellungen anbietet, und dass er die Verständlichkeit seiner Anliegen sicherstellt.
 
-Fehlende existentielle Sicherung, Chancengleichheit und mangelnde Möglichkeit zur Teilhabe gefährden den sozialen Frieden; die oft entwürdigende Behandlung durch offizielle Stellen schafft eine zunehmende Distanz zwischen Bürgern und Staat. Beides bedroht den Erhalt der freiheitlich-demokratischen Ordnung.
+Fehlende existenzielle Sicherung, Chancengleichheit und mangelnde Möglichkeit zur Teilhabe gefährden den sozialen Frieden; die oft entwürdigende Behandlung durch offizielle Stellen schafft eine zunehmende Distanz zwischen Bürgern und Staat. Beides bedroht den Erhalt der freiheitlich-demokratischen Ordnung.
 
 ## Arbeit muss geachtet werden, unabhängig davon, ob sie dem Erwerbszweck dient
 
@@ -693,11 +697,11 @@ Die Piratenpartei Hessen setzt sich für eine Neudefinition des Begriffs "Arbeit
 
 Die Piratenpartei Hessen setzt sich dafür ein, dass Unternehmen im Einflussbereich der öffentlichen Hand folgende Mindeststandards in der Entlohnung ihrer Beschäftigten einhalten müssen:
 
-* die Bezahlung eines Mindestlohnes für jede Tätigkeit in einer Höhe, die bei einer Vollzeitbeschäftigung ein Einkommen jenseits der Armutsgrenze bedeuten würde
+  - die Bezahlung eines Mindestlohnes für jede Tätigkeit in einer Höhe, die bei einer Vollzeitbeschäftigung ein Einkommen jenseits der Armutsgrenze bedeuten würde,
 
-* die gleiche Entlohnung gleichartiger Tätigkeiten, unabhängig davon, ob diese von Festangestellten oder Leiharbeitern, Männern oder Frauen ausgeführt werden
+  - die gleiche Entlohnung gleichartiger Tätigkeiten, unabhängig davon, ob diese von Festangestellten oder Leiharbeitern, Männern oder Frauen ausgeführt werden,
 
-* das Verbot des Einsatzes von Bürgerarbeit oder von 1-Euro-Jobs.
+  - das Verbot des Einsatzes von Bürgerarbeit oder von 1-Euro-Jobs.
 
 Zu den betreffenden Unternehmen gehören solche im Besitz der öffentlichen Hand und Unternehmen der Privatwirtschaft, die Aufträge von dieser erhalten oder auf andere Art deren Nutznießer sind (z.B. durch Förderungen oder Vergünstigungen). Beauftragen die Unternehmen weitere Firmen, so müssen sie vertraglich sicherstellen, dass auch dort diese Bedingungen gelten.
 
@@ -719,11 +723,11 @@ Die Piratenpartei Hessen setzt sich dafür ein, dass Jobcenter und Optionskommun
 
 ## Sozialticket für den ÖPNV
 
-Die Piratenpartei Hessen setzt sich für ein landesweit gültiges "Soziales Hessenticket" für den ÖPNV ein. Dieses Ticket soll für alle Menschen mit geringem Einkommen – auch für von Armut betroffene Kinder und Jugendliche – erhältlich sein. Unterste Bemessungsgrundlage soll der Betrag der jeweils aktuellen lokalen Armutsgrenze sein. Der Preis des Tickets muss unter dem im ALG II-Regelsatz vorgesehenen Betrag für Mobilität bleiben. Das Soziale Hessenticket soll bis zur Ablösung durch ein umlagenfinanziertes System bestehen.
+Die Piratenpartei Hessen setzt sich für ein landesweit gültiges "Soziales Hessenticket" für den öffentlichen Personennahverkehr (ÖPNV) ein. Dieses Ticket soll für alle Menschen mit geringem Einkommen – auch für von Armut betroffene Kinder und Jugendliche – erhältlich sein. Unterste Bemessungsgrundlage soll der Betrag der jeweils aktuellen lokalen Armutsgrenze sein. Der Preis des Tickets muss unter dem im ALG II-Regelsatz vorgesehenen Betrag für Mobilität bleiben. Das Soziale Hessenticket soll bis zur Ablösung durch ein umlagenfinanziertes System bestehen.
 
 ## Kulturticket
 
-Die Piratenpartei Hessen setzt sich für die Einführung eines hessenweit gültigen Kulturtickets ein, das Menschen mit geringem Einkommen kostenfreien Zugang zu allen Kultureinrichtungen der öffentlichen Hand ermöglicht. Dieses Ticket sollen für alle Menschen mit geringem Einkommen automatisch und ohne eigene Beantragung erhalten. Als Bemessungsgrundlage soll der Betrag der jeweils aktuellen Armutsgrenze gelten.
+Die Piratenpartei Hessen setzt sich für die Einführung eines hessenweit gültigen Kulturtickets ein, das Menschen mit geringem Einkommen kostenfreien Zugang zu allen Kultureinrichtungen der öffentlichen Hand ermöglicht. Dieses Ticket sollen alle Menschen mit geringem Einkommen automatisch und ohne eigene Beantragung erhalten. Als Bemessungsgrundlage soll der Betrag der jeweils aktuellen Armutsgrenze gelten.
 
 ## Sozialberichte
 
@@ -731,7 +735,7 @@ Die Piratenpartei Hessen setzt sich dafür ein, dass alle Kreise und alle Kommun
 
 ## Kinderbetreuung
 
-Die Piratenpartei Hessen setzt sich dafür ein, dass Angebote zur Kinderbetreuung kostenfrei und ausreichend zur Verfügung gestellt werden. Krippen-, Kita- und Kindergartenplätzen mit gleitenden Bring- und Abholzeiten müssen zügig ausgebaut werden. Lange Wartezeiten bezüglich eines ortsnahen Angebotes sind nicht hinnehmbar. Wir fordern einen garantierten, gut erreichbaren Platz mit qualifizierter Betreuung für jedes Kind im Vorschulalter. Darüber hinaus setzen wir uns für die Schaffung von Betreuungsplätzen in öffentlichen Einrichtungen (Ämtern, Behörden) und Wirtschaftsunternehmen ein.
+Die Piratenpartei Hessen setzt sich dafür ein, dass Angebote zur Kinderbetreuung kostenfrei und ausreichend zur Verfügung gestellt werden. Krippen-, Kita- und Kindergartenplätze mit gleitenden Bring- und Abholzeiten müssen zügig ausgebaut werden. Lange Wartezeiten bezüglich eines ortsnahen Angebotes sind nicht hinnehmbar. Wir fordern einen garantierten, gut erreichbaren Platz mit qualifizierter Betreuung für jedes Kind im Vorschulalter. Darüber hinaus setzen wir uns für die Schaffung von Betreuungsplätzen in öffentlichen Einrichtungen (Ämtern, Behörden) und Wirtschaftsunternehmen ein.
 
 ## Lastenumkehr zwischen Bürgern und Sozialbehörden
 
@@ -747,25 +751,27 @@ Soziale Hilfe ist in jedem Fall wichtiger als ihre Verwaltung. Die Piratenpartei
 
 ## Sanktionsmoratorium
 
-Die Piratenpartei Hessen fordert eine sofortige Aussetzung aller Sanktionen zur Durchsetzung sozialpolitischer Ziele, die die Möglichkeit von Menschen auf ein Leben in Würde, ohne existentielle Bedrohung und mit gesellschaftlicher Teilhabe einschränken. Solche Disziplinierungen können kein Mittel eines Staates sein, der seine Bürger achtet.
-Das Land Hessen sowie die hessischen Kreise und Kommunen sollen alles in ihrer Macht Stehende tun, um eine Verhängung derartiger Sanktionen unverzüglich zu stoppen.
+Die Piratenpartei Hessen fordert eine sofortige Aussetzung aller Sanktionen zur Durchsetzung sozialpolitischer Ziele, die die Möglichkeit von Menschen auf ein Leben in Würde, ohne existenzielle Bedrohung und mit gesellschaftlicher Teilhabe einschränken. Solche Disziplinierungen können kein Mittel eines Staates sein, der seine Bürger achtet.
+
+Das Land Hessen sowie die hessischen Kreise und Kommunen sollen alles in ihrer Macht Stehende tun, um eine Verhängung derartiger Sanktionen 
 
 ## Umstellung Altersversorgung der Landtagsabgeordneten
 
-Die Altersversorgung von Mitgliedern des hessischen Landtags (Landtagsabgeordnete) wird in die Deutsche Rentenversicherung überführt. Die bisherigen Regelungen der Altersversorgung für Mitglieder des hessischen Landtages werden so schnell als möglich beendet.
+Die Altersversorgung von Mitgliedern des Hessischen Landtages (Landtagsabgeordnete) wird in die Deutsche Rentenversicherung überführt. Die bisherigen Regelungen der Altersversorgung für Mitglieder des Hessischen Landtages werden so schnell als möglich beendet.
+
 Sollte eine Überführung in die Deutsche Rentenversicherung für Landtagsabgeordnete aus verfassungsrechtlichen Gründen nicht möglich sein, wird die zu erreichende Altersversorgung der Landtagsabgeordneten hinsichtlich der Höhe und des Bezugsbeginns an die Regelungen der Deutschen Rentenversicherung angeglichen.
 
 ## Abschaffung der Sondervorabbesteuerung von Prostituierten
 
-Die Piratenpartei setzt sich für die Abschaffung der Sondervorabbesteuerung von Prostituierten ein, die die Hessische Landesregierung nach dem sogenannten "Düsseldorfer Verfahren" seit 15.9.2008 praktiziert.
+Die Piratenpartei setzt sich für die Abschaffung der Sondervorabbesteuerung von Prostituierten ein, die die Hessische Landesregierung nach dem sogenannten "Düsseldorfer Verfahren" seit 15.09.2008 praktiziert.
 
-Demnach muss ausschließlich die betroffene Berufsgruppe pro Tag einen Pauschalbetrag von 25€ an den jeweiligen Bordellbetreiber abführen, den dieser dann vierteljährlich an das jeweils zuständige Finanzamt zu entrichtet hat. Das Verfahren ist diskriminierend, widerspricht Datenschutzprinzipien und dem Steuergeheimnis.
+Demnach muss ausschließlich die betroffene Berufsgruppe pro Tag einen Pauschalbetrag von 25 € an den jeweiligen Bordellbetreiber abführen, den dieser dann vierteljährlich an das jeweils zuständige Finanzamt zu entrichten hat. Das Verfahren ist diskriminierend, widerspricht Datenschutzprinzipien und dem Steuergeheimnis.
 
 ## Keine Grabsteine aus ausbeuterischer Kinderarbeit
 
-Die Piratenpartei Hessen setzt sich für die Umsetzung der ILO Konvention 182 gegen die ausbeuterische Kinderarbeit ein.
+Die Piratenpartei Hessen setzt sich für die Umsetzung der ILO (International Labour Organization) Konvention 182 gegen die ausbeuterische Kinderarbeit ein.
 
-So wollen wir, dass auf den Hessischen Friedhöfen ausschließlich Grabsteine verwendet werden dürfen, die nachweislich ohne Kinderarbeit hergestellt wurden. Hierfür sind die dafür nötigen gesetzlichen Regelungen zu schaffen.
+So wollen wir, dass auf den hessischen Friedhöfen ausschließlich Grabsteine verwendet werden dürfen, die nachweislich ohne Kinderarbeit hergestellt wurden. Hierfür sind die nötigen gesetzlichen Regelungen zu schaffen.
 
 # Infrastruktur und öffentliche Gelder
 
@@ -779,7 +785,7 @@ Verträge, die über öffentliche Gelder geschlossen werden, müssen für jeden 
 
 Die Piratenpartei Hessen ist der Ansicht, dass die Privatisierung des Universitätsklinikums Gießen und Marburg (UKGM) nach sechs Jahren privater Trägerschaft als gescheitert zu betrachten ist, da entgegen ursprünglicher Versprechungen einer verbesserten Patientenversorgung sowie besseren Bedingungen für Forschung und Lehre, sich diese massiv verschlechtert haben.
 
-Das Land Hessen soll daher alle Möglichkeiten zur Rückführung des UKGM in Landeseigentum prüfen und die hierfür bestehenden Optionen öffentlich zur Diskussion stellen. Vorrangiges Ziel ist es, die Qualität der Patientenversorgung sowie der Forschung und Lehre wieder sicher zu stellen. Insbesondere soll die Wahrnehmung des einmaligen Sonderrechtes zum Rückkauf des UKGM, im Falle einer Übernahme der Rhön Klinikum AG durch einen anderen privaten Krankenhausbetreiber (z.B. durch den Fresenius-Konzern), geprüft werden.
+Das Land Hessen soll daher alle Möglichkeiten zur Rückführung des UKGM in Landeseigentum prüfen und die hierfür bestehenden Optionen öffentlich zur Diskussion stellen. Vorrangiges Ziel ist es, die Qualität der Patientenversorgung sowie der Forschung und Lehre wieder sicherzustellen. Insbesondere soll die Wahrnehmung des einmaligen Sonderrechtes zum Rückkauf des UKGM, im Falle einer Übernahme der Rhön Klinikum AG durch einen anderen privaten Krankenhausbetreiber (z.B. durch den Fresenius-Konzern), geprüft werden.
 
 Sollte ein Rückkauf des UKGM nicht möglich sein oder einen unverhältnismäßig großen Aufwand bedeuten, so hat das Land Hessen dafür Sorge zu tragen, dass neue vertragliche Maßnahmen zur Gewährleistung der Qualität von Patientenversorgung sowie Forschung und Lehre etabliert werden, um zu verhindern, dass Landesmittel zweckentfremdet verwendet werden.
 
@@ -787,7 +793,7 @@ Ein Universitätsklinikum hat einen wichtigen gesellschaftlichen Versorgungsauft
 
 ## Keine Ökonomisierung des Gesundheitssystems
 
-Die Privatisierung von Klinikbetrieben, die sich in gemeinnütziger Trägerschaft befinden, wird von der Piratenpartei Hessen grundsätzlich abgelehnt. Kommunale Krankenhäuser sollen durch kompetente Führungskräfte gelenkt werden, deren Zielvorgabe neben wirtschaftlichen Belangen auch das Wohl der Patienten und die Zufriedenheit der Mitarbeiter sein muss. Sollen Teilbereiche an private Betreiber übertragen werden, so sind an einen solchen Prozess hohe Anforderungen bezüglich der Qualität der medizinischer Versorgung, der Situation der Belegschaft und der Mitsprache der Bürger zu stellen. Wir beurteilen die Krankenhaus-Verkäufe der Vergangenen Jahre (wie das Uniklinikum Gießen/Marburg und die Horst-Schmidt-Klinken in Wiesbaden) als gescheitert und werden uns für eine baldige Zurückführung in öffentliche Hand einsetzen.
+Die Privatisierung von Klinikbetrieben, die sich in gemeinnütziger Trägerschaft befinden, wird von der Piratenpartei Hessen grundsätzlich abgelehnt. Kommunale Krankenhäuser sollen durch kompetente Führungskräfte gelenkt werden, deren Zielvorgabe neben wirtschaftlichen Belangen auch das Wohl der Patienten und die Zufriedenheit der Mitarbeiter sein muss. Sollen Teilbereiche an private Betreiber übertragen werden, so sind an einen solchen Prozess hohe Anforderungen bezüglich der Qualität der medizinischen Versorgung, der Situation der Belegschaft und der Mitsprache der Bürger zu stellen. Wir beurteilen die Krankenhausverkäufe der vergangenen Jahre (wie das Uniklinikum Gießen/Marburg und die Horst-Schmidt-Klinken in Wiesbaden) als gescheitert und werden uns für eine baldige Zurückführung in öffentliche Hand einsetzen.
 
 Wir setzen uns dafür ein, dass das Land Hessen auf Bundesebene Initiativen für ein gerechtes Gesundheitssystem, welche die finanzielle Ausstattung der Kliniken und Krankenhäuser langfristig sicherstellen, in den Bundesrat und in die Gesundheitskonferenz einbringt.
 
@@ -795,9 +801,9 @@ Wir setzen uns dafür ein, dass das Land Hessen auf Bundesebene Initiativen für
 
 ### Verbesserung der Arbeitsbedingungen
 
-Arbeitsverträge im Pflegeberuf werden aus Kostengründen zum größten Teil nur noch zeitbefristet herausgegeben. In der Konsequenz bedeutet, dass der Pflegepersonalschlüssel (PPR) seit Jahren nicht mehr dem tatsächlichen Pflegebedarf angepasst ist. Mehrarbeit wie auch angeordnete Überstunden sind somit an der Tagesordnung. Die damit einhergehende, permanente Überlastung birgt Gefahren für Patienten, Pflegebedürftige und den Pflegekräften.
+Arbeitsverträge im Pflegeberuf werden aus Kostengründen zum größten Teil nur noch zeitbefristet herausgegeben. In der Konsequenz bedeutet das, dass der Pflegepersonalschlüssel (PPR) seit Jahren nicht mehr dem tatsächlichen Pflegebedarf angepasst ist. Mehrarbeit wie auch angeordnete Überstunden sind somit an der Tagesordnung. Die damit einhergehende, permanente Überlastung birgt Gefahren für Patienten, Pflegebedürftige und Pflegekräfte.
 
-Die PIRATEN Hessen setzen sich daher dafür ein, dass die Landesregierung konkrete Maßnahmen ergreift, um die Arbeitsbedingungen von Pflegekräften und in der Pflege tätigen Menschen zu verbessern um somit nicht nur einer Flucht aus den Gesundheitsberufen sondern auch der permanenten Überbelastung entgegen zu steuern.
+Die PIRATEN Hessen setzen sich daher dafür ein, dass die Landesregierung konkrete Maßnahmen ergreift, um die Arbeitsbedingungen von Pflegekräften und in der Pflege tätigen Menschen zu verbessern, um somit nicht nur einer Flucht aus den Gesundheitsberufen, sondern auch der permanenten Überbelastung entgegen zu steuern.
 
 ### Stärkung der Teilhabe pflegebedürftiger Menschen
 
@@ -813,21 +819,21 @@ Die PIRATEN Hessen setzen sich für eine ausreichende Finanzierung von Pflegelei
 
 ### Fortbildungspflicht in der Pflege
 
-Die PIRATEN Hessen fordern eine Fortbildungsverpflichtung und einen Fortbildungsnachweis von professionell beruflich Pflegenden, um den modernen pflegerischen als auch medizinischen Anforderungen gerecht zu werden. Unser Ziel ist die vertragliche Verpflichtung zu kontinuierlichen Fortbildungen von beruflichen Pflegekräften in ihrem Fachgebiet, die regelmäßig, alle zwei Jahre anhand eines Punktesystem überprüft und abgerufen wird, Im Anschluss wird dies mit einem Zertifikat bestätigt. Die regelmäßige Fortbildung ist vom Arbeitgeber frei zu stellen und als Arbeitszeit anzurechnen.
+Die PIRATEN Hessen fordern eine Fortbildungsverpflichtung und einen Fortbildungsnachweis von professionell beruflich Pflegenden, um den modernen pflegerischen als auch medizinischen Anforderungen gerecht zu werden. Unser Ziel ist die vertragliche Verpflichtung zu kontinuierlichen Fortbildungen von beruflichen Pflegekräften in ihrem Fachgebiet, die regelmäßig, alle zwei Jahre anhand eines Punktesystems überprüft und abgerufen wird. Im Anschluss wird dies mit einem Zertifikat bestätigt. Die regelmäßige Fortbildung ist vom Arbeitgeber freizustellen und als Arbeitszeit anzurechnen.
 
 ### Pflegequalität und Pflegesicherheit
 
 Die PIRATEN Hessen sprechen sich für klare und eindeutige Regeln zum Personaleinsatz in Krankenhäusern und Pflegeeinrichtungen der Langzeitversorgung aus. Dabei ist die Anzahl an Patienten pro Pflegekraft durch ein Fachgremium des Bundes oder Landes festzulegen. Anhand des Fortbildungsnachweises kann auf die Qualifizierung der Pflegekräfte geschlossen werden.
 
-Zusätzlich ist je nach Bereich festzulegen, wie viele Hilfskräfte im Verhältnis zu den Pflegekräften einzusetzen sind. In besonderen Bereichen (z.B. Intensivstationen) ist dies an die Belastung der jeweiligen Abteilung anzupassen (siehe DIVI).
+Zusätzlich ist je nach Bereich festzulegen, wie viele Hilfskräfte im Verhältnis zu den Pflegekräften einzusetzen sind. In besonderen Bereichen (z.B. Intensivstationen) ist dies an die Belastung der jeweiligen Abteilung entsprechend der Deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin (DIVI) anzupassen.
 
 ## Erste Hilfe
 
-Die PIRATEN Hessen setzen sich dafür ein, dass ein auf Klassenstufen und Alter angepasstes Programm zur Förderung von Ersthelfermaßnahmen in allgemein- und weiterbildenden Schulen ausgearbeitet, eingeführt und regelmäßig durchgeführt wird. Dieses orientiert sich inhaltlich an den aktuellen Leitlinien der BAGEH (Bundes Arbeitsgemeinschaft für Erste Hilfe).
+Die PIRATEN Hessen setzen sich dafür ein, dass ein auf Klassenstufen und Alter angepasstes Programm zur Förderung von Ersthelfermaßnahmen in allgemein- und weiterbildenden Schulen ausgearbeitet, eingeführt und regelmäßig durchgeführt wird. Dieses orientiert sich inhaltlich an den aktuellen Leitlinien der BAGEH (Bundesarbeitsgemeinschaft Erste Hilfe).
 
 Erste Hilfe soll in die Schulprogramme für Schüler ab der 5. Klasse freiwillig und ab der 7. Klasse verpflichtend, zum Beispiel im Rahmen von jährlichen Projekttagen oder anderen regelmäßigen Aktionen an Schulen aufgenommen und angeboten werden. Kindergarten- und Grundschulkinder sollen in jeweils angepasster Weise an angemessenes Verhalten in Notfallsituationen herangeführt werden.
 
-Darüber hinaus setzt sich die Piratenpartei für die Einrichtung und Förderung von Schulsanitätsdiensten ein, die auf freiwilliger Basis beruhen und das Verantwortungsbewusstsein der Schüler fördern sollen. Hierfür sollen Lehrer/-innen, Eltern, oder andere mit der Schule verbundene Menschen, eine Ausbildung zum Erste Hilfe Ausbilder absolvieren um den Schülern die notwendigen Kenntnisse zu vermitteln und diese fortwährend aufzufrischen.
+Darüber hinaus setzt sich die Piratenpartei für die Einrichtung und Förderung von Schulsanitätsdiensten ein, die auf freiwilliger Basis beruhen und das Verantwortungsbewusstsein der Schüler fördern sollen. Hierfür sollen Lehrer/-innen, Eltern oder andere mit der Schule verbundene Menschen eine Ausbildung zum Erste Hilfe-Ausbilder absolvieren, um den Schülern die notwendigen Kenntnisse zu vermitteln und diese fortwährend aufzufrischen.
 
 ## Gesundheitliche Aufklärung
 
@@ -855,23 +861,23 @@ Die PIRATEN Hessen setzen sich für eine zeitnahe Umsetzung der UN-Konvention ü
 
 ##  Barrierefreies Notrufsystem
 
-Die Piratenpartei Hessen setzt sich für die zeitnahe Einführung eines flächendeckenden barrierefreien Notruf- und Informationssystem per Mobilfunk ein.
+Die Piratenpartei Hessen setzt sich für die zeitnahe Einführung eines flächendeckenden barrierefreien Notruf- und Informationssystems per Mobilfunk ein.
 
 ## Barrierefreiheit beim Hessischen Rundfunk
 
-Die Piratenpartei Deutschland, Landesverband Hessen, setzt sich für die deutliche Erhöhung der Untertitelung im Programm des Hessischen Rundfunks ein. Desweiteren wird auf echte 1:1 Untertitelung geachtet, ohne Verkürzungen. In allen Sendungen, mit Ausnahme von Spielfilmen, wird ein Gebärdensprachdolmetscher zusätzlich zum Angebot der Untertitel in ausreichender Größe eingeblendet. Nach technischer Möglichkeit optional ausblendbar durch den einzelnen Zuschauer. Die Einblendung von Gebärdensprachdolmetschern beginnt mit der Sendung "hessenschau" und wird kontinuierlich, wie bei den Untertiteln, ausgebaut. Dem Hessischen Rundfunk sind für die Umsetzung genug Personal und finanzielle Mittel aus den GEZ Gebühreneinnahmen zur Verfügung zu stellen.
+Die Piratenpartei Deutschland, Landesverband Hessen, setzt sich für die deutliche Erhöhung der Untertitelung im Programm des Hessischen Rundfunks ein. Des weiteren wird auf echte 1:1 Untertitelung geachtet, ohne Verkürzungen. In allen Sendungen, mit Ausnahme von Spielfilmen, wird ein Gebärdensprachdolmetscher zusätzlich zum Angebot der Untertitel in ausreichender Größe eingeblendet. Nach technischer Möglichkeit optional ausblendbar durch den einzelnen Zuschauer. Die Einblendung von Gebärdensprachdolmetschern beginnt mit der Sendung "hessenschau" und wird kontinuierlich, wie bei den Untertiteln, ausgebaut. Dem Hessischen Rundfunk sind für die Umsetzung genug Personal und finanzielle Mittel aus den GEZ-Gebühreneinnahmen zur Verfügung zu stellen.
 
-Nach § 3 Abs. 2 Rundfunkstaatsvertrag sollen Kommunikationsbehinderte (Gehörlose, Schwerhörige, Sehbehinderte und Blinde) ab 2013 Runkfunkgebühren bezahlen. Demnach sollen diese Gruppe der Schwerbehinderten ein Drittel der monatlichen Gebühr (also rund sechs Euro pro Monat) bezahlen. Bislang waren Schwerhörige, Ertaubte und Gehörlose von der Gebühr befreit.
+Nach § 3 Abs. 2 Rundfunkstaatsvertrag sollen Kommunikationsbehinderte (Gehörlose, Schwerhörige, Sehbehinderte und Blinde) ab 2013 Rundfunkgebühren bezahlen. Demnach soll diese Gruppe der Schwerbehinderten ein Drittel der monatlichen Gebühr (also rund sechs Euro pro Monat) bezahlen. Bislang waren Schwerhörige, Ertaubte und Gehörlose von der Gebühr befreit.
 
 Doch bei nur ca. 15% der Sendungen im deutschsprachigen Fernsehen werden Untertitel eingesetzt, wobei hier der grösste Prozentsatz von den öffentlichen Sendern stammt. Was den Einsatz von Gebärdensprachdolmetschern anbelangt so werden fast keine Sendungen gedolmetscht.
 
-Daher sollte die Gruppe der Kommunikationsbehinderten solange keine GEZ-Gebühren zahlen müssen bis alle Haupsendungen wie Nachrichten und Informationssendungen zu 100% untertitelt sind.
+Daher sollte die Gruppe der Kommunikationsbehinderten solange keine GEZ-Gebühren zahlen müssen, bis alle Haupsendungen wie Nachrichten und Informationssendungen zu 100% untertitelt sind.
 
 # Breitbandausbau
 
 Das 21. Jahrhundert ist geprägt durch das Internet. Seit dem Buchdruck ist dieses weltweite Netzwerk eine der bedeutendsten Erfindungen. Jedem ist es dadurch möglich, eigene Inhalte weltweit zu publizieren, was bisher den Kirchen, dem Staat, den Verlagen oder den Medienkonzernen vorbehalten war. Außerdem sind viele gesellschaftliche Bereiche ohne das Internet nur noch schwer vorstellbar, dies gilt für Bürger und Firmen gleichermaßen. Beispielhaft seien hier nur E-Mails, Online-Einkäufe, Bewerbungen, Wohnungssuche, Bildung, Kultur, Spiele, soziale Netzwerke, aber auch Politik und Informationen zu Wahlen genannt. Die gesamte digitale Beteiligung, gerade am interaktiven sogenannten Web 2.0, ist allerdings erst mit Flatrate-Tarifen und schnellen Internetzugängen im vollen Umfang sinnvoll nutzbar. In der Arbeitswelt ergeben sich durch Breitband-Anschlüsse neue familiäre und ökologische Perspektiven, wie zum Beispiel die nun realisierbare Telearbeit von zu Hause aus.
 
-Firmen haben beim Breitbandausbau allerdings höhere Anforderungen an ihre Internet-Zugänge. Diese müssen in beide Richtungen, für das Empfangen und das Senden, ausreichend schnell sein. Insbesondere für den Austausch großer Datenmengen, E-Mail-Verkehr, Telefonkonferenzen bis hin zur Telearbeit und Anbindung von freien Mitarbeitern. Fehlende Breitband-Zugänge werden für Städte und Gemeinden zunehmenden zum Standort-Nachteil, den es zu beheben gilt. Die Piraten Hessen lehnen pauschale Forderungen nach definierten Geschwindigkeiten und Technologien beim Breitbandausbau ab. Versorgungslücken müssen geschlossen werden, in Städten wie auch im ländlichen Raum. Bürger und Firmen müssen ein großes Angebot im Wettbewerb vorfinden. Die Piraten Hessen fordern und fördern kreative Lösungen, sowohl von Firmen als auch von Kommunen oder Einzelpersonen.
+Firmen haben beim Breitbandausbau allerdings höhere Anforderungen an ihre Internet-Zugänge. Diese müssen in beide Richtungen, für das Empfangen und das Senden, ausreichend schnell sein, insbesondere für den Austausch großer Datenmengen, E-Mail-Verkehr, Telefonkonferenzen bis hin zur Telearbeit und Anbindung von freien Mitarbeitern. Fehlende Breitband-Zugänge werden für Städte und Gemeinden zunehmend zum Standort-Nachteil, den es zu beheben gilt. Die Piraten Hessen lehnen pauschale Forderungen nach definierten Geschwindigkeiten und Technologien beim Breitbandausbau ab. Versorgungslücken müssen geschlossen werden, in Städten wie auch im ländlichen Raum. Bürger und Firmen müssen ein großes Angebot im Wettbewerb vorfinden. Die Piraten Hessen fordern und fördern kreative Lösungen, sowohl von Firmen als auch von Kommunen oder Einzelpersonen.
 
 Als ersten Schritt in die richtige Richtung sind weitere europäische Markterkundungsverfahren in den restlichen Landkreisen einzuleiten, um ein Marktversagen nachzuweisen. Erst danach darf die öffentliche Hand - aufgrund von gesetzlichen Regelungen - geschäftlich tätig werden, um eine Breitbandversorgung nach dem Modell der Landkreise Odenwald oder Main-Kinzig mit einer Landesbürgschaft anzugehen. Wünschenswert ist dabei auch eine Beteiligung der Bürger zum Beispiel in Form von Bürgergesellschaften - als modernes Pendant einer Genossenschaft.
 
@@ -885,25 +891,25 @@ Der Ausbau von kabelgebundenen Netzen geht für uns mit der von Mobilfunknetzen 
 
 ## Transparenz
 
-Die öffentlichen Projekte zum Breitbandausbau müssen stets transparent durchgeführt werden und die Möglichkeit für jeden Bürger offen halten neue Ideen und Vorschläge einzubringen. Insbesondere sind alle Studien, Projekte und Verträge die den Breitbandausbau betreffen offen zu legen.
+Die öffentlichen Projekte zum Breitbandausbau müssen stets transparent durchgeführt werden und die Möglichkeit für jeden Bürger offen halten, neue Ideen und Vorschläge einzubringen. Insbesondere sind alle Studien, Projekte und Verträge die den Breitbandausbau betreffen, offen zu legen.
 
 # Monopole
 
 ## Lockerung Branntweinmonopol
 
-Die Piratenpartei Hessen setzt sich für eine Lockerung des Branntweinmonopols ein, die über die aktuellen, auf Drängen der EU umgesetzen, Änderungen hinausgeht. Ebenfalls setzt sie sich für eine Freigabe aller privaten Destillieranlage mit Brennkesseln von bis zu 5 Liter Volumen ein. Weiterhin soll die Herstellung ätherischer Öle in Dampfdestillationsanlagen mit einem Kesselvolumen von bis zu 100 Litern auch für Privatpersonen unbürokratisch möglich sein. Privatperson sollen auch deutlich größere gewerbliche Anlagen besitzen und benutzen zu dürfen, hierfür ist eine Anmeldung beim Zoll erforderlich.
+Die Piratenpartei Hessen setzt sich für eine Lockerung des Branntweinmonopols ein, die über die aktuellen, auf Drängen der EU umgesetzten, Änderungen hinausgeht. Ebenfalls setzt sie sich für eine Freigabe aller privaten Destillieranlagen mit Brennkesseln von bis zu 5 Liter Volumen ein. Weiterhin soll die Herstellung ätherischer Öle in Dampfdestillationsanlagen mit einem Kesselvolumen von bis zu 100 Litern auch für Privatpersonen unbürokratisch möglich sein. Privatpersonen sollen auch deutlich größere gewerbliche Anlagen besitzen und benutzen dürfen, hierfür ist eine Anmeldung beim Zoll erforderlich.
 
 Das Verbot, Anleitungen zum Bau von Destillationsanlagen sowie zum Destilliervorgang zugänglich zu machen, muss schnellstmöglich aufgehoben werden. Seine Realitätsferne beweist sich auch darin, dass das entsprechende Wissen im Rahmen des Chemieunterrichts ohnehin vermittelt wird.
 
-Ebenso setzen sich die PIRATEN dafür ein, Schnapsbrennseminare zu legalisieren, Zeitschriftenartikel über das Destillieren veröffentlichen zu dürfen, Anleitungsfilme verbreiten zu dürfen sowie zu Vorführungszwecken öffentlich destillieren zu dürfen.
+Ebenso setzen sich die PIRATEN dafür ein, Schnapsbrennseminare zu legalisieren und Zeitschriftenartikel über das Destillieren veröffentlichen, Anleitungsfilme verbreiten sowie zu Vorführungszwecken öffentlich destillieren zu dürfen.
 
 # Kulturpolitik
 
 Kultur ist Identität: alles, über das Individuen, Gemeinschaften und die gesamte Gesellschaft sich ihrer selbst versichern, Werte klären und entwickeln, ihre Kreativität ausprobieren und ausleben – all das, was über funktionale Lösungen für praktische Aufgaben hinausgeht. Dazu gehören die freien Künste ebenso wie Brauchtümer, die Gestaltung des Lebensumfeldes ebenso wie Philosophie.
 
-Kultur ist ein elementares Bedürfnis des Menschen, und ein vielfältiges Kulturleben ist das Aushängeschild einer freien Gesellschaft. Wir Piraten möchten ausdrücklich keinen Kulturbegriff vorgeben, sondern für eine Atmosphäre stehen, in der Kreativität, Alternativen und neue Ideen wachsen können. Keine Kulturform ist mehr oder weniger wert als eine andere; herkömmliche Kategorien wie Hochkultur, Subkultur oder Soziokultur lehnen wir ab. Kultur ist um ihrer selbst willen wichtig – und nicht, weil sie für irgendetwas anderes gut ist, wie zum Beispiel für Tourismus, der Schaffung von Arbeitsplätzen oder als Statussymbol.
+Kultur ist ein elementares Bedürfnis des Menschen, und ein vielfältiges Kulturleben ist das Aushängeschild einer freien Gesellschaft. Wir Piraten möchten ausdrücklich keinen Kulturbegriff vorgeben, sondern für eine Atmosphäre stehen, in der Kreativität, Alternativen und neue Ideen wachsen können. Keine Kulturform ist mehr oder weniger wert als eine andere; herkömmliche Kategorien wie Hochkultur, Subkultur oder Soziokultur lehnen wir ab. Kultur ist um ihrer selbst willen wichtig – und nicht, weil sie für irgendetwas anderes gut ist, wie zum Beispiel für Tourismus, Schaffung von Arbeitsplätzen oder als Statussymbol.
 
-Im Grunde war es die Kultur selbst, die den Anstoss zur Gründung der Piratenparteien auf der ganzen Welt gab. In Zeiten grundlegender kultureller Veränderung ist die Piratenpartei Speerspitze der Entwicklung. Wir treten für eine offene, vernetzte und für alle Menschen zugängliche Kultur ein.
+Im Grunde war es die Kultur selbst, die den Anstoß zur Gründung der Piratenparteien auf der ganzen Welt gab. In Zeiten grundlegender kultureller Veränderung ist die Piratenpartei Speerspitze der Entwicklung. Wir treten für eine offene, vernetzte und für alle Menschen zugängliche Kultur ein.
 
 ## Kultur als Pflichtaufgabe der Kommunen
 
@@ -911,12 +917,11 @@ Wir Piraten setzen uns dafür ein, dass die Förderung des kulturellen Lebens in
 
 ## Kultur in der Breite stärken
 
-Die Piratenpartei Hessen setzt sich dafür ein, dass das hessische Kulturleben in der Breite deutlich gestärkt wird. Die Möglichkeit zur Teilhabe aller an kulturellen Aktivitäten ist ein wichtiges Ziel für uns. Die aktuelle Kulturförderung in Hessen konzentriert sich sehr auf die etablierten, großen Institutionen und vernachlässigt die "Kultur für alle" – besonders im Vergleich zu anderen Bundesländern, denen gegenüber Hessen schon allgemein eine niedrige Kulturförderquote hat. Eine notwendige Erhöhung dieser Quote soll dabei vor allem der Sicherung und Unterstützung einer dynamischen Szene freier Kulturakteure ebenso wie der kulturellen Bildung zugute kommen.
+Die Piratenpartei Hessen setzt sich dafür ein, dass das hessische Kulturleben in der Breite deutlich gestärkt wird. Die Möglichkeit zur Teilhabe aller an kulturellen Aktivitäten ist ein wichtiges Ziel für uns. Die aktuelle Kulturförderung in Hessen konzentriert sich sehr auf die etablierten, großen Institutionen und vernachlässigt die "Kultur für alle" – besonders im Vergleich zu anderen Bundesländern, denen gegenüber Hessen schon allgemein eine niedrige Kulturförderquote hat. Eine notwendige Erhöhung dieser Quote soll dabei vor allem der Sicherung und Unterstützung einer dynamischen Szene freier Kulturakteure ebenso wie der kulturellen Bildung zugutekommen.
 
 ## Zugänglichkeit von Kultur – "Kulturtage" für alle
 
-Die Piratenpartei Hessen setzt sich dafür ein, dass Kultureinrichtungen, die der öffentlichen Hand gehören oder durch sie kontrolliert werden, mindestens teilweise ohne Eintritt zugänglich sind. Kultur muss für jeden Bürger erreichbar sein, unabhängig von seinem sozialen oder finanziellen Status.
-Es soll dafür regelmäßig "Kulturtage" geben – zum Beispiel einmal pro Woche –, an denen der Zugang zu Museen, Ausstellungen, Theatern und allen anderen Orten der öffentlichen Präsentation von Kultur freien Eintritt ohne Einschränkungen gewähren. Dies ermöglicht allen Bürgern die von uns geforderte Teilhabe an Kultur.
+Die Piratenpartei Hessen setzt sich dafür ein, dass Kultureinrichtungen, die der öffentlichen Hand gehören oder durch sie kontrolliert werden, mindestens teilweise ohne Eintritt zugänglich sind. Kultur muss für jeden Bürger erreichbar sein, unabhängig von seinem sozialen oder finanziellen Status. Es soll dafür regelmäßig "Kulturtage" geben – zum Beispiel einmal pro Woche –, an denen der Zugang zu Museen, Ausstellungen, Theatern und allen anderen Orten der öffentlichen Präsentation von Kultur bei freiem Eintritt ohne Einschränkungen gewährt wird. Dies ermöglicht allen Bürgern die von uns geforderte Teilhabe an Kultur.
 
 ## Transparenz und Entbürokratisierung bei Förderungen
 
@@ -942,7 +947,7 @@ In den Beständen sollen bestehende Projekte zur Digitalisierung vorangetrieben 
 
 Die regionale Filmförderung ist weiter auszubauen, mit besonderen Akzenten auf digitaler Filmproduktion, Dokumentarfilmen und Nachwuchsförderung. Programmkinos müssen ebenso gefördert und in ihrer Existenz gesichert werden wie Theater.
 
-Wer Mittel der Hessische Filmförderung beantragt, verpflichtet sich, bei erfolgter Bewilligung der Förderung, sein Werk 5 Jahre nach der ersten kommerziellen Veröffentlichung unter der Creative Commons Lizenz "Nichtkommerziell mit Namensnennung" (CC-NC-BY) freizugeben.
+Wer Mittel der Hessischen Filmförderung beantragt, verpflichtet sich, bei erfolgter Bewilligung der Förderung, sein Werk 5 Jahre nach der ersten kommerziellen Veröffentlichung unter der Creative Commons Lizenz "Nichtkommerziell mit Namensnennung" (CC-NC-BY) freizugeben.
 
 ## Reform der Theaterförderung in Hessen
 
@@ -952,7 +957,7 @@ Die Piratenpartei Hessen setzt sich für eine grundlegende Reform der hessischen
 
 Die Piratenpartei Hessen setzt sich für eine grundlegende Reform des Denkmalschutzes in Hessen ein. Die Aufnahme und das Halten von Gebäuden und Teilen davon in Denkmallisten oder Denkmalbüchern ist viel mehr als bisher in Bezug auf ihre Repräsentativität und Seltenheit im größeren regionalen Zusammenhang zu bestimmen. Zudem soll der Erhalt eines unbeeinträchtigten größeren Gesamtbildes (Ensemble, Straßenbild) bzw. die Stellung eines Objektes in einem solchen ein viel größeres Gewicht für die Einstufung einzelner Objekte haben.
 
-Eine Streichung aus Denkmallisten oder -büchern soll nach diesen Kriterien deutlich erleichtert werden. Im Gegenzug sollen für die verbleibenden Objekte alle aufgrund des Denkmal-Status' anfallenden Mehrkosten von der öffentlichen Hand übernommen werden. Maßnahmen zur Bewahrung der Denkmäler in Fällen von Vernachlässigung sollen früher getroffen werden können und bei entsprechendem Ausgleich für Beeinträchtigungen entschiedener durchgesetzt werden.
+Eine Streichung aus Denkmallisten oder -büchern soll nach diesen Kriterien deutlich erleichtert werden. Im Gegenzug sollen für die verbleibenden Objekte alle aufgrund des Denkmalstatus anfallenden Mehrkosten von der öffentlichen Hand übernommen werden. Maßnahmen zur Bewahrung der Denkmäler in Fällen von Vernachlässigung sollen früher getroffen werden können und bei entsprechendem Ausgleich für Beeinträchtigungen entschiedener durchgesetzt werden.
 
 Die Zugänglichkeit von Denkmälern für die Öffentlichkeit ist zu stärken. Das Fotografieren und Filmen und andere Formen bildlicher Reproduktion durch jedermann sollen grundsätzlich, unentgeltlich und ohne explizite Genehmigungen gestattet und die Nutzung der dabei entstandenen Abbildungen und Reproduktionen für nicht-kommerzielle Zwecke frei möglich sein, sofern dem nicht andere Rechte zwingend entgegenstehen.
 
