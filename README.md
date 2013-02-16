@@ -644,3 +644,7 @@ Als ersten Schritt in die richtige Richtung sind weitere europäische Markterkun
 ## Leerrohre
 
 Wir sehen den Ausbau von Leerrohren als eine Schlüsselinfrastruktur für den Breitbandausbau an. Diese sind eine technologieneutrale und zukunftssichere Investition für eine langfristige Verfügbarkeit an breitbandiger Kommunikationsinfrastruktur.
+
+## Mobilfunknetze
+
+Der Ausbau von kabelgebundenen Netzen geht für uns mit der von Mobilfunknetzen Hand in Hand. Durch die flächendeckende Verfügbarkeit an kabelgebunden Breitbandanbindungen können kostengünstig engmaschige Funknetze errichtet werden, die mit dem steigenden Bedarf nach mobilen Internetzugängen Schritt halten können.
