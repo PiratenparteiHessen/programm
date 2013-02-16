@@ -392,6 +392,64 @@ Nachhaltigkeit wird in einer Welt der Ressourcenknappheit immer wichtiger. Dazu 
 
 Die Ausweisung von Vorrangflächen zur Windkraftnutzung soll deswegen in enger Abstimmung mit den Kommunen und Kreisen erfolgen, zudem soll der Planungs- und Handlungsspielraum der Kommunen möglichst wenig eingeschränkt werden. Die Piratenpartei Hessen spricht sich deshalb dafür aus, den Bau von Windkraftanlagen auch außerhalb von Windvorranggebieten zu ermöglichen.
 
+## Verkehrslärm
+
+Durch die allgemeine Verkehrszunahme entwickelt sich der daraus resultierende Lärm immer mehr zu einem gesellschaftlichen Problem. Dies führt sogar dazu, dass der vielfältige technische Fortschritt im Bereich der Lärmreduzierung teilweise aufgehoben wird.
+
+Zum Schutz der Bürger braucht es verbindliche und praxisnahe Lärmobergrenzen, die wissenschaftlich fundiert zu ermitteln sind.
+
+Zusätzlich muss der Schutz der Nachtruhe von 22 bis 6 Uhr gewährleistet sein und in den dazugehörigen Randstunden Lärm vermieden oder reduziert werden.
+
+Durch den föderalistischen Aufbau Deutschlands, ist nicht jedes der vor Ort entstehenden Probleme alleine auf Landes- oder Kommunalebene zu lösen, sondern muss teilweise mit Bund oder gar mit der Europäischen Union zusammen angegangen werden.
+
+### Analyse
+
+Um ein umfassendes Bild der Lärmbelästigung zu bekommen, braucht es ein Netz an geprüften Messstationen entlang der wichtigsten Straßen-, Schienen- und Flugrouten.
+
+Das aufzubauende Messnetzwerk ist auch für Bürger zu öffnen, um nicht geprüfte Messdaten ebenfalls zentral verfügbar und verarbeitbar zu machen.
+
+Alle Daten sind in einem OpenData-Portal in Echtzeit zur Verfügung zu stellen und mit Daten des Straßen-, Schienen- und Flugverkehrs zu ergänzen, um Ursache und Wirkung transparent darstellen zu können.
+
+### Straßenlärm
+
+Neben der Prüfung von weiteren Schallschutzeinhausungen bietet die digitale Verkehrsleittechnik Möglichkeiten, um intelligent und bedarfsgerecht Tempolimits zur Lärmreduktion zu schalten.
+
+Darüber hinaus können neue Solarlärmschutzwände auch noch einen Beitrag zur Energiewende leisten.
+
+### Schienenlärm
+
+Gerade im Rhein- und Kinzigtal sind die Belastungen besonders hoch. Neue Trassen, um dem Güterverkehr eine freie Durchfahrt zu ermöglichen, sind noch weit entfernt von einer Realisierung.
+
+Ein nächtliches Tempolimit bei gleichzeitiger freier Fahrt, um unnötiges Bremsen zu vermeiden, stellt die einfachste Abhilfe dar.
+
+Eine weitere Entlastung verspricht der Austausch der alten Graugussklotzbremsen durch leisere Kunststoffbremsen, wie es in der Schweiz beispielsweise schon Standard ist.
+
+Um die Fahrtgeräusche zu reduzieren ist der Einsatz von niedrigen, aber gleisnahen Schallschutzwänden zu prüfen. Je näher sie am Gleis stehen, desto besser reduzieren sie denn Schall. Obendrein versperren sie nicht die Sicht.
+
+### Fluglärm
+
+Die vom Rhein-Main-Flughafen entfernteren Gebiete können nach einer Studie des Main-Kinzig-Kreise mittels den folgenden drei Maßnahmen sofort entlastet werden:
+
+* Anheben der Anflughöhe um 1000 Fuß (300m)
+* Einführen des kontinuierlichen Sinkflugverfahrens (CDA) bis zum Endanflugpunktes des Leitstrahles (ILS)
+* Sammeln der Flugzeuge in großer Höhe nach dem Point-Merge-Verfahren anstatt der jetzigen geflogenen Trombonen mit Vollschub in niedriger Höhe
+
+Die derzeitige gerichtlich bestätigte Nachtflugbeschränkung, ein Verbot von regulären Starts und Landungen, ist von 23 bis 5 Uhr auf 22 bis 6 Uhr auszuweiten und der Flugverkehr in den Randstunden mittels eines Mediationsverfahrens zu reduzieren.
+
+Politische Lösungen für den Endanflug gestalten sich im Spannungsfeld zwischen betroffenen Bürgern und wirtschaftlicher Bedeutung des Flughafens als sehr schwierig. Deswegen schlagen wir Piraten Hessen vor, die folgenden strittigen Punkte jeweils über einen überregionalen Bürgerentscheid, der vom Lärm betroffenen Kreise und kreisfreien Städte, abstimmen zu lassen:
+
+* Deckelung der Flugbewegungen
+* Schließung der Nordwest-Landebahn
+* Weiterer Ausbau des Flughafens (Stichwort Atlantavariante)
+
+Zusätzliche Maßnahmen, wie eine Ausdifferenzierung der lärmbedingten Landegebühren und entsprechende Landebahnzuweisungen sind zu prüfen.
+
+Auch die Simulation eines vollständig computergestützen GPS-Endanflugs (Segmented RNAV) im Parallelbetrieb der Südbahnen und der Nordwestlandebahn kann helfen eine Entlastung unterhalb des Leitstrahls zu ermöglichen.
+
+### Forschung
+
+Die Antischallforschung ist als noch recht neuer Bereich zu fördern. Auf diesem Gebiet sind noch praxistaugliche Ergebnisse zu erwarten, um auch den Betroffenen helfen zu können, wo es derzeit keine technischen Lösungen mehr gibt.
+
 ##  Fracking
 
 Der Landesverband Hessen der Piratenpartei Deutschland lehnt Hydraulic Fracturing, auch Fracking genannt, als Gasfördermethode ab. Durch diese Methode werden Boden und Grundwasser großen Risiken für uns und die zukünftigen Generationen ausgesetzt. Das Einbringen zahlreicher, zum Teil hochtoxischer Stoffe mit unkontrollierter Ausbreitung ist abzulehnen. Daher setzen wir uns für ein Verbot von Fracking im Bund und der EU ein. Um den Energiebedarf zu decken, setzen wir statt dessen auf Effizienzverbesserungen, Einsparungen und Generative Energien mit modernen Speichertechniken zum Ausgleich von Fluktuationen bei Energieproduktion und -Verbrauch.
