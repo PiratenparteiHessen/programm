@@ -788,6 +788,36 @@ Die Privatisierung von Klinikbetrieben, die sich in gemeinnütziger Trägerschaf
 
 Wir setzen uns dafür ein, dass das Land Hessen auf Bundesebene Initiativen für ein gerechtes Gesundheitssystem, welche die finanzielle Ausstattung der Kliniken und Krankenhäuser langfristig sicherstellen, in den Bundesrat und in die Gesundheitskonferenz einbringt.
 
+## Gesundheits-, Kranken- und Altenpflege
+
+### Verbesserung der Arbeitsbedingungen
+
+Arbeitsverträge im Pflegeberuf werden aus Kostengründen zum größten Teil nur noch zeitbefristet herausgegeben. In der Konsequenz bedeutet, dass der Pflegepersonalschlüssel (PPR) seit Jahren nicht mehr dem tatsächlichen Pflegebedarf angepasst ist. Mehrarbeit wie auch angeordnete Überstunden sind somit an der Tagesordnung. Die damit einhergehende, permanente Überlastung birgt Gefahren für Patienten, Pflegebedürftige und den Pflegekräften.
+
+Die PIRATEN Hessen setzen sich daher dafür ein, dass die Landesregierung konkrete Maßnahmen ergreift, um die Arbeitsbedingungen von Pflegekräften und in der Pflege tätigen Menschen zu verbessern um somit nicht nur einer Flucht aus den Gesundheitsberufen sondern auch der permanenten Überbelastung entgegen zu steuern.
+
+### Stärkung der Teilhabe pflegebedürftiger Menschen
+
+Die PIRATEN Hessen setzen sich für die größtmögliche gesellschaftliche Teilhabe aller Menschen in unserem Land ein. Deshalb sehen wir auch die Notwendigkeit einer Stärkung und eines Ausbaus der pflegerischen Versorgung in unserer Gesellschaft mit dem Ziel, die Möglichkeiten älterer und körperlich oder geistig eingeschränkter Menschen zur Teilnahme am gesellschaftlichen Leben zu verbessern.
+
+Wir setzen uns ein für eine kreative Entwicklung neuer Versorgungs- und Betreuungsformen, die über die klassischen Formen der häuslichen Pflege oder Heimpflege hinausgehen und die Erreichung des oben genannten Zieles fördern. Dazu befürworten wir die Entwicklung von lokalen und kommunalen "Pflegeentwicklungskonzepten" unter Einbeziehung betroffener Patienten und Angehöriger sowie der ansässigen Pflegedienste und Einrichtungen.
+
+Auf Landesebene setzt sich die Piratenpartei dafür ein, dass das Land Hessen auf Bundesebene die Finanzierung solcher neuer Pflegekonzepte durch die Regelungen des SGB XI über die Gesundheitsministerkonferenz und den Bundesrat einbringt.
+
+### Finanzierung von Pflege
+
+Die PIRATEN Hessen setzen sich für eine ausreichende Finanzierung von Pflegeleistungen ein. Diese ist so zu gestalten, dass in Pflegeeinrichtungen sowie in der häuslichen Pflege genügend qualifiziertes Pflegepersonal eingesetzt werden kann, um den Ansprüchen pflegebedürftiger Menschen gerecht zu werden. Dazu wollen wir eine gesellschaftliche Debatte anstoßen, um langfristig tragbare und ausreichende Finanzierungskonzepte zu entwickeln.
+
+### Fortbildungspflicht in der Pflege
+
+Die PIRATEN Hessen fordern eine Fortbildungsverpflichtung und einen Fortbildungsnachweis von professionell beruflich Pflegenden, um den modernen pflegerischen als auch medizinischen Anforderungen gerecht zu werden. Unser Ziel ist die vertragliche Verpflichtung zu kontinuierlichen Fortbildungen von beruflichen Pflegekräften in ihrem Fachgebiet, die regelmäßig, alle zwei Jahre anhand eines Punktesystem überprüft und abgerufen wird, Im Anschluss wird dies mit einem Zertifikat bestätigt. Die regelmäßige Fortbildung ist vom Arbeitgeber frei zu stellen und als Arbeitszeit anzurechnen.
+
+### Pflegequalität und Pflegesicherheit
+
+Die PIRATEN Hessen sprechen sich für klare und eindeutige Regeln zum Personaleinsatz in Krankenhäusern und Pflegeeinrichtungen der Langzeitversorgung aus. Dabei ist die Anzahl an Patienten pro Pflegekraft durch ein Fachgremium des Bundes oder Landes festzulegen. Anhand des Fortbildungsnachweises kann auf die Qualifizierung der Pflegekräfte geschlossen werden.
+
+Zusätzlich ist je nach Bereich festzulegen, wie viele Hilfskräfte im Verhältnis zu den Pflegekräften einzusetzen sind. In besonderen Bereichen (z.B. Intensivstationen) ist dies an die Belastung der jeweiligen Abteilung anzupassen (siehe DIVI).
+
 # Integration und Inklusion
 
 ## Umsetzung der UN-Behindertenrechtskonvention
