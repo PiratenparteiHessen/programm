@@ -652,6 +652,10 @@ Die Piratenpartei Hessen setzt sich dafür ein, dass Jobcenter und Optionskommun
 
 Die Piratenpartei Hessen setzt sich für ein landesweit gültiges "Soziales Hessenticket" für den ÖPNV ein. Dieses Ticket soll für alle Menschen mit geringem Einkommen – auch für von Armut betroffene Kinder und Jugendliche – erhältlich sein. Unterste Bemessungsgrundlage soll der Betrag der jeweils aktuellen lokalen Armutsgrenze sein. Der Preis des Tickets muss unter dem im ALG II-Regelsatz vorgesehenen Betrag für Mobilität bleiben. Das Soziale Hessenticket soll bis zur Ablösung durch ein umlagenfinanziertes System bestehen.
 
+## Kulturticket
+
+Die Piratenpartei Hessen setzt sich für die Einführung eines hessenweit gültigen Kulturtickets ein, das Menschen mit geringem Einkommen kostenfreien Zugang zu allen Kultureinrichtungen der öffentlichen Hand ermöglicht. Dieses Ticket sollen für alle Menschen mit geringem Einkommen automatisch und ohne eigene Beantragung erhalten. Als Bemessungsgrundlage soll der Betrag der jeweils aktuellen Armutsgrenze gelten.
+
 ## Sozialberichte
 
 Die Piratenpartei Hessen setzt sich dafür ein, dass alle Kreise und alle Kommunen mit mehr als 20.000 Einwohnern regelmäßig eine eigene Sozialplanung und Sozialberichte veröffentlichen müssen. Diese müssen durch neutrale Instanzen erstellt werden und sollen – landesweit einheitlich – Daten zu allen sozialpolitisch relevanten Bevölkerungsgruppen sowie bezifferte Zielsetzungen für die folgenden Jahre enthalten.
