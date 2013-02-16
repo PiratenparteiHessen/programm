@@ -616,6 +616,10 @@ Die reflexartige Verbotshaltung und die Bevormundung der Verbraucher durch einze
 
 Um auf die Suchtgefahr bei bestimmten Medikamenten aufmerksam zu machen, müssen die Pharmahersteller in die Pflicht genommen werden. Wie bei Zigaretten üblich, sollten vereinheitlichte Warnhinweise auf die Medikamentenverpackungen aufgedruckt werden. Aus diesen muss hervorgehen, dass es sich bei dem Medikament um eine Arznei handelt, die ein Suchtrisiko birgt. Diese Warnhinweise sollen Patienten sensibilisieren und auf die Gefahr einer Sucht hinweisen. Der Grund: Die oft sehr versteckt in der Packungsbeilage beschriebenen Hinweise werden allzu leicht nicht wahrgenommen. Darüber hinaus könnte vom Apotheker bei der Ausgabe des Medikamentes ein Informationsblatt zum Thema "Suchtgefahren bei Medikamenten" angeboten werden. Dieses soll ein Angebot mit weiteren Informationen darstellen und Hilfe beim Auffinden von geeigneten Stellen für Hilfesuchende bieten.
 
+## Private Erzeugung von Genussmitteln
+
+Die Piratenpartei Hessen setzt sich für eine vollständige Legalisierung der privaten Erzeugung von Genussmitteln ein. Hierunter fallen zum Beispiel das Destillieren von Alkohol oder das Ziehen weiblicher Hanfpflanzen.
+
 # Trennung von Staat und Kirchen
 
 Die Piraten Hessen bekennen sich zu einem säkularen Staat, in dem die Belange von Staat und Kirchen von einander separiert sind. Dabei ist das Grundrecht auf freie Religionszugehörigkeit sowie die jeweilige Religionsausübung zu achten und zu respektieren.
@@ -825,6 +829,12 @@ Die PIRATEN Hessen setzen sich dafür ein, dass ein auf Klassenstufen und Alter 
 Erste Hilfe soll in die Schulprogramme für Schüler ab der 5. Klasse freiwillig und ab der 7. Klasse verpflichtend, zum Beispiel im Rahmen von jährlichen Projekttagen oder anderen regelmäßigen Aktionen an Schulen aufgenommen und angeboten werden. Kindergarten- und Grundschulkinder sollen in jeweils angepasster Weise an angemessenes Verhalten in Notfallsituationen herangeführt werden.
 
 Darüber hinaus setzt sich die Piratenpartei für die Einrichtung und Förderung von Schulsanitätsdiensten ein, die auf freiwilliger Basis beruhen und das Verantwortungsbewusstsein der Schüler fördern sollen. Hierfür sollen Lehrer/-innen, Eltern, oder andere mit der Schule verbundene Menschen, eine Ausbildung zum Erste Hilfe Ausbilder absolvieren um den Schülern die notwendigen Kenntnisse zu vermitteln und diese fortwährend aufzufrischen.
+
+## Gesundheitliche Aufklärung
+
+Die PIRATEN Hessen setzen sich für eine umfassende gesundheitliche Aufklärung als nächsten Schritt einer sozialen Inklusion von Menschen mit psychischen Störungen ein. Vor allem jene Störungsbilder sollen hier in den Fokus gerückt werden, die häufig von Vorurteilen und Ausgrenzungen betroffen sind und dadurch die Lebensqualität und medizinische Therapie der Betroffenen erheblich beeinträchtigen. Zusätzlich sollen auch die möglichen Behandlungs- und komplementären Hilfsangebote und Einrichtungen in die Aufklärung einbezogen werden, um die Akzeptanz solcher in der Bevölkerung zu stärken und auch die Nutzung der Möglichkeiten gleich ob stationär, teilstationär oder ambulant mit weniger persönlichen Bedenken und Vorbehalten zu ermöglichen. Letztlich steht auch die Aufklärung der Betroffenen selbst in unserem Blickpunkt, vor allem über ihre rechtlichen Ansprüche sowie Hilfsangebote.
+
+Wir sehen die Bundeszentrale für gesundheitliche Aufklärung (BZgA) als geeignete Stelle zur Koordinierung und Organisation der umfassenden Aufklärung. Aber wir sehen hier vor allem die öffentlich-rechtlichen Rundfunkanstalten in der Pflicht, aber auch die privaten Sendeanstalten, Print- und Onlinemedien, ihren gesellschaftlichen Beitrag für eine wirksame gesundheitliche Aufklärung zu leisten. Besonderes Augenmerk sollte dabei auf die Vermittlung der Botschaft liegen, dass Menschen mit psychischen Störungen ein gleichberechtigter Teil der Gesellschaft sind.
 
 # Integration und Inklusion
 
