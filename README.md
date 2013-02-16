@@ -606,6 +606,36 @@ Zu diesem Zweck befürworten wir regelmäßige Kontrollen der tierischen Nahrung
 
 # Sozialpolitik
 
+Wir Piraten verstehen die Gesellschaft als einen Verbund von Menschen, die in gegenseitiger Verantwortung dafür einstehen, dass jedes Mitglied sein Leben in Würde, selbstbestimmt und ohne Angst führen kann. Dazu gehören Chancengleichheit und die Möglichkeit zur Teilhabe am sozialen, politischen und kulturellen Leben ebenso wie die freie Entfaltung des Individuums auch mit ungewöhnlichen Lebenskonzepten.
+
+Die Möglichkeit zur freien Entfaltung, Teilhabe und einem Leben in Würde darf nicht von Bedingungen abhängig sein oder durch den ökonomischen Nutzen des Einzelnen relativiert werden. Wir Piraten wenden uns daher gegen Benachteiligung, Diskriminierung und Ausgrenzung jeder Art, auch solche aus Gründen wirtschaftlicher Leistungsfähigkeit.
+
+Aufgabe staatlicher Gesellschaftspolitik ist es, die Erfüllung grundlegender Bedürfnisse seiner Bürger zu sichern und Interessenskonflikte auszugleichen. Dabei verstehen wir Piraten den Staat als Dienstleister und nicht als normative Kraft. Die Achtung der Rechte und grundlegenden Bedürfnisse eines jeden muss Leitgedanke seines Handelns sein.
+
+Der Staat legitimiert sein Bestehen dadurch, dass er das Vertrauen seiner Bürger erwirbt und erhält. Dazu gehört, dass er diese proaktiv in der Wahrnehmung ihrer Rechte unterstützt und Hilfestellungen anbietet, und dass er die Verständlichkeit seiner Anliegen sicherstellt.
+
+Fehlende existentielle Sicherung, Chancengleichheit und mangelnde Möglichkeit zur Teilhabe gefährden den sozialen Frieden; die oft entwürdigende Behandlung durch offizielle Stellen schafft eine zunehmende Distanz zwischen Bürgern und Staat. Beides bedroht den Erhalt der freiheitlich-demokratischen Ordnung.
+
+## Arbeit muss geachtet werden, unabhängig davon, ob sie dem Erwerbszweck dient
+
+Die Piratenpartei Hessen setzt sich für eine Neudefinition des Begriffs "Arbeit" ein. Arbeit ist nach unserem Verständnis nicht nur gleichzusetzen mit Erwerbsarbeit; auch beispielsweise ehrenamtliche Betätigung, Dienst an der Familie oder kulturelles Schaffen – kurz: alles, was der Gesellschaft dient – ist als Arbeit zu sehen und verdient entsprechende Anerkennung. Jeder Mensch soll nach seinen Neigungen und Fähigkeiten arbeiten können.
+
+## Einhaltung von Mindeststandards im Einflussbereich der öffentlichen Hand
+
+Die Piratenpartei Hessen setzt sich dafür ein, dass Unternehmen im Einflussbereich der öffentlichen Hand folgende Mindeststandards in der Entlohnung ihrer Beschäftigten einhalten müssen:
+
+* die Bezahlung eines Mindestlohnes für jede Tätigkeit in einer Höhe, die bei einer Vollzeitbeschäftigung ein Einkommen jenseits der Armutsgrenze bedeuten würde
+
+* die gleiche Entlohnung gleichartiger Tätigkeiten, unabhängig davon, ob diese von Festangestellten oder Leiharbeitern, Männern oder Frauen ausgeführt werden
+
+* das Verbot des Einsatzes von Bürgerarbeit oder von 1-Euro-Jobs.
+
+Zu den betreffenden Unternehmen gehören solche im Besitz der öffentlichen Hand und Unternehmen der Privatwirtschaft, die Aufträge von dieser erhalten oder auf andere Art deren Nutznießer sind (z.B. durch Förderungen oder Vergünstigungen). Beauftragen die Unternehmen weitere Firmen, so müssen sie vertraglich sicherstellen, dass auch dort diese Bedingungen gelten.
+
+## Entlohnung von ALG I/II-Empfängern bei Leiharbeitsfirmen
+
+Die Piratenpartei Hessen setzt sich dafür ein, dass Empfänger von Entgeltersatzleistungen, die zur Eingliederung in den Arbeitsmarkt Leiharbeitsfirmen zugeführt werden, für gleiche Tätigkeiten die gleiche Entlohnung erhalten wie ein Festangestellter in den jeweiligen Betrieben. Ist das bei einer Leiharbeitsfirma nicht der Fall, dürfen bei Ablehnung durch den Arbeitssuchenden keine Sanktionen von den Jobcentern bzw. Optionskommunen angedroht oder verhängt werden.
+
 ## Qualifizierungsmaßnahmen von Arbeitssuchenden
 
 Die Piratenpartei Hessen setzt sich dafür ein, dass Erwerbslosen ein qualitativ hochwertiges Angebot an Möglichkeiten zur Aus- und Weiterbildung zur Verfügung gestellt wird. Diese müssen zu anerkannten Zertifikaten führen (z.B. VHS).
@@ -613,6 +643,34 @@ Die Piratenpartei Hessen setzt sich dafür ein, dass Erwerbslosen ein qualitativ
 Sämtliche Angebote müssen einer kontinuierlichen Qualitätsprüfung unterworfen werden.
 
 Angebote sollen von Erwerbslosen auf freiwilliger Basis und nach Absprache mit dem Sachbearbeiter wahrgenommen werden können.
+
+## Datenschutz und Sozialgeheimnis in Jobcentern
+
+Die Piratenpartei Hessen setzt sich dafür ein, dass Jobcenter und Optionskommunen in Hessen den Datenschutz und das Sozialgeheimnis ihrer "Kunden" strikt einhalten und alle Empfänger von Sozialleistungen über ihre diesbezüglichen Rechte aufklären.
+
+## Sozialticket für den ÖPNV
+
+Die Piratenpartei Hessen setzt sich für ein landesweit gültiges "Soziales Hessenticket" für den ÖPNV ein. Dieses Ticket soll für alle Menschen mit geringem Einkommen – auch für von Armut betroffene Kinder und Jugendliche – erhältlich sein. Unterste Bemessungsgrundlage soll der Betrag der jeweils aktuellen lokalen Armutsgrenze sein. Der Preis des Tickets muss unter dem im ALG II-Regelsatz vorgesehenen Betrag für Mobilität bleiben. Das Soziale Hessenticket soll bis zur Ablösung durch ein umlagenfinanziertes System bestehen.
+
+## Sozialberichte
+
+Die Piratenpartei Hessen setzt sich dafür ein, dass alle Kreise und alle Kommunen mit mehr als 20.000 Einwohnern regelmäßig eine eigene Sozialplanung und Sozialberichte veröffentlichen müssen. Diese müssen durch neutrale Instanzen erstellt werden und sollen – landesweit einheitlich – Daten zu allen sozialpolitisch relevanten Bevölkerungsgruppen sowie bezifferte Zielsetzungen für die folgenden Jahre enthalten.
+
+## Kinderbetreuung
+
+Die Piratenpartei Hessen setzt sich dafür ein, dass Angebote zur Kinderbetreuung kostenfrei und ausreichend zur Verfügung gestellt werden. Krippen-, Kita- und Kindergartenplätzen mit gleitenden Bring- und Abholzeiten müssen zügig ausgebaut werden. Lange Wartezeiten bezüglich eines ortsnahen Angebotes sind nicht hinnehmbar. Wir fordern einen garantierten, gut erreichbaren Platz mit qualifizierter Betreuung für jedes Kind im Vorschulalter. Darüber hinaus setzen wir uns für die Schaffung von Betreuungsplätzen in öffentlichen Einrichtungen (Ämtern, Behörden) und Wirtschaftsunternehmen ein.
+
+## Lastenumkehr zwischen Bürgern und Sozialbehörden
+
+Die Piratenpartei Hessen setzt sich für eine generelle Lastenumkehr ein zwischen Bürgern, die eine Sozialleistung beanspruchen, und Behörden, die diese Leistung erbringen. In strittigen Fällen sollen beantragte Leistungen grundsätzlich zunächst ausgezahlt werden. Wenn später festgestellt wird, dass der Anspruch darauf nicht bestand, kann das Geleistete zurückgefordert werden. Die Behörde hat eine Fürsorgepflicht, die Leistungsbeanspruchenden fachkundig darüber aufzuklären, wie weit ihr Anspruch rechtlich Bestand haben könnte. Ansprüche, auf deren mangelnde Berechtigung nicht bei Beantragung hingewiesen wurde, dürfen später nicht zurückgefordert werden.
+
+## Genereller Ausgleich für verzögerte Leistungen durch Sozialbehörden
+
+Die Piratenpartei Hessen setzt sich dafür ein, dass Sozialbehörden, wenn sie eine Leistung nicht in kurzer Zeit nach ihrer Beantragung, sondern mit Verzögerung erbringen, generell einen Ausgleichsbetrag zusätzlich zu der Leistung zahlen müssen. Dieser soll kompensieren, dass die Verzögerung eine Belastung für den Betroffenen bedeutet. Für Schäden, die durch Verzögerung entstanden sind, soll unabhängig davon zudem ein Schadensersatzanspruch bestehen.
+
+## Verständlichkeit behördlichen Handelns
+
+Soziale Hilfe ist in jedem Fall wichtiger als ihre Verwaltung. Die Piratenpartei Hessen setzt sich dafür ein, dass überall, wo Angaben abgefragt oder Informationen oder Bescheide gegeben werden, sichergestellt werden muss, dass alle Betroffenen alle gegebenen Informationen vollständig verstanden haben. Dokumente, deren Inhalt verstanden werden muss, um Ansprüche stellen oder eine rechtliche Position wahren zu können (z.B. Informationsschriften, Formulare), müssen so verfasst sein, dass alle Betroffenen sie selbstständig verstehen können. Alles muss in Einfacher Sprache abgefasst oder vollständig erläutert sein. Das gilt auch für Gesetzestexte, auf die Bezug genommen wird. Zudem sollen in allen Sozialbehörden Fachkräfte zur Verfügung stehen, die Menschen mit schlechter Lesekompetenz oder mit Sprachschwierigkeiten Hilfe zum Verständnis leisten. Bei allen Vorgängen, die ein Einverständnis von Betroffenen erfordern oder bei denen Informationen von diesen eingeholt werden sollen, müssen diese Fachkräfte ein Vetorecht haben, wenn sie den Eindruck haben, dass sich die Betroffenen über die Bedeutung des Vorganges nicht im Klaren sind.
 
 # Infrastruktur und öffentliche Gelder
 
