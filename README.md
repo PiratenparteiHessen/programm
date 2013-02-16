@@ -897,3 +897,70 @@ Die Piratenpartei Hessen setzt sich für eine Lockerung des Branntweinmonopols e
 Das Verbot, Anleitungen zum Bau von Destillationsanlagen sowie zum Destilliervorgang zugänglich zu machen, muss schnellstmöglich aufgehoben werden. Seine Realitätsferne beweist sich auch darin, dass das entsprechende Wissen im Rahmen des Chemieunterrichts ohnehin vermittelt wird.
 
 Ebenso setzen sich die PIRATEN dafür ein, Schnapsbrennseminare zu legalisieren, Zeitschriftenartikel über das Destillieren veröffentlichen zu dürfen, Anleitungsfilme verbreiten zu dürfen sowie zu Vorführungszwecken öffentlich destillieren zu dürfen.
+
+# Kulturpolitik
+
+Kultur ist Identität: alles, über das Individuen, Gemeinschaften und die gesamte Gesellschaft sich ihrer selbst versichern, Werte klären und entwickeln, ihre Kreativität ausprobieren und ausleben – all das, was über funktionale Lösungen für praktische Aufgaben hinausgeht. Dazu gehören die freien Künste ebenso wie Brauchtümer, die Gestaltung des Lebensumfeldes ebenso wie Philosophie.
+
+Kultur ist ein elementares Bedürfnis des Menschen, und ein vielfältiges Kulturleben ist das Aushängeschild einer freien Gesellschaft. Wir Piraten möchten ausdrücklich keinen Kulturbegriff vorgeben, sondern für eine Atmosphäre stehen, in der Kreativität, Alternativen und neue Ideen wachsen können. Keine Kulturform ist mehr oder weniger wert als eine andere; herkömmliche Kategorien wie Hochkultur, Subkultur oder Soziokultur lehnen wir ab. Kultur ist um ihrer selbst willen wichtig – und nicht, weil sie für irgendetwas anderes gut ist, wie zum Beispiel für Tourismus, der Schaffung von Arbeitsplätzen oder als Statussymbol.
+
+Im Grunde war es die Kultur selbst, die den Anstoss zur Gründung der Piratenparteien auf der ganzen Welt gab. In Zeiten grundlegender kultureller Veränderung ist die Piratenpartei Speerspitze der Entwicklung. Wir treten für eine offene, vernetzte und für alle Menschen zugängliche Kultur ein.
+
+## Kultur als Pflichtaufgabe der Kommunen
+
+Wir Piraten setzen uns dafür ein, dass die Förderung des kulturellen Lebens in Hessen zu einer kommunalen Pflichtaufgabe wird.
+
+## Kultur in der Breite stärken
+
+Die Piratenpartei Hessen setzt sich dafür ein, dass das hessische Kulturleben in der Breite deutlich gestärkt wird. Die Möglichkeit zur Teilhabe aller an kulturellen Aktivitäten ist ein wichtiges Ziel für uns. Die aktuelle Kulturförderung in Hessen konzentriert sich sehr auf die etablierten, großen Institutionen und vernachlässigt die "Kultur für alle" – besonders im Vergleich zu anderen Bundesländern, denen gegenüber Hessen schon allgemein eine niedrige Kulturförderquote hat. Eine notwendige Erhöhung dieser Quote soll dabei vor allem der Sicherung und Unterstützung einer dynamischen Szene freier Kulturakteure ebenso wie der kulturellen Bildung zugute kommen.
+
+## Zugänglichkeit von Kultur – "Kulturtage" für alle
+
+Die Piratenpartei Hessen setzt sich dafür ein, dass Kultureinrichtungen, die der öffentlichen Hand gehören oder durch sie kontrolliert werden, mindestens teilweise ohne Eintritt zugänglich sind. Kultur muss für jeden Bürger erreichbar sein, unabhängig von seinem sozialen oder finanziellen Status.
+Es soll dafür regelmäßig "Kulturtage" geben – zum Beispiel einmal pro Woche –, an denen der Zugang zu Museen, Ausstellungen, Theatern und allen anderen Orten der öffentlichen Präsentation von Kultur freien Eintritt ohne Einschränkungen gewähren. Dies ermöglicht allen Bürgern die von uns geforderte Teilhabe an Kultur.
+
+## Transparenz und Entbürokratisierung bei Förderungen
+
+Die Piratenpartei Hessen setzt sich für transparente und weniger bürokratische Antragsverfahren bei der Vergabe von Kulturförderungen ein. Viele Kulturschaffende und freie Institutionen scheitern an übertrieben hohen Formalitäten bei deren Beantragung. Die Vereinfachung und Erleichterung von Antragsverfahren soll auch denen, die keine "professionellen Antragsschreiber" sind, erlauben, Fördermittel zu bekommen. Unser Ziel ist eine Kulturlandschaft, zu der ein breiteres Spektrum von Kulturschaffenden Zugang hat und Unterstützung bekommt.
+
+## Einrichtung von Kulturlotsen
+
+Die Piratenpartei Hessen setzt sich dafür ein, dass das Land Hessen ein Netzwerk von unabhängigen "Kulturlotsen" einrichtet. Diese sollen Kulturschaffenden etwa als Unterstützung im Umgang mit Behörden oder für die Raumsuche zur Seite stehen und sie bei bürokratischen und organisatorischen Notwendigkeiten entlasten. Auch bei der Antragsstellung auf Fördermittel können sie die Erfolgschancen verbessern. Das würde die Zeit und Konzentration der Kulturschaffenden für das freihalten, was sie der Gesellschaft geben können: Kultur.
+
+## Open Access für Kulturgüter im Besitz der öffentlichen Hand
+
+Kulturgüter, die der öffentlichen Hand und damit den Bürgern gehören und die mit deren Mitteln aufbewahrt, gepflegt und präsentiert werden, müssen für die Bürger so frei wie möglich zugänglich und nutzbar sein. In jedem Fall sollen hochwertige Reproduktionen von ihnen im Internet frei verfügbar sein.
+
+## Zukunft für Bibliotheken und Mediatheken
+
+Bibliotheken und Mediatheken sind Zentren des öffentlichen Zugangs zu Wissen, Orte des Forschens, Lernens und der Inspiration. Sie bilden Tore zu analogen wie digitalen Welten, stellen eine wichtige Schnittstelle zwischen beiden dar und haben mit ihrer Fachkompetenz eine wichtige Beratungs- und Vermittlerfunktion bei der Informationsrecherche. Darüber hinaus sind sie auch soziale Räume, die als attraktive Treffpunkte für kulturelle Bildung für alle Generationen zur Verfügung stehen sollen.
+
+Die Piratenpartei Hessen setzt sich für den Ausbau öffentlicher Bibliotheken und Mediatheken und eine Erweiterung ihrer Aktivitäten ein. Ihre Funktion als Vermittler soll gestärkt und die Rolle der Bibliotheken als Anlaufstelle für die Informationsrecherche und -bereitstellung gefördert werden. Sie sollen noch umfangreicher verfügbar sein – auch und gerade in ländlichen Regionen. Zudem ist eine intensivere Vernetzung mit anderen Institutionen – Volkshochschulen, Theatern etc. – zu fördern.
+
+In den Beständen sollen bestehende Projekte zur Digitalisierung vorangetrieben und neue initiiert sowie die Zugänglichkeit der gewonnenen Daten verbessert werden. Bibliotheken und Mediatheken sollen z.B. durch die Förderung von Programmen zur Lese- und Medienkompetenz Zentren kultureller Bildung werden und den Umgang mit Informationsressourcen sowie Kreativität jenseits von Verwertbarkeit fördern.
+
+## Film- und Kinoförderung
+
+Die regionale Filmförderung ist weiter auszubauen, mit besonderen Akzenten auf digitaler Filmproduktion, Dokumentarfilmen und Nachwuchsförderung. Programmkinos müssen ebenso gefördert und in ihrer Existenz gesichert werden wie Theater.
+
+## Reform der Theaterförderung in Hessen
+
+Die Piratenpartei Hessen setzt sich für eine grundlegende Reform der hessischen Theaterförderung ein. Alle Akteure, ob feste Ensembles oder freie Gruppen, müssen gleichermaßen gute Bedingungen für ihre Projekte erhalten. Vorhandene Häuser und Institutionen sollen als möglichst frei verfügbare Ressourcen betrachtet werden.
+
+## Bürgernaher Denkmalschutz
+
+Die Piratenpartei Hessen setzt sich für eine grundlegende Reform des Denkmalschutzes in Hessen ein. Die Aufnahme und das Halten von Gebäuden und Teilen davon in Denkmallisten oder Denkmalbüchern ist viel mehr als bisher in Bezug auf ihre Repräsentativität und Seltenheit im größeren regionalen Zusammenhang zu bestimmen. Zudem soll der Erhalt eines unbeeinträchtigten größeren Gesamtbildes (Ensemble, Straßenbild) bzw. die Stellung eines Objektes in einem solchen ein viel größeres Gewicht für die Einstufung einzelner Objekte haben.
+
+Eine Streichung aus Denkmallisten oder -büchern soll nach diesen Kriterien deutlich erleichtert werden. Im Gegenzug sollen für die verbleibenden Objekte alle aufgrund des Denkmal-Status' anfallenden Mehrkosten von der öffentlichen Hand übernommen werden. Maßnahmen zur Bewahrung der Denkmäler in Fällen von Vernachlässigung sollen früher getroffen werden können und bei entsprechendem Ausgleich für Beeinträchtigungen entschiedener durchgesetzt werden.
+
+Die Zugänglichkeit von Denkmälern für die Öffentlichkeit ist zu stärken. Das Fotografieren und Filmen und andere Formen bildlicher Reproduktion durch jedermann sollen grundsätzlich, unentgeltlich und ohne explizite Genehmigungen gestattet und die Nutzung der dabei entstandenen Abbildungen und Reproduktionen für nicht-kommerzielle Zwecke frei möglich sein, sofern dem nicht andere Rechte zwingend entgegenstehen.
+
+## Förderung von Spielen als Kulturgut
+
+Die Piraten erkennen den Vorgang des Spielens als wichtigen Beitrag zur gesellschaftlichen und kulturellen Entwicklung an. Video- und Computerspiele ebenso wie klassische Brett- oder Kartenspiele, Rollenspiele oder sportliche Spielformen sind Kulturgüter und sollten als solche anerkannt und gefördert werden.
+
+## Aufnahme- und Abbildungsrechte für Kulturgüter im Besitz der öffentlichen Hand
+
+Foto-, Film- und Tonaufnahmen und andere Formen der Reproduktion von Kulturgütern und Veranstaltungen, die der öffentlichen Hand gehören oder von dieser finanziert werden, sollen grundsätzlich durch jedermann, unentgeltlich und ohne explizite Genehmigungen gestattet sein. Sind Einschränkungen unvermeidlich, dürfen in der Abwägung dennoch die Bedürfnisse der Nutzer nicht außer Acht gelassen werden. Die Nutzung dieser Reproduktionen soll für nicht-kommerzielle Zwecke grundsätzlich erlaubt sein.
+
+Die Förderung von privaten Institutionen, die Kunstwerke und andere Kulturgüter präsentieren, soll an die Einhaltung dieser Bedingungen durch diese Institutionen gekoppelt werden.
