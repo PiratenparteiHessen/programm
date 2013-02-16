@@ -43,10 +43,6 @@ Die Sicherung des Fernmeldegeheimnisses ist ein wichtiger Grundpfeiler zum Erhal
 
 Die Vorratsdatenspeicherung in der derzeit beschlossenen Form muss ersatzlos gestrichen werden, da diese ein eklatanter Verstoß gegenüber Artikel 10 GG darstellt, in dem systematisch und unter der Annahme einer Kollektivschuld aller an der öffentlich zugänglichen Telekommunikation beteiligter Bürger ausgegangen wird. Auch die Umstände der Telekommunikation sind nach den Leitsätzen im Urteil BvR 1611/96 des Bundesverfassungsgerichtes von Artikel 10 GG geschützt.
 
-## Keine Quellen-TKÜ ("Staatstrojaner")
-
-Die hessischen Piraten lehnen einen Einsatz von Software zur so genannten Quellen-TKÜ grundsätzlich ab. Der Einsatz solcher Software hat bislang in wiederholten Fällen zu erheblichen Gesetzesverletzungen durch die Ermittlungsbehörden geführt. Demgegenüber erkennen die hessischen Piraten keinen Anlass, zu solchen Ermittlungsmethoden zu greifen. 
-
 ## Datensicherheit und Wahrung der Privatsphäre
 
 Zur Gewährleistung von Datensicherheit und Privatsphäre müssen unterstützende Technologien in besonderem Maße gefördert werden. Dazu sollen öffentliche Forschungsprojekte mit dem Ziel gestartet werden, solche Technologien zu entwickeln und einsetzbar zu gestalten. Die Informationsinfrastruktur muss von unabhängigen Fachleuten überprüft werden. 
