@@ -718,6 +718,12 @@ Sollte ein Rückkauf des UKGM nicht möglich sein oder einen unverhältnismäßi
 
 Ein Universitätsklinikum hat einen wichtigen gesellschaftlichen Versorgungsauftrag, an den - zu Recht - von allen Bürgern, insbesondere aber von Patienten und Mitarbeitern, hohe Ansprüche gestellt werden. Um diesem Anspruch gerecht werden zu können, hält der Landesverband Hessen der Piratenpartei Deutschland die öffentliche Trägerschaft von Universitätskliniken oder zumindest vertragliche Maßnahmen zur Gewährleistung der Qualität von Patientenversorgung sowie Forschung und Lehre für unabdingbar.
 
+## Keine Ökonomisierung des Gesundheitssystems
+
+Die Privatisierung von Klinikbetrieben, die sich in gemeinnütziger Trägerschaft befinden, wird von der Piratenpartei Hessen grundsätzlich abgelehnt. Kommunale Krankenhäuser sollen durch kompetente Führungskräfte gelenkt werden, deren Zielvorgabe neben wirtschaftlichen Belangen auch das Wohl der Patienten und die Zufriedenheit der Mitarbeiter sein muss. Sollen Teilbereiche an private Betreiber übertragen werden, so sind an einen solchen Prozess hohe Anforderungen bezüglich der Qualität der medizinischer Versorgung, der Situation der Belegschaft und der Mitsprache der Bürger zu stellen. Wir beurteilen die Krankenhaus-Verkäufe der Vergangenen Jahre (wie das Uniklinikum Gießen/Marburg und die Horst-Schmidt-Klinken in Wiesbaden) als gescheitert und werden uns für eine baldige Zurückführung in öffentliche Hand einsetzen.
+
+Wir setzen uns dafür ein, dass das Land Hessen auf Bundesebene Initiativen für ein gerechtes Gesundheitssystem, welche die finanzielle Ausstattung der Kliniken und Krankenhäuser langfristig sicherstellen, in den Bundesrat und in die Gesundheitskonferenz einbringt.
+
 # Integration und Inklusion
 
 ## Umsetzung der UN-Behindertenrechtskonvention
