@@ -275,6 +275,15 @@ Gesetze, Verordnungen, Satzungen und andere Rechtsnormen, die das Prinzip der Ni
 
 In begründeten Fällen kann die Nichtöffentlichkeit hergestellt werden. Dies ist entsprechend zu dokumentieren.
 
+### Öffentliche Sitzung des Gemeindevorstands
+
+Die Piratenpartei Hessen setzt sich dafür ein, dass der Gemeindevorstand in der Regel öffentlichen tagt. (§67 HGO)
+Anmerkung
+
+## Veröffentlichungen in kostenlosen Zeitungen und im Internet
+
+Die Piratenpartei Hessen setzt sich dafür ein, dass entgegen der gängigen Praxis die öffentlichen Bekanntmachungen der Gemeinden in mindestens einer örtlich verbreiteten, mindestens einmal wöchentlich erscheinenden kostenlosen Zeitung oder in einem Amtsblatt, sowie auf der Webseite der Gemeinde erfolgen.
+
 ## Korruptionsbekämpfung
 
 Die Piratenpartei Hessen setzt sich für eine verbesserte Korruptionsbekämpfung auch in hessischen Parlamenten ein. Das UN-Abkommen UNCAC (United Nations Convention against Corruption) ist in Hessen umzusetzen und eine weite Auslegung des Korruptionsbegriffs ist gesetzlich festzuschreiben. Für Korruption im strafrechtlichen Betrieb sind harte strafrechtliche Konsequenzen zu definieren.
@@ -344,6 +353,14 @@ Weiterführend sollen überregionale Begehren und Entscheide ermöglicht werden.
 Eine Grundsäule der Demokratie ist auch immer das Wahlrecht und die Frage, wem es gewährt wird. Junge Menschen interessieren sich wieder verstärkt für Politik und sind auch bereit, Verantwortung zu übernehmen. Wir wollen deshalb in Hessen auf Landes- und Kommunalebene das aktive Wahlalter auf 16 Jahre und das passive Wahlalter auf 18 Jahre absenken, wie es bereits in vielen anderen Bundesländern praktiziert wird. 
 
 Das Wahlrecht soll allen Einwohnern offen stehen. Wir werden deshalb alle nötigen Schritte unternehmen, einschließlich der Einleitung einer Bundesratsinitiative zur Änderung entsprechender Gesetze.
+
+### Erweiterte Befugnisse des Ausländerbeirats
+
+Die Piratenpartei Hessen setzt sich dafür ein, dass die Rechte und Befugnisse des Ausländerbeirats dergestalt erweitert werden, dass er zukünftig Einsicht in alle relevanten Sitzungsunterlagen erhält und auch die Gemeindevertretung und der Gemeindevorstand den Ausländerbeirat zu den Tagesordnungspunkten hören muss, die Interessen der ausländischen Einwohner berühren. Darüber hinaus soll die Gemeindevertretung dem Ausländerbeirat Antragsrechte geben können. (§88)
+
+### Implementierung des Jugendparlamentes
+
+Durch die Einrichten eines Jugendparlaments, dass mit den erforderlichen Mitteln, auch finanzieller Art, unterstützt wird, beabsichtigt die Piratenpartei in Hessen, die Rechte und Interessen von Kindern und Jugendlichen zu stärken und aktive politische Mitgestaltung für sie praktisch erlebbar zu machen. (§ 4c) Dabei orientiert sie sich in den Rechten und Befugnissen am Ausländerbeirat.
 
 ## Weniger Hürden
 
