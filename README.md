@@ -99,7 +99,11 @@ Der Landesverband Hessen der Piratenpartei lehnt die bestehende "Extremismusklau
 
 Die PIRATEN wertschätzen progressive, innovative und revolutionäre Ideen, die unsere freiheitlich-demokratische Gesellschaft voranbringen und der Verbreitung von menschenverachtenden Ideologien entgegenwirken wollen. Wir setzen uns daher gegen die Verwendung der "Extremismusklausel" ein.
 
-Durch die bürokratischen Hürden, die durch diese Klausel geschaffen werden, werden Menschen, die sich in Projekten gegen Rassismus, Faschismus, Antisemitismus, Antiziganismus, Fremdenfeindlichkeit, Nationalismus, Nationalsozialismus, Sexismus, Homophobie oder diktatorische Bestrebungen einsetzen, in ihrer politischen Arbeit unnötig blockiert. Die Unterstützungsbedingungen für solche Projekte müssen in diesem Sinne überarbeitet und verbessert werden. 
+Durch die bürokratischen Hürden, die durch diese Klausel geschaffen werden, werden Menschen, die sich in Projekten gegen Rassismus, Faschismus, Antisemitismus, Antiziganismus, Fremdenfeindlichkeit, Nationalismus, Nationalsozialismus, Sexismus, Homophobie oder diktatorische Bestrebungen einsetzen, in ihrer politischen Arbeit unnötig blockiert. Die Unterstützungsbedingungen für solche Projekte müssen in diesem Sinne überarbeitet und verbessert werden.
+
+## Drohneneinsätze in Hessen
+
+Die Piratenpartei Hessen spricht sich grundsätzlich gegen den Einsatz von Drohnen zum Zwecke der Überwachung durch die staatlichen Sicherheitsbehörden aus. Ein privater Einsatz von Drohnen mit Onboard Kameras, beispielweise durch Fotografen oder Demonstranten, ist unter Wahrung des Datenschutzes und des Persönlichkeitsrechtes zu erlauben. Dem Einsatz von Drohnentechnologie bei der Gefährdung von Menschleben, z. B. durch Bergungs- oder Rettungspersonal, steht die Piratenpartei offen gegenüber. Regelungen hierfür sind klar zu definieren.
 
 # Bildung
 
