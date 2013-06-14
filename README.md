@@ -71,7 +71,7 @@ Onlinedurchsuchungen stellen zudem eine massive Bedrohung für die Sicherheit de
 
 ## Störerhaftung
 
-Die Piratenpartei Hessen setzt sich für eine Neuregelung der Störerhaftung im Bereich der Telekommunikation ein. Es sollen insbesondere die bestehende Rechtsunsicherheit beseitigt und das zur Verfügung stellen von Internetzugängen und Anonymisierungsdiensten durch Privatpersonen und als kostenloser Service für Kunden ohne unverhältismäßig hohem Aufwand und unkalkulierbare Risiken ermöglicht werden.
+Die Piratenpartei Hessen setzt sich für eine Neuregelung der Störerhaftung im Bereich der Telekommunikation ein. Es sollen insbesondere die bestehende Rechtsunsicherheit beseitigt und das zur Verfügung stellen von Internetzugängen und Anonymisierungsdiensten durch Privatpersonen und als kostenloser Service für Kunden ohne unverhältnismäßig hohem Aufwand und unkalkulierbare Risiken ermöglicht werden.
 
 ## Leistungsschutzrecht
 
@@ -119,7 +119,7 @@ Die Piratenpartei Hessen setzt sich dafür ein, dass umfassende Anstrengungen zu
 
 ## Lobbyismus
 
-Lobbyarbeit kann einerseits die Wissensbasis zur Entscheidungsfindung erweitern, birgt aber andererseits die Gefahr der gewollten oder ungewollten Beeinflussung. Deshalb ist die Arbeit von und mit Interessensvertretern der verschiedenen gesellschaftlichen Gruppierungen jederzeit offen zu legen und zu dokumentieren.
+Lobbyarbeit kann einerseits die Wissensbasis zur Entscheidungsfindung erweitern, birgt aber andererseits die Gefahr der gewollten oder ungewollten Beeinflussung. Deshalb ist die Arbeit von und mit Interessenvertretern der verschiedenen gesellschaftlichen Gruppierungen jederzeit offen zu legen und zu dokumentieren.
 
 ### Lobbyistenregister
 
@@ -264,7 +264,7 @@ Im öffentlichen Schulwesen muss auch Raum sein für alternative Schulkonzepte w
 
 Schulen sollen den Lernenden zu Erfolgserlebnissen und nicht zur Erfahrung des Scheiterns verhelfen. Bewertungen von Lernenden müssen diese als Individuen würdigen und ihre Leistungen als Bestandteil und Ergebnis eines Entwicklungsprozesses unter verschiedenen Aspekten in den Blick nehmen. Sie sollen den Lernenden vorrangig als Rückmeldung über ihre Bildungsfortschritte dienen und nicht der interpersonellen Vergleichbarkeit. Daher soll die Wiederholung eines Schuljahres auch nur noch auf Antrag des Lernenden oder in der Grundschule auf Antrag der Eltern möglich sein.
 
-Die Piraten lehnen jede Form von technischer Überwachung von Schülern, egal ob durch Schultrojaner, überwachte Internet-Anbindungen oder in audio-visueller Form, ab.
+Die Piraten lehnen jede Form von technischer Überwachung von Schülern, egal ob durch Schultrojaner, überwachte Internet-Anbindungen oder in audiovisueller Form, ab.
 
 ## Inklusives Schulsystem
 
@@ -302,7 +302,7 @@ Ziele der Piratenpartei Hessen sind hier:
 - Potentielle Lehrkräfte sollen viel früher feststellen können, ob sie persönlich für den Unterricht von Kindern und Jugendlichen geeignet sind.
 - Angehende Lehrkräfte sollen noch besser pädagogisch und didaktisch auf den Unterricht vorbereitet werden
 - In der Praxis stehende Lehrkräfte sollen mit geeigneten Anreizen zur regelmäßigen Weiterbildung und Tätigkeit an verschiedenen Schulen motiviert werden
-- Allen Lehrkräften sollen ihre Stärken und Schwächen aufgezeigt sowie Weiterbildungs-und Entwicklungspotentiale erschlossen werden.
+- Allen Lehrkräften sollen ihre Stärken und Schwächen aufgezeigt sowie Weiterbildungs- und Entwicklungspotentiale erschlossen werden.
 - Das Verfallen in unreflektierte Verhaltens- und Reaktionsmuster sowie das Entstehen von Stress-Krankheiten und Burn Out soll vermieden werden.
 - Weiterbildungen, Schul- und Fachwechsel und Auszeiten sollen erleichtert und positiv unterstützt werden.
 
@@ -702,6 +702,18 @@ Wer sich einbürgern lässt, muss seine alte Staatsangehörigkeit nicht länger 
 
 Die Fristen und Bedingungen bis zu einem dauerhaft abgesicherten Aufenthaltsrecht und zur Chance einer Einbürgerung sind deutlich zu senken, besondere Anstrengungen der Migranten zu Spracherwerb und beruflicher Integration sind positiv zu unterstützen.
 
+## Flucht aufgrund der sexuellen und geschlechtlichen Identität ist als Asylgrund ernstzunehmen
+
+In vielen Staaten ist die Diskriminierung von Menschen aufgrund ihrer sexuellen oder geschlechtlichen Identität alltäglich, schränkt sie in ihrem täglichen Leben stark ein und zwingt sie zu einem Leben im Verborgenen.
+
+Für die Piratenpartei Hessen ist die freie Entfaltung und das Ausleben der geschlechtlichen und sexuellen Identität ein unantastbares Menschenrecht, das in einem demokratischen Staat unter besonderen Schutz gestellt werden muss.
+
+Menschen, die in Staaten leben, die dieses Menschenrecht missachten und deshalb zu einer Flucht aus ihren Herkunftsländern gezwungen werden, müssen diesen Schutz uneingeschränkt erhalten.
+
+Sobald ein Mensch in einem Staat aufgrund seiner Sexualität, die in der Bundesrepublik gelebt werden darf, verfolgt wird, ist ihm Asyl zu gewähren, ohne dass der Nachweis einer konkreten Verfolgung zu erbringen ist.
+
+Der politischen Verfolgung aufgrund der sexuellen oder geschlechtlichen Identität muss international entgegengewirkt werden. Auf nationaler Ebene ist eine Reform des Asylrechts in diese Richtung dringend und zeitnah notwendig, auch um international ein Zeichen gegen Diskriminierung und Menschenrechtsverletzungen zu setzen. Das Land Hessen sollte hier mit gutem Beispiel vorangehen.
+
 # Kultur- und Medienpolitik
 
 Kultur ist Identität: alles, über das Individuen, Gemeinschaften und die gesamte Gesellschaft sich ihrer selbst versichern, Werte klären und entwickeln, ihre Kreativität ausprobieren und ausleben – all das, was über funktionale Lösungen für praktische Aufgaben hinausgeht. Dazu gehören die freien Künste ebenso wie Brauchtümer, die Gestaltung des Lebensumfeldes ebenso wie Philosophie.
@@ -852,6 +864,10 @@ Die reflexartige Verbotshaltung und die Bevormundung der Verbraucher durch einze
 
 Um auf die Suchtgefahr bei bestimmten Medikamenten aufmerksam zu machen, müssen die Pharmahersteller in die Pflicht genommen werden. Wie bei Zigaretten üblich, sollten vereinheitlichte Warnhinweise auf die Medikamentenverpackungen aufgedruckt werden. Aus diesen muss hervorgehen, dass es sich bei dem Medikament um eine Arznei handelt, die ein Suchtrisiko birgt. Diese Warnhinweise sollen Patienten sensibilisieren und auf die Gefahr einer Sucht hinweisen. Der Grund: Die oft sehr versteckt in der Packungsbeilage beschriebenen Hinweise werden allzu leicht nicht wahrgenommen. Darüber hinaus könnte vom Apotheker bei der Ausgabe des Medikamentes ein Informationsblatt zum Thema "Suchtgefahren bei Medikamenten" angeboten werden. Dieses soll ein Angebot mit weiteren Informationen darstellen und Hilfe beim Auffinden von geeigneten Stellen für Hilfesuchende bieten.
 
+## Private Erzeugung von Genussmitteln
+
+Die Piratenpartei Hessen setzt sich für eine vollständige Legalisierung der privaten Erzeugung von Genussmitteln ein. Hierunter fallen zum Beispiel das Destillieren von Alkohol oder das Ziehen weiblicher Hanfpflanzen.
+
 # Gesundheit
 
 Die PIRATEN orientieren sich in ihren gesundheitspolitischen Positionen am Wohl der Patienten, ohne die Seite der Leistungserbringer und Dienstleister im Gesundheitswesen zu vernachlässigen. Dabei berücksichtigen wir, dass auch in der Gesundheitsversorgung jeder Euro nur einmal ausgegeben werden kann und daher kluges Haushalten mit den zur Verfügung stehenden Mitteln notwendig ist. Für uns zeichnet sich eine gute Gesundheitsversorgung durch ihren niedrigschwelligen Zugang aus, der allen Menschen in Deutschland eine zugewandte Behandlung nach aktuellem Stand der Erkenntnis ermöglicht.
@@ -862,7 +878,7 @@ Die Piratenpartei Hessen sieht die Trägervielfalt (öffentliche, freigemeinnüt
 
 Wir beurteilen die Privatisierungen von Krankenhäusern der vergangenen Jahre in Hessen (z.B. die Horst-Schmidt-Klinken in Wiesbaden) als gescheitert und werden uns für eine baldige Zurückführung in öffentliche Hand einsetzen. Wir setzen uns dafür ein, dass das Land Hessen auf Bundesebene Initiativen für ein gerechtes Gesundheitssystem, welche die finanzielle Ausstattung der Kliniken und Krankenhäuser langfristig sicherstellen, in den Bundesrat und in die Gesundheitskonferenz einbringt.
 
-## Universitätsklinikum Gießen und Marburg
+### Universitätsklinikum Gießen und Marburg
 
 Die Piratenpartei Hessen ist der Ansicht, dass die Privatisierung des Universitätsklinikums Gießen und Marburg (UKGM) als gescheitert zu betrachten ist, da entgegen ursprünglicher Versprechungen einer verbesserten Patientenversorgung sowie besseren Bedingungen für Forschung und Lehre, sich diese massiv verschlechtert haben.
 
