@@ -1145,7 +1145,7 @@ Wir befürworten die Einführung eines Verbandsklagerechtes für anerkannte Tier
 
 Wir befürworten eine schulische Ausbildung, welche die Lernenden befähigt, Mitverantwortung für die Erhaltung und den Schutz einer natürlichen Umwelt zu übernehmen. Der Tierschutz ist ein zentraler Bestandteil dieser Verantwortung und deshalb besonders förderungswürdig.
 
-##  Verbot der Wildtierhaltung in Zirkusbetrieben
+## Verbot der Wildtierhaltung in Zirkusbetrieben
 
 Wir setzen uns für ein Verbot der Wildtierhaltung in Zirkusbetrieben ein.
 
