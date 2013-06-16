@@ -11,7 +11,7 @@ Kultur und Bildung sind die besten Garanten für eine gefestigte Gesellschaftsst
 
 Die Piraten sind der noch jungen Tradition der digitalen Kommunikation verpflichtet, in deren basisdemokratischen Ausrichtung die Wurzeln der Partei liegen und mit deren selbstordnenden Prinzipien ihre Denkweise in weiten Teilen beschrieben ist.
 
-Aus diesem Hintergrund kommend verfügen die Piraten über sehr hohe Kompetenzen in den von ihnen vertretenen Themen. In anderen landespolitischen Themen, in denen keine ausdrückliche Expertise vorhanden ist, werden die Piraten Vorschläge von Bürgern und anderen Parteien unterstützen, sofern diese mit denunseren Grundsätzen vereinbar sind.
+Aus diesem Hintergrund kommend verfügen die Piraten über sehr hohe Kompetenzen in den von ihnen vertretenen Themen. In anderen landespolitischen Themen, in denen keine ausdrückliche Expertise vorhanden ist, werden die Piraten Vorschläge von Bürgern und anderen Parteien unterstützen, sofern diese mit unseren Grundsätzen vereinbar sind.
 
 Dabei vertreten die Piraten die Haltung, dass der einzelne Abgeordnete der Piraten vor allem seinem Gewissen und im Sinne der in der Präambel genannten Prinzipien dem Schutz der Würde des Menschen verpflichtet ist. Es wird zur Erzielung eines politischen Gewichtes und zur Stabilisierung von Mehrheiten ein Empfehlungsrahmen angestrebt, der aber den einzelnen Abgeordneten nicht von seiner Gewissensentscheidung entbinden kann und darf. Politischem Diskurs ist gegenüber parteipolitischem Druck der Vorrang einzuräumen.
 
